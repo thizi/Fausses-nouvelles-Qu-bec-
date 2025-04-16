@@ -1,0 +1,7 @@
+ID : 6.0
+Parti/Chef : Justin Trudeau (Parti Libéral)
+Date : 2019.0
+Affirmation : « Nous avons levé 87 avis d’ébullition d’eau dans les communautés autochtones. »
+Vérification : Vrai, mais incomplet (56 avis restaient en 2019).
+Source  : https://www.sac-isc.gc.ca/fra/1506514143353/1533317130660
+Catégorie : Environnement

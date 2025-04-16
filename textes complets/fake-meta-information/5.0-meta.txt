@@ -1,0 +1,7 @@
+ID : 5.0
+Parti/Chef : Justin Trudeau (Parti Libéral)
+Date : 2019.0
+Affirmation : « Nous avons les plus bas taux de chômage de l’histoire. »
+Vérification : Faux. Le taux de 5,6 % en 2018 était le plus bas depuis 1976, mais pas de l'histoire (2,2 % en 1946).
+Source  : https://www150.statcan.gc.ca/n1/pub/11-630-x/11-630-x2015006-eng.htm
+Catégorie : Économie

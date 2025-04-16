@@ -1,0 +1,7 @@
+ID : 4.0
+Parti/Chef : Parti conservateur (Poilievre)
+Date : 2023-03-10 00:00:00
+Affirmation : « L’inflation est causée par la Banque du Canada. »
+Vérification : Partiellement vrai : La Banque influence l'inflation, mais les chaînes d'approvisionnement et la guerre en Ukraine sont aussi en cause.
+Source  : https://www.banqueducanada.ca/
+Catégorie : Économie
