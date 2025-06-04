@@ -10,11 +10,11 @@ plt.rcParams['font.size'] = 12
 plt.rcParams['figure.figsize'] = (10, 6)
 
 # Créer un dossier pour sauvegarder les graphiques
-output_dir = r"C:\Users\doghm\Desktop\projet-infox\graphiques"
+output_dir = r"C:\Users\doghm\Desktop\projet-infox\graphiques\IA"
 os.makedirs(output_dir, exist_ok=True)
 
 # Chemin vers le fichier Excel
-fichier_excel = "analyse_langue.xlsx"
+fichier_excel = r"C:\Users\doghm\Desktop\projet-infox\IA.xlsx"
 
 
 # Charger le fichier Excel

@@ -1,0 +1,21 @@
+TF-IDF Results for contenu , type and theme:
+désinformation: 0.2788
+québec: 0.1518
+santé: 0.1401
+politique: 0.1187
+santé désinformation: 0.0894
+rumeur: 0.0819
+montréal: 0.0695
+contre: 0.0668
+covid: 0.0667
+a: 0.0652
+environnement: 0.0628
+théorie_du_complot: 0.0606
+19: 0.0601
+covid 19: 0.0601
+annonce: 0.0591
+faux: 0.0579
+vaccin: 0.0536
+troubles: 0.0415
+contre covid: 0.0395
+contre covid 19: 0.0395

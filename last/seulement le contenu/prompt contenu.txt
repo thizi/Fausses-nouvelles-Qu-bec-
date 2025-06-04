@@ -1,0 +1,9 @@
+I have an Excel file with 377 rows. It contains multiple columns, but I’m only interested in the column named contenu_de_l_info. This column contains false information (fake news) in French.
+
+Your task is to clean and rewrite each cell in that column to contain only the core false statement, without context, commentary, or descriptions like “a rumor that…”, “a post says…”, or “a video claims…”. The text should be rewritten to express the fake information directly, clearly, and succinctly.
+
+If a row already contains only the core false information, leave it unchanged. Keep the same order of rows (no reordering), and provide a new Excel file with just the cleaned contenu_de_l_info column (377 rows).
+
+Example:
+Original: "Publication TikTok/Instagram affirmant qu’un voleur d’organes aurait ciblé une femme par Tinder et qu’elle s’est réveillée opérée d’un rein à Québec."
+Modified: "Un voleur d’organes a ciblé une femme par Tinder et elle s’est réveillée opérée d’un rein à Québec."

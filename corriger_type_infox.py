@@ -6,27 +6,39 @@ def standardiser_type_infox(type_infox):
     type_infox = str(type_infox).strip().lower()
     
     # Dictionnaire de regroupement
+    # Dictionnaire de regroupement mis à jour
     categories = {
         "désinformation": ["désinformation", "infox", "désinformation santé", "désinformation science", 
-                           "infox politique", "infox scientifique", "infox santé", "infox économique", 
-                           "infox environnement", "infox technologie", "désinformation scientifique", 
-                           "infox médicale", "allégation erronée", "infox météo", "infox scolaire" , "mésinformation (politique)" , "désinformation" ,"mésinformation (rumeur)" , "mésinformation (politique)", "mésinformation (politiquement motivée)" ,"mésinformation"],
-        "théorie du complot": ["théorie du complot", "complot / infox", "infox conspiration"],
+                        "infox politique", "infox scientifique", "infox santé", "infox économique", 
+                        "infox environnement", "infox technologie", "désinformation scientifique", 
+                        "infox médicale", "allégation erronée", "infox météo", "infox scolaire", 
+                        "mésinformation (politique)", "mésinformation (rumeur)", 
+                        "mésinformation (politiquement motivée)", "mésinformation"],
+        
+        "théorie_du_complot": ["théorie du complot", "complot / infox", "infox conspiration"],
+        
         "rumeur": ["rumeur", "rumeur politique", "rumeur électorale", "rumeur savante", "rumeur mensongère", 
-                   "légende urbaine", "rumeur criminelle", "rumeur santé", "rumeur économique", 
-                   "rumeur financière", "rumeur scientifique", "rumeur urbaine", "rumeur antivax"],
+                "légende urbaine", "rumeur criminelle", "rumeur santé", "rumeur économique", 
+                "rumeur financière", "rumeur scientifique", "rumeur urbaine", "rumeur antivax"],
+        
         "canular": ["canular", "hoax", "canular / rumeur", "parodie / hoax", "canular visuel", 
                     "canular politique", "canular vidéo", "canular / hoax", "rumeur / hoax", 
                     "canular téléphonique", "canular sportif", "canular viral", "canular météorologique", 
                     "canular (photomontage)", "infox vidéo (canular)", "canular touristique", "hoax santé"],
+        
         "arnaque": ["arnaque", "arnaque financière", "arnaque en ligne", "arnaque / fraude", 
                     "escroquerie/infox", "arnaque commerciale", "arnaque pub / infox", "canular/escroquerie"],
+        
         "manipulation": ["manipulation", "manipulation visuelle", "manipulation médiatique", "deepfake", 
-                         "hoax / harcèlement"],
-        "satire": ["satire", "satire devenue virale", "infox parodique", "satire/canular"],
-        "information partielle": ["information partielle", "information incomplète"],
-        "autre": ["mythe naturel", "alerte bidon", "information véridique"]
+                        "hoax / harcèlement"],
+        
+        # La catégorie "satire" est supprimée et son contenu est déplacé ici
+        "autre": ["mythe naturel", "alerte bidon", "information véridique", 
+                "satire", "satire devenue virale", "infox parodique", "satire/canular"],
+        
+        "information_partielle": ["information partielle", "information incomplète"]
     }
+
     
     # Vérifier à quelle catégorie appartient le type
     for categorie, termes in categories.items():
@@ -37,7 +49,7 @@ def standardiser_type_infox(type_infox):
     return "Autre"
 
 # Charger le fichier Excel
-fichier_excel = "infox_dates_corrigees.xlsx"
+fichier_excel = r"C:\Users\doghm\Desktop\projet-infox\last\alldata.xlsx"
 try:
     df = pd.read_excel(fichier_excel)
     print("Colonnes dans le fichier :", df.columns.tolist())
@@ -62,6 +74,6 @@ print("\nExemples de types après transformation :")
 print(df['type_d_infox'].head(10).to_list())
 
 # Enregistrer dans un nouveau fichier
-nouveau_fichier = "infox_types_corriges.xlsx"
+nouveau_fichier = r"C:\Users\doghm\Desktop\projet-infox\last\cleanData.xlsx"
 df.to_excel(nouveau_fichier, index=False)
 print(f"\nFichier '{nouveau_fichier}' créé avec les types d'infox corrigés.")
