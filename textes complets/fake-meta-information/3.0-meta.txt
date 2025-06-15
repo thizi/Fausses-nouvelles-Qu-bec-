@@ -1,7 +1,0 @@
-ID : 3.0
-Parti/Chef : Bloc Québécois (Blanchet)
-Date : 2021-09-25 00:00:00
-Affirmation : « Le Québec finance les provinces pétrolières via la péréquation. »
-Vérification : Trompeur : La péréquation vient du Trésor fédéral (impôts nationaux). Le Québec reçoit 13,3 G$ en 2023. [Finances Canada]
-Source  : nan
-Catégorie : Fédéralisme

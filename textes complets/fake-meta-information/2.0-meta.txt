@@ -1,7 +1,0 @@
-ID : 2.0
-Parti/Chef : NPD (Singh)
-Date : 2021-09-22 00:00:00
-Affirmation : « Les milliardaires ne paient pas leur juste part d’impôts. »
-Vérification : Nuancé : Taux effectif moyen des 1 % = 30,8 % (2020), mais optimisation fiscale courante. [Rapport du PDG 2022]
-Source  : https://www.budget.gc.ca/
-Catégorie : Fiscalité

@@ -1,7 +1,0 @@
-ID : 1.0
-Parti/Chef : Parti conservateur (Poilievre)
-Date : 2021-09-15 00:00:00
-Affirmation : « Le Canada a le pire bilan carbone du G7. »
-Vérification : Faux : Le Canada est 2e (derrière les États-Unis). Émissions/habitant : 14,2 t (Canada) vs 14,6 t (É-U). [Rapport 2021]
-Source  : https://www.canada.ca/fr/environnement-changement-climatique/services/indicateurs-environnementaux/emissions-gaz-effet-serre.html
-Catégorie : Environnement
