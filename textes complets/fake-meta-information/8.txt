@@ -8,7 +8,7 @@ Autres
 Twitter/X
 Québec (province)
 Vidéo
-FAUX
+False
 Radio-Canada
 https://ici.radio-canada.ca/nouvelle/1005001/tornado-hoax-laval
 Modéré

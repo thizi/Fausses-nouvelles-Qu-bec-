@@ -1,15 +1,15 @@
 227
-22/10/2019
-Fausse nouvelle du ""Buffalo Chronicle"" affirmant que Justin Trudeau allait démissionner avant l'élection en raison d'un scandale.
+19/06/2023
+ Justin Trudeau fait l’objet d’une enquête de la (Gendarmerie royale du Canada).
 Désinformation
-Politique
-Influencer le résultat de l'élection
-Électeurs canadiens
-Sites de fausses nouvelles
+politique 
+Désinformation
+grand publique 
+facebook
 Canada
-Texte
-FAUX
-Radio-Canada
-https://ici.radio-canada.ca/nouvelle/1356842/mensonges-campagne-electorale-federale-canada
-Modéré
-ANG
+texte
+False
+facebook
+https://www.facebook.com/watch/?v=1013989319977827
+Élevé
+FR

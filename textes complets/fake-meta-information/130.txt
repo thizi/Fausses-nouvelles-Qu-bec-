@@ -1,15 +1,15 @@
 130
-01/01/2025
-Une épidémie de fièvre Ebola frappe les hôpitaux de Montréal.
-Arnaque
-Escroquerie en ligne
-Fraude financière
-Consommateurs/Investisseurs
+11/02/2015
+Un faux message annonce l’interdiction des parapentes au Québec.
+Rumeur
+Faits divers
+Provoquer l’émotion et la viralité du message
+Parents
 Facebook
 Québec (province)
-Publication sur réseau social
-FAUX
-TVA Nouvelles
-https://www.facebook.com/profile.php?id=100088589266813
-Élevé
+Texte
+False
+EnBeauce
+https://www.enbeauce.com/actualites/faits-divers/211629/en-bref-une-fausse-rumeur-denlevement-a-saint-georges-circule-sur-facebook
+Modéré
 FR

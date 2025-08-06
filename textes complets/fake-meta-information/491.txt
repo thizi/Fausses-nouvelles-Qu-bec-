@@ -1,15 +1,15 @@
 491
-07/04/2020
-Des cartes à puce sont insérées dans les aliments vendus dans les restaurants de Laval.
-Désinformation
-technologie/faits divers
-effrayer sur la surveillance numérique
-Consommateurs/Investisseurs
-Facebook
+2020-2023
+Les vaccins contre la COVID-19 modifient l'ADN et contiennent des micropuces pour nous surveiller.
+Théorie du complot sanitaire
+Santé/médecine
+Alimenter la peur des vaccins
+Anti-vaccins
+Réseaux sociaux
 Québec (province)
-texte
-FAUX
-AFP Factuel
-https://factuel.afp.com/non-cet-homme-ne-peut-tuer-des-moustiques-grace-a-ses-flatulences
-Faible
+Vidéos virales
+False
+Immunize Canada
+https://www.immunize.ca/sites/default/files/Resource%20and%20Product%20Uploads%20(PDFs)/COVID-19/covid19_myths_factsheet_web_f.pdf
+Très élevé
 FR

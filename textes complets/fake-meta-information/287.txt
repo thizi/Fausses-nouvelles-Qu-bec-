@@ -1,15 +1,15 @@
 287
-22/05/2021
-Un groupuscule politique réclame la privatisation complète des services de santé du Québec.
-Désinformation
-politique/santé
-diffuser une désinformation gouvernementale
-Autres
+20/06/2020
+Le virus de la COVID-19 a été créé dans un laboratoire chinois à Wuhan.
+Théorie_du_complot
+Santé
+Politique, xénophobe
+Grand public
 Facebook
 Québec (province)
-texte
-FAUX
-Radio-Canada
-https://ici.radio-canada.ca/nouvelle/1865432/groupuscule-sante-privatisation
+Vidéo
+False
+TVA Nouvelles
+https://www.tvanouvelles.ca/2020/06/20/7-faussetes-repandues-sur-la-covid-19
 Modéré
 FR

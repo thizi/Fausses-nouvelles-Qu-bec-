@@ -1,15 +1,15 @@
 53
-01/04/2020
-Le prix de l'essence est tombé à 41
-Désinformation
-Économie
-Créer la confusion
-Autres
+07/03/2024
+Le gouvernement du Québec impose une taxe sur les chiens de plus de 10 kg.
+Rumeur
+économie
+sensationnalisme
+Grand public
 Facebook
 Québec (province)
-image
-MANIPULÉ
-La Presse
-https://www.lapresse.ca/actualites/covid-19/2020-04-05/pandemie-de-fausses-nouvelles
-Modéré
+texte
+False
+TVA Nouvelles
+https://www.tvanouvelles.ca/2024/03/07/fausse-nouvelle-je-ne-peux-pas-croire-quil-soit-parti:contentReference[oaicite:22]{index=22}
+Faible
 FR

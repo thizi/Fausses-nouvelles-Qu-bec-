@@ -1,15 +1,15 @@
 286
-02/11/2018
-Une loi interdit le port du hijab dans tous les espaces publics du Québec.
-Désinformation
-politique/religion
-créer une polémique identitaire
-Communautés spécifiques
-Twitter/X
+30/03/2019
+Un faux article annonce la découverte d’un remède miracle contre le Parkinson.
+Théorie_du_complot
+Santé
+Semer le doute sur les vaccins
+Antivaccins/Conspirationnistes
+Facebook
 Québec (province)
-texte
-FAUX
-Radio-Canada
-https://ici.radio-canada.ca/nouvelle/1813833/legault-decret-islam-hijab-factuel
-Élevé
+Texte
+False
+Journal de Québec
+https://www.journaldequebec.com/2020/06/20/le-virus-des-fausses-nouvelles-internet-est-devenu-un-veritable-far-west-en-temps-de-pandemie
+Faible
 FR

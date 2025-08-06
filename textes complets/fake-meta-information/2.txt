@@ -8,7 +8,7 @@ Personnes attendant un colis.
 SMS
 Canada
 Message texte frauduleux.
-Arnaque
+False
 Postes Canada
 https://www.canadapost-postescanada.ca/scp/fr/soutien/sujet/exigences-douanieres/droits-taxes-et-exemptions-de-douane.page
 Élevé

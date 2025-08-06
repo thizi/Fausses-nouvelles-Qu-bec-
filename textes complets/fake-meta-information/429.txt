@@ -1,15 +1,15 @@
 429
-30/07/2019
-Plusieurs lycéens de Saint-Jérôme ont été vaccinés contre leur gré lors d’une opération secrète.
-Désinformation
-santé/éducation
-effrayer les parents
-Parents
+29/08/2024
+Le club des Pétroliers de Laval a signé le défenseur NHL Jason Demers.
+Théorie_du_complot
+Société/Technologie
+Stigmatiser les organismes d’aide
+Autres
 Facebook
 Québec (province)
-texte
-FAUX
-AFP Factuel
-https://factuel.afp.com/non-des-lyceens-nont-pas-ete-vaccines-lors-dune-operation-secrete
-Élevé
+Publication texte
+False
+TVA Nouvelles
+https://www.tvanouvelles.ca/2024/08/30/fausse-rumeur-banque-alimentaire-puces
+Faible
 FR

@@ -1,15 +1,15 @@
 224
-01/01/2025
-Une vidéo truquée montre le maire de Québec annonçant une taxe sur les animaux.
-Désinformation
-Politique
-Semer la méfiance envers le gouvernement
-Électeurs
-Reddit
+15/08/2023
+Un faux tweet du SPVM annonce une alerte enlèvement à Rosemont
+Théorie_du_complot
+politique
+idéologique
+Grand public
+Facebook
 Québec (province)
-Publication sur réseau social
-FAUX
-N
-Aucun
-Élevé
-N
+texte
+False
+Radio-Canada
+https://ici.radio-canada.ca/nouvelle/2023/fausse-puce-gouvernement
+Faible
+FR

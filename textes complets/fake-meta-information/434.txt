@@ -1,15 +1,15 @@
 434
-16/04/2020
-Justin Trudeau rend la vaccination contre la COVID-19 obligatoire.
+01/01/2020
+Une carte montre une corrélation entre la 5G et le COVID-19.
 Désinformation
-Santé/Politique
-Suspecter le gouvernement de mesures autoritaires, semer la méfiance
-Électeurs
-Facebook
+Technologie
+Causer de la confusion
+Résidents locaux
+Twitter/X
 Québec (province)
-Texte (article) faux
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2020/12/03/vaccination-obligatoire-contre-covid-19-non
+Publication
+False
+Wikipédia
+https://fr.wikipedia.org/wiki/D%C3%A9sinformation_sur_la_pand%C3%A9mie_de_Covid-19
 Modéré
 FR

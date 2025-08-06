@@ -1,15 +1,15 @@
 199
-18/04/2025
-Une citation attribuée à Pierre Poilievre félicitant Donald Trump pour son élection est diffusée en ligne, bien qu'il n'ait jamais prononcé ces mots.
-Citation fabriquée
+01/03/2025
+Une vague de contenus générés par IA (mèmes
+Désinformation
 Politique
-Délégitimer un politicien
-Électeurs canadiens
-Réseaux sociaux
+manipuler l’opinion publique, campagne de crypto-scams dissimulés
+Électeurs
+Facebook
 Canada
-Texte
+posts, vidéos deepfake, faux sites d’info
 False
-AFP Fact Check
-https://factcheck.afp.com/doc.afp.com.42ZL9WD
-Modéré
+Media Ecosystem Observatory
+https://www.bnnbloomberg.ca/federal-election-2025/2025/04/25/it-feels-dystopian-ai-generated-content-about-election-flooded-online-news-void/#:~:text=AI,of%20politicians%20talking%2C%20Bridgman%20said
+Élevé
 ANG

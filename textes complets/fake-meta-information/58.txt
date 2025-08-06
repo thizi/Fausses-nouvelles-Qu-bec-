@@ -1,15 +1,15 @@
 58
-18/03/2024
-Une vidéo truquée montre Justin Trudeau admettant un complot mondial.
-Arnaque
+15/03/2022
+Le vaccin contre la COVID-19 contient des œufs de vers parasites.
+Rumeur
 économie
-fraude crypto
-Grand public
+idéologique / dénonciation
+Consommateurs/Investisseurs
 Facebook
 Québec (province)
-image/texte
-FAUX
-Journal de Montréal
-https://www.journaldemontreal.com/2024/03/18/identite-usurpee-sur-facebook-marie-claude-barrette-poursuit-meta:contentReference[oaicite:29]{index=29}:contentReference[oaicite:30]{index=30}
+texte
+False
+Agence Science-Presse
+https://www.sciencepresse.qc.ca/actualite/2022/03/hydro-quebec-profits-secrets
 N
 FR

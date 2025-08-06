@@ -1,15 +1,15 @@
 68
-19/03/2025
-Tension entre le Canada et les Etats-Unis : les Tesla sont interdites
-désinformation 
-économie, technologie 
-économie, technologie 
-grand public 
-Facebook 
-canada
-image,  texte
-faux
-Afp factuel
-https://factuel.afp.com/doc.afp.com.372V2MP 
-Élevé 
-FR/ANG
+22/04/2023
+Une vidéo truquée montre Justin Trudeau annonçant une taxe sur les pensées.
+Canular
+Éducation
+Humour
+Parents
+Facebook
+Québec (province)
+Publication texte
+False
+TVA Nouvelles
+https://www.tvanouvelles.ca/2023/04/23/blague-bunker-ecole
+Faible
+FR

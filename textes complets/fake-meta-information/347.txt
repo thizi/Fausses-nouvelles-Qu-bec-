@@ -1,15 +1,15 @@
 347
-09/09/2021
-Malaka Rizkalla
+15/09/2020
+Une adolescente de 15 ans est morte d’une crise cardiaque post-vaccinale à Montréal.
 Désinformation
-Santé
-effrayer le public contre les vaccins (idéologique)
-Grand public
-Facebook
+santé (COVID-19)
+soutenir le scepticisme envers la vaccination
+Autres
+WhatsApp
 Québec (province)
-image+texte
-FAUX
-TVA Nouvelles
-https://www.journaldemontreal.com/2021/11/06/lorigine-dune-terrible-fausse-nouvelle#:~:text=Image%3A%20Claude%20%C2%ABLa%20mort%20post,Rizkalla%2C%2015%20ans%2C%20%C3%A0%20Montr%C3%A9al%C2%BB
-Faible
+texte
+False
+Agence Science-Presse
+https://www.sciencepresse.qc.ca/detecteur-rumeurs
+Modéré
 FR

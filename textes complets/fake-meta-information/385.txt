@@ -1,15 +1,15 @@
 385
-15/09/2020
-Les centres de vaccination contre la COVID-19 distribuent des doses invalides.
-Désinformation
-santé (COVID-19)
-soutenir le scepticisme envers la vaccination
-Autres
-WhatsApp
+09/09/2023
+Plusieurs lycéens de Saint-Jérôme ont été vaccinés contre leur gré lors d’une opération secrète.
+Canular
+Santé/Consommation
+Arnaquer financièrement
+Seniors
+Facebook
 Québec (province)
-texte
-FAUX
+Publication texte
+False
 Agence Science-Presse
-https://www.sciencepresse.qc.ca/detecteur-rumeurs
-Modéré
+https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/huile-miracle-alzheimer
+Élevé
 FR

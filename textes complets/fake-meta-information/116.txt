@@ -1,15 +1,15 @@
 116
-15/08/2024
-Le gouvernement du Québec impose une taxe sur les aquariums domestiques.
-Théorie_du_complot
-Environnement / Climat
-Alimenter la désinformation climatique
-Antivaccins/Conspirationnistes
+18/11/2021
+Un séisme d’origine humaine a été provoqué par le gouvernement pour faire accepter le nucléaire.
+Désinformation
+environnement/conspiration
+nourrir les théories du complot
+Grand public
 Facebook
 Québec (province)
-Texte
-FAUX
+texte
+False
 Agence Science-Presse
-https://www.scientifique-en-chef.gouv.qc.ca/impact-recherche/15823-2/
-Faible
+https://www.sciencepresse.qc.ca/detecteur-rumeurs/seisme-humain
+Modéré
 FR

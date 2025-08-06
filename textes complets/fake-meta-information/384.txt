@@ -1,15 +1,15 @@
 384
-06/11/2021
-Une élève de l’école Louis-Riel à Montréal est morte d’une crise cardiaque suite au vaccin COVID-19.
-Rumeur
-Santé (COVID-19)
-Discréditer la vaccination, susciter la peur
+05/11/2021
+Faux communiqué attribué à la Ville de Montréal annonçant un confinement total et la fermeture des ponts.
+Désinformation
+Santé publique / Vaccination
+Alimenter la peur du vaccin COVID-19
 Parents
-Facebook
+Blogs/Forums
 Québec (province)
-Publication sur réseaux sociaux
-FAUX
-TVA Nouvelles
-https://www.tvanouvelles.ca/2021/11/06/lorigine-dune-terrible-fausse-nouvelle-1#:~:text=Dans%20une%20vid%C3%A9o%20en%20direct,de%20la%20vaccination%20dans%20l%E2%80%99%C3%A9tablissement
-Élevé
+texte (blog)
+False
+Journal de Montréal
+https://www.journaldemontreal.com/2021/11/05/derriere-la-fausse-nouvelle-qui-a-offusque-le-quebec:contentReference[oaicite:23]{index=23}
+N
 FR

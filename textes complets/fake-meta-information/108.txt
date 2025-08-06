@@ -1,15 +1,15 @@
 108
-N
-Mark Carney annonce l’interdiction de toutes les voitures fabriquées avant 2000.
+28/02/2025
+Une usine à Trois-Rivières déverse des produits chimiques dans le Saint-Laurent.
 Désinformation
-Environnement
-Sensationnalisme/ingérence politique (semer la panique autour des politiques environnementales)
-Internautes
-TikTok
+environnement
+sensationnalisme
+Grand public
+Blogs/Forums
 Québec (province)
-Vidéo
-FAUX
-CityNews Montréal
-https://montreal.citynews.ca/2025/05/09/mark-carney-deepfake-how-to-spot-fake-videos/#:~:text=He%20didn%E2%80%99t%20say%20it%2C%20but,internet%20sure%20thinks%20he%20did
-Élevé
-ANG
+texte
+False
+Agence Science-Presse
+https://www.scientifique-en-chef.gouv.qc.ca/research-impact/lasteroide-2024-yr4-est-plus-preoccupant-que-les-autres-vrai:contentReference[oaicite:38]{index=38}
+Faible
+FR

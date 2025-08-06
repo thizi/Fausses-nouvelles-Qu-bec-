@@ -1,15 +1,15 @@
 452
-07/03/2024
-Les immigrants reçoivent 3000 $ par mois du gouvernement québécois.
-Canular
-sécurité
-vol d’accès, ransom
-Autres
-Facebook
+15/06/2023
+100% du problème de logement au Québec provient uniquement de l'augmentation des immigrants temporaires selon François Legault
+Fausse statistique
+Asile/Immigration
+Désigner un bouc émissaire
+Grand public
+Médias traditionnels
 Québec (province)
-image/texte
-FAUX
-Journal de Montréal
-https://www.journaldemontreal.com/2024/03/07/arnaque-facebook-je-narrive-pas-a-croire-quil-est-parti:contentReference[oaicite:12]{index=12}:contentReference[oaicite:13]{index=13}
-N
+Déclaration publique
+False
+IRIS Institut
+https://iris-recherche.qc.ca/blogue/immigration/legault-immigration-bouc-emissaire/
+Élevé
 FR

@@ -1,15 +1,15 @@
 152
-28/08/2019
-Les immigrants envahissent le Québec et remplissent les écoles et services.
-Désinformation
+15/11/2018
+Les réfugiés au Canada recevraient plus d'aide financière que les retraités. Au lieu d’appliquer pour la pension de vieillesse au Canada a appliquez plutôt pour le statut de réfugié
+Désinformation économique
 Immigration
-Stigmatiser l’immigration
-Grand public
-Facebook
-Québec (province)
+Susciter l'indignation
+Population générale
+Réseaux sociaux
+Canada
 Texte
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2019/08/28/six-mythes-immigration#:~:text=Pour%20toute%20l%E2%80%99ann%C3%A9e%202018%2C%2051%C2%A0118%C2%A0immigrants,2016
-Faible
+False
+AFP Factuel
+https://factuel.afp.com/non-les-refugies-au-canada-ne-recoivent-pas-plus-daide-que-les-retraites
+Élevé
 FR

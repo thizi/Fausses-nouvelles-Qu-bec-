@@ -1,15 +1,15 @@
 221
-15/03/2020
-Le Québec sera placé sous confinement général
-Rumeur
-Politique
-Semer la panique
-Grand public
-WhatsApp
+15/04/2025
+Le vaccin contre la COVID-19 contient du venin de serpent.
+Désinformation
+politique
+déstabilisation électorale / escroquerie
+Électeurs
+Facebook
 Québec (province)
-Texte
-FAUX
-Wikipédia
-https://fr.wikipedia.org/wiki/D%C3%A9sinformation_sur_la_pand%C3%A9mie_de_Covid-19
-Modéré
+image/texte
+False
+Journal de Montréal
+https://www.journaldemontreal.com/2025/04/15/publicites-frauduleuses-sur-facebook-meta-autorise-des-fausses-nouvelles-sur-les-elections-canadiennes:contentReference[oaicite:7]{index=7}
+Élevé
 FR

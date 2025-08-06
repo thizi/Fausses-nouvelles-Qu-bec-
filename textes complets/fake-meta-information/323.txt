@@ -1,15 +1,15 @@
 323
-01/03/2020
-Les personnes de groupe sanguin O sont naturellement protégées contre la COVID-19.
-Désinformation
+02/04/2022
+La FDA a confirmé la présence d’oxyde de graphène dans les vaccins Pfizer
+Théorie_du_complot
 Santé
-Fausse sécurité
+augmenter la méfiance envers les vaccins (danger hypothétique toxique)
 Grand public
 Facebook
-Canada
+Québec (province)
 Texte
-TROMPEUR
-Wikipédia
-https://fr.wikipedia.org/wiki/D%C3%A9sinformation_sur_la_pand%C3%A9mie_de_Covid-19
-Modéré
-FR
+False
+Associated Press
+https://apnews.com/article/fact-check-fda-pfizer-document-vaccine-graphene-oxide-988165173107
+Élevé
+ANG

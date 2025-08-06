@@ -1,15 +1,15 @@
 83
-01/04/2023
-Des élèves de l’école Nicolas-Gatineau se prennent pour des chats et chiens en classe.
-Autre
-Éducation / Média local
-Provocation virale / buzz radio
+30/08/2020
+Les dossiers scolaires de tous les élèves sont hébergés sur un serveur américain sans consentement.
+Désinformation
+éducation/vie privée
+attiser la crainte sur la sécurité des données
 Parents
-Médias traditionnels
+Facebook
 Québec (province)
-audio/reportage
-FAUX
-TVA Nouvelles
-https://www.24heures.ca/2023/05/03/il-nexiste-pas-de-litiere-pour-chat-dans-les-ecoles-de-labitibi-témiscamingue:contentReference[oaicite:9]{index=9}
-N
+texte
+False
+Agence Science-Presse
+https://www.scientifique-en-chef.gouv.qc.ca/impact-recherche/data-scolaire
+Modéré
 FR

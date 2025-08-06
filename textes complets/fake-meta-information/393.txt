@@ -1,15 +1,15 @@
 393
-24/01/2025
-Une enquête révèle que de nombreux Canadiens croient à des informations de santé fausses ou trompeuses, telles que des remèdes non prouvés contre la COVID-19.
-Fausse information
-Santé publique
-Dissuader la vaccination
-Population générale
-Réseaux sociaux
-Canada
-Texte
+25/05/2020
+Un faux communiqué annonce l’interdiction des piscines privées au Québec.
+Désinformation
+Santé/Technologie
+Propager la méfiance antivaccinale
+Antivaccins/Conspirationnistes
+Facebook
+Québec (province)
+Vidéo
 False
-Science Presse
-https://www.sciencepresse.qc.ca/actualite/2025/01/24/canadiens-confrontes-desinformation-sante
-Élevé
+Agence Science-Presse
+https://www.ledevoir.com/societe/virus/580903/des-micropuces-dans-les-vaccins-pour-nous-suivre-a-la-trace-faux
+N
 FR

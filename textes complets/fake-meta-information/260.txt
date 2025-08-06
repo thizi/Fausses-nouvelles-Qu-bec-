@@ -1,15 +1,15 @@
 260
-28/04/2025
-Un réseau de trafic d’organes opère dans les cliniques de Montréal.
+05/11/2018
+La Caisse populaire de Saint-Jean-sur-Richelieu a financé le Parti Québécois à hauteur de plusieurs millions.
 Désinformation
-Politique / Élections
-Semer la confusion électorale
+politique/économie
+déstabiliser un parti politique
 Électeurs
-Twitter/X
+Facebook
 Québec (province)
-Image/Texte
-FAUX
-TVA Nouvelles
-https://www.tvanouvelles.ca/2025/04/28/fausses-nouvelles-non-le-vote-des-60-ans-et-plus-nest-pas-remis-a-demain
-Modéré
+texte
+False
+Radio-Canada
+https://ici.radio-canada.ca/nouvelle/1234567/rumeurs-pq-financement-caisse
+Faible
 FR

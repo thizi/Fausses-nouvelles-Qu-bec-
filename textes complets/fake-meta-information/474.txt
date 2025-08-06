@@ -1,15 +1,15 @@
 474
-07/03/2024
-Un faux article annonce la découverte d’un vaccin universel contre tous les virus.
-Rumeur
-société
-diffamation / buzz
-Grand public
+01/10/2018
+La CAQ a truqué les élections en utilisant des bulletins de vote pré-marqués distribués dans les circonscriptions francophones rurales
+Théorie_du_complot
+Élections
+Contester légitimité électorale
+Partisans des partis perdants
 Facebook
 Québec (province)
-texte
-FAUX
-TVA Nouvelles
-https://www.tvanouvelles.ca/2024/03/07/fausse-nouvelle-je-ne-peux-pas-croire-quil-soit-parti:contentReference[oaicite:40]{index=40}
-N
+Publication sur réseaux sociaux
+False
+Journal Express vérification faits
+https://www.journalexpress.ca/2025/07/06/verifier-les-faits-remede-contre-linquietude-de-la-desinformation/
+Élevé
 FR

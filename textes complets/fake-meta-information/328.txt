@@ -1,15 +1,15 @@
 328
-27/03/2020
-Les enfants sont immunisés contre la COVID-19 et ne peuvent pas la transmettre.
-Désinformation
+22/05/2022
+Le coronavirus frappe plus durement dans les zones couvertes par la 5G.
+Théorie_du_complot
 Santé
-Minimiser les risques
-Autres
+Blâmer la 5G pour la pandémie (
+Grand public
 Facebook
-Canada
-Texe
-FAUX
-Wikipédia
-https://fr.wikipedia.org/wiki/D%C3%A9sinformation_sur_la_pand%C3%A9mie_de_Covid-19
-Modéré
+Québec (province)
+Texte
+False
+Agence Science-Presse
+https://www.sciencepresse.qc.ca/actualite/covid-19-depister-desinfo/2020/05/22/virus-frappe-plus-fort-se-trouve-5g-faux#:~:text=Parmi%20les%20th%C3%A9ories%20qui%20associent,relation%20de%20cause%20%C3%A0%20effet
+Élevé
 FR

@@ -1,15 +1,15 @@
 127
-02/02/2018
-Une épidémie de cancer est liée à la venue des bateaux de croisière au Vieux-Québec.
-Désinformation
-environnement/santé
-créer la panique sanitaire
-Résidents locaux
-Facebook
+14/02/2023
+Une épidémie fictive de coqueluche frappe Québec.
+Rumeur
+Faits divers
+Ternir l’image de la police
+Internautes
+Reddit
 Québec (province)
-texte
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/detecteur-rumeurs/impact-croisiere-sante
+Publication texte
+False
+Radio-Canada
+https://ici.radio-canada.ca/nouvelle/1011001/reddeception
 Modéré
 FR

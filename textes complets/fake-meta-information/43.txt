@@ -1,15 +1,15 @@
 43
-07/03/2024
-Un faux message du SPVQ annonce une épidémie de rage à Québec.
-Canular
-culture
-diffamation / buzz
-Grand public
+13/07/2018
+Le Cirque du Soleil a fermé définitivement ses portes suite à un accident en coulisses.
+Désinformation
+culture/tourisme
+diffuser un scandale
+Autres
 Facebook
 Québec (province)
-texte/image
-FAUX
-TVA Nouvelles
-https://www.tvanouvelles.ca/2024/03/07/fausse-nouvelle-je-ne-peux-pas-croire-quil-soit-parti:contentReference[oaicite:20]{index=20}
-Élevé
+texte
+False
+Radio-Canada
+https://ici.radio-canada.ca/nouvelle/1526347/cirque-ferme-porte
+Faible
 FR

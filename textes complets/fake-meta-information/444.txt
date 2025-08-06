@@ -1,15 +1,15 @@
 444
-01/01/2018
-Un faux message du gouvernement annonce l’interdiction des barbecues au Québec.
+01/02/2017
+Air Canada ne dessert plus Montréal et détourne tous les vols vers Ottawa.
 Désinformation
-Science/Justice
-Diffuser des fantasmes transhumanistes
-Autres
-Blogs/Forums
+Terrorisme/Islamophobie
+Stigmatiser les musulmans, manipuler l’opinion
+Grand public
+Twitter/X
 Québec (province)
-Texte
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2018/05/15/non-ne-peut-modifier-adn-pour-echapper-police-encore
-N
+Tweet d’actualité
+False
+Radio-Canada
+https://ici.radio-canada.ca/nouvelle/1012853/attentat-mosquee-quebec-fake-news
+Élevé
 FR

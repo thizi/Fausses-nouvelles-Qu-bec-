@@ -1,15 +1,15 @@
 441
-N
-Le gouvernement du Québec impose une taxe sur les panneaux solaires.
+20/09/2017
+Des pirates informatiques peuvent extraire des données personnelles via le code QR du passeport vaccinal.
 Désinformation
-Satire
-Amuser ou tromper
-Grand public
-Autres
+technologie/santé
+créer la méfiance envers la 5G
+Résidents locaux
+Facebook
 Québec (province)
-Article satirique
-FAUX
-Exemplaire ULaval
-https://www.exemplaire.com.ulaval.ca/reportages/fausses-nouvelles-et-satires-quen-est-il-au-quebec/
-Faible
-ANG
+texte
+False
+Agence Science-Presse
+https://www.scientifique-en-chef.gouv.qc.ca/impact-recherche/chemtrails-faux/
+Modéré
+FR

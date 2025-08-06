@@ -1,15 +1,15 @@
 154
-29/08/2017
-Une distribution de chèques d’aide sociale pour migrants est prévue au Palais des congrès de Montréal.
+28/08/2019
+La majorité des immigrants sont des réfugiés et submergent le Québec.
 Désinformation
 Immigration
-Propager un sentiment d’injustice sociale
-Grand public
+Nourrir la peur de « l’envahissement »
+Autres
 Facebook
 Québec (province)
-Texte/image
-FAUX
-TVA Nouvelles
-https://www.tvanouvelles.ca/2017/08/29/la-distribution-de-cheques-annulee-au-palais-des-congres#:~:text=La%20distribution%20des%20ch%C3%A8ques%20d%27aide,annul%C3%A9e%2C%20a%20confirm%C3%A9%20TVA%20Nouvelles
-Faible
+Texte
+False
+Agence Science-Presse
+https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2019/08/28/six-mythes-immigration#:~:text=r%C3%A9fugi%C3%A9s%20%28incluant%20les%20demandeurs%20d%E2%80%99asile%29,Unis
+Élevé
 FR

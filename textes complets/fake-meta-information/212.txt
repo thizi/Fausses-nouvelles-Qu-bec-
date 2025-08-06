@@ -1,15 +1,15 @@
 212
-20/10/2019
-Une épidémie de dengue frappe les hôpitaux de Québec.
+22/10/2019
+Fausse nouvelle du Buffalo Chronicle affirmant que Justin Trudeau allait démissionner avant l'élection en raison d'un scandale.
 Désinformation
 Politique
-Discréditer un politicien
-Électeurs
-Autres
+Influencer le résultat de l'élection
+Électeurs canadiens
+Sites de fausses nouvelles
 Canada
-Article
-FAUX
-Journal de Montréal
-https://www.journaldemontreal.com/2019/10/20/un-producteur-de-fausses-nouvelles-a-marque-la-campagne-federale
-Élevé
-FR
+Texte
+False
+Radio-Canada
+https://ici.radio-canada.ca/nouvelle/1356842/mensonges-campagne-electorale-federale-canada
+Modéré
+ANG

@@ -8,7 +8,7 @@ Autres
 Twitter/X
 Québec (province)
 vidéo
-FAUX
+False
 Agence Science-Presse
 https://www.sciencepresse.qc.ca/actualite/2022/fausse-rumeur-drones-feux-foret
 Modéré

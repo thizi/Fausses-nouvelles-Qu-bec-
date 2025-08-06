@@ -1,15 +1,15 @@
 64
-15/03/2022
-Le vaccin contre la COVID-19 contient des œufs de vers parasites.
+22/03/2024
+Le gouvernement du Québec impose une taxe sur les serres domestiques.
 Rumeur
-économie
-idéologique / dénonciation
-Consommateurs/Investisseurs
-Facebook
+Économie/Finance
+Créer l’inquiétude économique
+Grand public
+Twitter/X
 Québec (province)
-texte
-TROMPEUR
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/actualite/2022/03/hydro-quebec-profits-secrets
-N
+Publication texte
+False
+Radio-Canada
+https://ici.radio-canada.ca/nouvelle/1004001/billet-100-faux-alarme
+Modéré
 FR

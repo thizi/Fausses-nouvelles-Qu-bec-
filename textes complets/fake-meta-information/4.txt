@@ -8,7 +8,7 @@ Tous les clients d'Hydro-Québec.
 SMS, courriel
 Canada (Québec)
 Faux message de remboursement.
-Arnaque
+False
 Hydro-Québec et radio canada
 https://www.hydroquebec.com/securite/prevention-fraude.html https://ici.radio-canada.ca/nouvelle/1260362/fraudeurs-messages-texte-hydro-quebec
 Très élevé

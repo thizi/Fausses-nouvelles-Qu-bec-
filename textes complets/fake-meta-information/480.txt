@@ -1,15 +1,15 @@
 480
-02/10/2023
-Le gouvernement du Québec impose une taxe sur les composteurs domestiques.
-Canular
-Société/Environnement
-Désinformer sur un événement météo
-Internautes
-Facebook
+2022
+Il serait suicidaire d'accueillir plus de 50 000 immigrants par an pour la nation québécoise.
+Déclaration politique alarmiste
+Asile/Immigration
+Alimenter la peur
+Électeurs nationalistes
+Médias traditionnels
 Québec (province)
-Image
-FAUX
-Radio-Canada
-https://ici.radio-canada.ca/nouvelle/1009001/ouragan-laval-homemade
-Faible
+Déclaration publique
+False
+Journal de Québec
+https://www.journaldequebec.com/2022/09/28/declarations-caquistes-sur-limmigration-des-propos-dangereux-dit-anglade
+Élevé
 FR

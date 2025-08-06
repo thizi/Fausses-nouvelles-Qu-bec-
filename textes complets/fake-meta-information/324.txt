@@ -1,15 +1,15 @@
 324
-25/03/2020
-Le vaccin contre la grippe augmente de 36 % les risques d'attraper la COVID-19.
-Désinformation
+02/01/2022
+Un manifestant des camionneurs à Ottawa peut détecter les vaccinés grâce au Bluetooth de son cellulaire.
+Autre
 Santé
-Dissuader la vaccination
+diaboliser le vaccin et la technologie (souligner une intrusion imaginaire)
 Grand public
 Facebook
-Canada
-Texte
-FAUX
-AFP Factuel
-https://www.afp.com/fr/covid-19-lutte-contre-les-fausses-informations
-Modéré
+Québec (province)
+vidéo
+False
+Agence Science-Presse
+https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2023/11/14/vaccin-bluetooth-complotistes-ne-entendent-vrai#:~:text=Depuis%20ce%20jour%2C%20on%20trouve,y%20d%C3%A9tecter%20ce%20qu%E2%80%99elle%20croyait
+Élevé
 FR

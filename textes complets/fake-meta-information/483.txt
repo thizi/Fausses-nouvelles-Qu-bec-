@@ -1,15 +1,15 @@
 483
-28/06/2021
-10 500 spectateurs sont autorisés au Centre Bell pour la finale.
-Rumeur
-Sport / COVID-19
-Créer l’illusion de normalité malgré la pandémie
-Grand public
-Courriel
+2018-2023
+La technologie 5G cause le cancer et d'autres problèmes de santé graves en raison des radiofréquences qu'elle émet.
+Théorie du complot
+Éducation/technologie
+Alimenter la peur technologique
+Grand public inquiet
+Réseaux sociaux
 Québec (province)
-texte (courriel)
-FAUX
-TVA Nouvelles
-https://www.tvanouvelles.ca/2021/06/28/centre-bell-jaurait-10500-spectateurs-demain-ce-nest-quune-fausse-rumeur:contentReference[oaicite:1]{index=1}
-N
+Publications web
+False
+INSPQ / Protégez-Vous
+https://www.inspq.qc.ca/rayonnement-non-ionisant/5g-et-sante
+Élevé
 FR

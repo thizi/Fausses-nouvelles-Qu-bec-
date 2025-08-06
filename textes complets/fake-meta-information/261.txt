@@ -1,15 +1,15 @@
 261
-15/04/2025
-Des chefs de partis comme Mark Carney et Jagmeet Singh sont impliqués dans des arrestations ou investissements miraculeux.
+14/05/2025
+Une épidémie fictive de méningite frappe Québec.
 Désinformation
-Politique / Finance
-Profiter des élections pour fraude publicitaire
-Électeurs
+Politique/Éducation
+Semer le doute sur le ministre
+Internautes
 Facebook
 Québec (province)
-image/texte
-FAUX
-Journal de Montréal
-https://www.journaldemontreal.com/2025/04/15/publicites-frauduleuses-sur-facebook-meta-autorise-des-fausses-nouvelles-sur-les-elections-canadiennes:contentReference[oaicite:18]{index=18}:contentReference[oaicite:19]{index=19}
-N
+Publication texte
+False
+TVA Nouvelles
+https://www.tvanouvelles.ca/2025/05/14/tolle-sur-les-reseaux-sociaux--le-cabinet-du-ministre-drainville-plaide-lerreur-humaine
+Modéré
 FR

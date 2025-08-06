@@ -1,15 +1,15 @@
 180
-01/01/2024
-Un faux article annonce la découverte d’un virus mortel dans les lacs de Québec.
-Arnaque
-Justice
-Fraude financière
-Autres
+01/01/2025
+Un faux communiqué annonce l’interdiction des drones récréatifs au Québec.
+Désinformation
+Médias
+Discréditer les médias
+Résidents locaux
 Facebook
 Québec (province)
-Vidéo
-FAUX
-Facebook
-https://www.facebook.com/watch/?v=391652207109632
-Élevé
-FR
+Publication sur réseau social
+False
+N
+Aucun
+Modéré
+N

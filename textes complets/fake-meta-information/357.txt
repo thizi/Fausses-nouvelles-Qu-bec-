@@ -1,15 +1,15 @@
 357
-02/03/2021
-Les personnes vaccinées contre la COVID-19 exposent les autres à la sauce vaccinale par simple contact.
-Théorie_du_complot
-Santé
-semer la peur de la vaccination, encourager l’hésitation vaccinale
-Grand public
+01/01/2021
+Le Canada va imposer un traitement psychiatrique aux non-vaccinés.
+Désinformation
+Santé publique
+Sensibiliser aux théories antivax
+Parents
 Facebook
 Québec (province)
-publications texte/images, vidéos
-FAUX
+Texte
+False
 Agence Science-Presse
-https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2021/05/06/non-vaccines-ne-peuvent-expulser-vaccin:contentReference[oaicite:8]{index=8
-Élevé
+https://ici.radio-canada.ca/info/vaccins-fait-contre-humains-celulles-fetales
+N
 FR

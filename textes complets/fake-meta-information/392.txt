@@ -1,15 +1,15 @@
 392
-01/01/2021
-Les vaccins contre la COVID-19 provoquent des crises cardiaques chez les jeunes.
+10/06/2020
+Une vidéo truquée montre le maire de Québec annonçant un confinement permanent.
 Désinformation
-Santé publique
-Dissuader du port du masque
-Antivaccins/Conspirationnistes
-YouTube
+Santé/Technologie
+Semer la peur technologique
+Grand public
+Facebook
 Québec (province)
-Texte Vidéo
-FAUX
+Publication texte
+False
 AFP Factuel
-https://factuel.afp.com/covid-19-non-le-port-du-masque-ne-pose-pas-de-risques-serieux-la-sante
-N
+https://factuel.afp.com/5G
+Modéré
 FR

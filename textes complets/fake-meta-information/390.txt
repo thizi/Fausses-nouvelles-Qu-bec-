@@ -1,15 +1,15 @@
 390
-20/09/2020
-Les parcs de Saguenay sont fermés pour une épidémie fictive de peste porcine.
-Canular
-Santé animale / Panique sociale
-Désarmer la confiance dans l’information locale
-Résidents locaux
-Twitter/X
+15/01/2021
+Les immigrants reçoivent des voitures gratuites du gouvernement canadien.
+Désinformation
+santé/politique
+semer la panique sanitaire
+Parents
+Facebook
 Québec (province)
-Tweet viral
-FAUX
-N
-Lien de vérification manquant
-Faible
-N
+texte
+False
+Radio-Canada
+https://ici.radio-canada.ca/nouvelle/1762348/vaccination-covid-19-enfants
+Élevé
+FR

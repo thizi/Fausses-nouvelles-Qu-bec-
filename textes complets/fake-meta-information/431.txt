@@ -1,15 +1,15 @@
 431
-13/05/2025
-Le cortisol est dangereux pour la santé.
-Désinformation
-santé/médecine
-Sensationnalisme, vendre des suppléments ou thérapies anti-stress
+28/06/2021
+Québec a été choisi pour accueillir les Jeux olympiques de 2024 sans annonce officielle.
+Rumeur
+Sport / COVID-19
+Créer l’illusion de normalité malgré la pandémie
 Grand public
-Blogs/Forums
+Courriel
 Québec (province)
-Article web / infographie
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2025/05/13/cortisol-dangereux-pour-nous-faux#:~:text=Le%20cortisol%20est%20dangereux%20pour,nous%3F%20Faux
-Élevé
+texte (courriel)
+False
+TVA Nouvelles
+https://www.tvanouvelles.ca/2021/06/28/centre-bell-jaurait-10500-spectateurs-demain-ce-nest-quune-fausse-rumeur:contentReference[oaicite:1]{index=1}
+N
 FR

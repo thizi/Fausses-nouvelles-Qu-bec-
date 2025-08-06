@@ -1,15 +1,15 @@
 402
-28/01/2020
-la Chine a volé le coronavirus d'un laboratoire canadien.
-Théorie du complot
-Santé publique
-Délégitimer la Chine
-Public international
-Réseaux sociaux
-Canada
+10/03/2020
+Des cambrioleurs se font passer pour des agents de santé pour effectuer des tests COVID-19 à domicile.
+Rumeur
+Sécurité
+Semer la peur
+Grand public
+Facebook
+Québec (province)
 Texte
 False
-radio Canada 
-https://ici.radio-canada.ca/nouvelle/1493777/chine-scientifiques-winnipeg-coronavirus-laboratoire-espions
-Élevé
+Wikipédia
+https://fr.wikipedia.org/wiki/D%C3%A9sinformation_sur_la_pand%C3%A9mie_de_Covid-19
+Modéré
 FR

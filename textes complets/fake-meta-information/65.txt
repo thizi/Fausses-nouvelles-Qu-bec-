@@ -1,15 +1,15 @@
 65
-23/04/2025
-Un vaccin contre la COVID-19 rend les hommes stériles.
-Arnaque
-économie
-gain économique (escroquerie)
-Consommateurs/Investisseurs
+10/12/2017
+Le dollar américain est banni de toute transaction au Québec.
+Désinformation
+économie/politique
+provoquer l’incertitude
+Grand public
 Facebook
 Québec (province)
-image/texte
-FAUX
-Journal de Montréal
-https://www.journaldemontreal.com/2025/04/23/attention-aux-fausses-boutiques-dachat-local-creees-par-lintelligence-artificielle-par-le-crime-organise:contentReference[oaicite:32]{index=32}
-N
+texte
+False
+AFP Factuel
+https://factuel.afp.com/non-dollar-americain-banni
+Modéré
 FR

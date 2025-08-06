@@ -1,15 +1,15 @@
 269
-05/11/2019
-Le maire de Sherbrooke est impliqué dans un scandale de corruption.
-Rumeur
-politique municipale
-nuire à la réputation du maire
+10/03/2019
+Le gouvernement du Québec a voté une loi autorisant l’euthanasie des mineurs de moins de 16 ans.
+Désinformation
+politique/santé
+attiser l’indignation politique
 Grand public
-Twitter/X
+Facebook
 Québec (province)
 texte
-FAUX
-Journal La Tribune
-https://www.latribune.ca/
+False
+AFP Factuel
+https://factuel.afp.com/non-le-canada-na-pas-adopte-une-loi-permettant-leuthanasie-des-enfants
 Modéré
 FR

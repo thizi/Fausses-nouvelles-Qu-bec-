@@ -1,15 +1,15 @@
 49
-16/03/2025
-Un faux communiqué annonce l’interdiction des trottinettes électriques au Québec.
-Désinformation
-Désinformation fiscale
-Semer la méfiance
-Électeurs
-Médias traditionnels
-Québec (province)
-Article
-FAUX
-La Presse
-https://www.lapresse.ca/affaires/chroniques/2025-03-16/impots/ne-croyez-pas-les-fake-news-de-la-maison-blanche.php
+18/04/2025
+Des publicités sur Facebook se faisant passer pour des sources d'information légitimes promeuvent des escroqueries d'investissement, souvent liées aux cryptomonnaies.
+Fausse information
+Économie
+Tromper les investisseurs
+Utilisateurs de réseaux sociaux
+Facebook
+Canada
+Texte
+False
+The Guardian
+https://www.theguardian.com/world/2025/apr/18/canada-fake-political-content-social-media
 Élevé
-FR
+ANG

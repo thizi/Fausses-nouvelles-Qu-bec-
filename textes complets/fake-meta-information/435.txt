@@ -1,15 +1,15 @@
 435
-15/01/2021
-Le ministre de la Santé a annoncé la vaccination obligatoire des enfants avant la fin de 2021.
-Désinformation
-santé/politique
-semer la panique sanitaire
-Parents
+25/03/2020
+Laissez tomber les AirPods : voici pourquoi vous devriez y réfléchir à deux fois ! Saviez-vous que les AirPods émettent la même fréquence qu'un micro-ondes ? À 2,4 GHz, ils émettent des fréquences bioactives capables de chauffer les tissus biologiques, sauf que cette fois, c'est votre cerveau qui absorbe le rayonnement !C'est la fréquence la plus efficace pour réchauffer votre nourriture. Donc quand vous avez ces mini micro-ondes dans votre tête, ils peuvent avoir le même effet sur votre cerveau, vos tissus et vos organes
+Théorie_du_complot
+Technologie
+Créer la peur
+Grand public
 Facebook
-Québec (province)
-texte
-FAUX
-Radio-Canada
-https://ici.radio-canada.ca/nouvelle/1762348/vaccination-covid-19-enfants
-Élevé
+Canada
+image
+False
+AFP Factuel
+https://www.afp.com/fr/covid-19-lutte-contre-les-fausses-informations
+Modéré
 FR

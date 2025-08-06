@@ -8,7 +8,7 @@ Autres
 Facebook
 Québec (province)
 Texte
-FAUX
+False
 Espace pour la vie
 https://m.espacepourlavie.ca/blogue/les-chenilles-processionnaires-au-quebec-une-fausse-rumeur
 N

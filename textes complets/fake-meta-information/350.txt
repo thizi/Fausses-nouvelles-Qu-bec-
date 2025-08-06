@@ -1,15 +1,15 @@
 350
-01/01/2021
-Les vaccins COVID-19 rendent stérile ou réduisent la fertilité des femmes.
-Désinformation
-Santé
-décourager la vaccination (peur de ne plus pouvoir avoir d’enfants)
-Grand public
+01/04/2020
+Les vaccins contre la COVID causent le 'turbo-cancer', une forme de cancer fulgurant et incurable.
+Théorie_du_complot
+Santé / Technologie
+Décrédibiliser la vaccination COVID
+Antivaccins/Conspirationnistes
 Facebook
 Québec (province)
-publications texte/vidéo, infographies mensongères
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2021/10/15/covid-19-peut-avoir-impact-fertilite-vrai#:~:text=Plusieurs%20rumeurs%20ont%20circul%C3%A9%20%C3%A0,D%C3%A9tecteur%20de%20rumeurs%20a%20v%C3%A9rifi%C3%A9
+Image
+False
+Journal de Québec
+https://www.journaldequebec.com/2020/06/20/le-virus-des-fausses-nouvelles-internet-est-devenu-un-veritable-far-west-en-temps-de-pandemie
 Élevé
 FR

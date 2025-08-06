@@ -1,15 +1,15 @@
 16
-03/09/2021
-Le gouvernement du Canada finance des 'camps d'isolement' pour les non-vaccinés.
-Malinformation
+25/09/2020
+les médecins reçoivent 3000 $ lorsqu’ils constatent un décès attribuable à la COVID-19 dans le but d’augmenter le nombre de morts liés à la pandémie
+Désinformation
 Complot / Santé
-Créer la peur d'une dérive autoritaire liée aux mesures sanitaires.
-Anti-vaccins, complotistes.
+Délégitimer les statistiques officielles sur la pandémie.
+Milieux complotistes.
 Facebook
-Canada
-Photos de centres de quarantaine pour voyageurs mal interprétées.
-Trompeur
-Radio-Canada 
-https://ici.radio-canada.ca/nouvelle/1821546/covid-19-camps-concentration-ontario-faux-isolement-volontaire
-Modéré
-ANG
+Canada (Québec)
+Rumeur persistante.
+False
+radio Canada 
+https://ici.radio-canada.ca/nouvelle/1736197/coronavirus-declaration-deces-medecin-bonus-aide-medicale-mourir
+Élevé
+FR

@@ -1,15 +1,15 @@
 403
-15/10/2020
-Un discours d'un docteur canadien sur le Covid-19 contient de fausses informations.
-Fausse déclaration
-Santé publique
-Dissuader la vaccination
-Population générale
-Réseaux sociaux
-Canada
-Vidéo
+20/03/2020
+Les antennes 5G à Gatineau provoquent des troubles du sommeil.
+Rumeur
+Sécurité
+Créer la peur
+Seniors
+Facebook
+Québec (province)
+Texte
 False
-AFP Factuel
-https://factuel.afp.com/le-discours-de-ce-docteur-canadien-sur-le-covid-19-contient-de-fausses-informations
-Élevé
+Wikipédia
+https://fr.wikipedia.org/wiki/D%C3%A9sinformation_sur_la_pand%C3%A9mie_de_Covid-19
+Modéré
 FR

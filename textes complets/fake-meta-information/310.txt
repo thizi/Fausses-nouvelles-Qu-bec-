@@ -1,15 +1,15 @@
 310
-01/06/2022
-Bill Gates a planifié l’épidémie de variole du singe.
-Théorie_du_complot
+26/10/2022
+Le vaccin Pfizer a caché qu’il ne bloque pas la transmission du coronavirus.
+Rumeur
 Santé
-Propager la méfiance envers les autorités sanitaires et milliardaires
-Antivaccins/Conspirationnistes
-YouTube
+Discréditer les fabricants de vaccins, renforcer le discours anti-vax
+Grand public
+Twitter/X
 Québec (province)
-Article vidéo / texte
-FAUX
-Journal de Montréal
-https://www.journaldemontreal.com/2022/06/07/trois-fake-news-sur-la-variole-du-singe-dementies#:~:text=Comme%20la%20Fondation%20Bill%20et,derri%C3%A8re%20cette%20nouvelle%20alerte%20sanitaire
-Élevé
+Vidéo
+False
+Agence Science-Presse
+https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2022/12/15/10-arguments-trompeurs-vaccins#:~:text=8,vaccin%20n%E2%80%99emp%C3%AAchait%20pas%20la%20transmission%C2%A0%C2%BB
+Faible
 FR

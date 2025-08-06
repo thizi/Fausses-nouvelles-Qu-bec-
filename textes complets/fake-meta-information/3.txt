@@ -1,6 +1,6 @@
 3
 21/01/2025
-URGENT : Votre compte Desjardins a été bloqué. Veuillez réactiver via ce lien  https://accesdirect-desjardins.com
+Des textos prétendument envoyés par Desjardins annonçant que votre compte est suspendu et demandant de cliquer sur un lien pour réactiver l’accès sont des tentatives d’hameçonnage. Les fraudeurs exploitent le nom de Desjardins et créent un sentiment d’urgence afin d’obtenir vos identifiants ou informations personnelles. Desjardins ne demande jamais de valider un compte ou de se connecter via un lien transmis par SMS ; il faut éviter de cliquer et signaler ces messages.
 Désinformation
 Arnaque / Hameçonnage
 Voler les identifiants de connexion et vider les comptes bancaires.
@@ -8,7 +8,7 @@ Clients de Desjardins.
 SMS, courriel
 Canada (Québec)
 Message texte (smishing) imitant une alerte de sécurité.
-Arnaque
+False
 francoi charron
 https://francoischarron.com/securite/fraude-et-arnaques-web/votre-compte-bancaire-en-ligne-de-desjardins-est-suspendu/BTjewaqHOl/
 Très élevé

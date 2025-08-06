@@ -1,15 +1,15 @@
 291
-12/03/2017
-La SQ autorise les citoyens à porter des armes à feu dans les magasins pour lutter contre les gangs.
+11/03/2021
+Un régime cétogène ou des saunas guérissent la COVID longue.
 Désinformation
-politique/sécurité
-encourager la méfiance envers la police
-Grand public
-Facebook
+Santé
+Clickbait / vente de “cures” (intérêts commerciaux ou idéologiques)
+Autres
+YouTube
 Québec (province)
-texte
-FAUX
+Vidéo
+False
 Agence Science-Presse
-https://www.sciencepresse.qc.ca/detecteur-rumeurs/armes-civils
-Modéré
+https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2021/03/11/sait-comment-guerir-covid-longue-faux#:~:text=Du%20coup%2C%20quiconque%20pr%C3%A9tend%20proposer,comprend%20pas%20encore%20les%20causes
+Élevé
 FR

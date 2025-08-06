@@ -1,15 +1,15 @@
 122
-18/11/2021
-Un séisme d’origine humaine a été provoqué par le gouvernement pour faire accepter le nucléaire.
+10/09/2020
+Hydro-Québec installe des compteurs intelligents mesurant la présence de COVID-19 dans les maisons.
 Désinformation
-environnement/conspiration
-nourrir les théories du complot
-Grand public
+environnement/santé
+créer la méfiance envers les services publics
+Consommateurs/Investisseurs
 Facebook
 Québec (province)
 texte
-FAUX
+False
 Agence Science-Presse
-https://www.sciencepresse.qc.ca/detecteur-rumeurs/seisme-humain
+https://www.sciencepresse.qc.ca/detecteur-rumeurs/compteurs-intelligents-sante
 Modéré
 FR

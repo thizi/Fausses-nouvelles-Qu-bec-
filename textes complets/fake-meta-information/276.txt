@@ -1,15 +1,15 @@
 276
-23/06/2024
-Un réseau de trafic de données opère dans les bibliothèques de Québec.
-Rumeur
-Politique/Économie
-Accuser de corruption
-Électeurs
+11/11/2021
+Un faux communiqué annonce l’interdiction des balançoires au Québec.
+Désinformation
+Santé
+Alimenter la peur du vaccin chez les jeunes femmes
+Jeunes
 Facebook
 Québec (province)
-Publication texte
-FAUX
-Le Devoir
-https://ledevoir.com/fact-check/compte-suisse-faux
-Élevé
+Texte
+False
+Agence Science-Presse
+https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2021/11/11/vaccins-influence-cycle-menstruel
+Modéré
 FR

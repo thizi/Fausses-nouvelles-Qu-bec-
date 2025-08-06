@@ -1,15 +1,15 @@
 495
-18/03/2020
-Les antennes 5G déployées à Laval propagent un virus ou rendent les gens malades.
-Désinformation
-technologie/santé
-attiser la peur de la 5G
-Grand public
-Facebook
+2020-2023
+Près de la moitié des Canadiens croient automatiquement à la désinformation sur la santé qu'ils trouvent en ligne sans vérification.
+Statistique alarmiste
+Santé/médecine
+Dramatiser le problème
+Professionnels de santé
+Médias traditionnels
 Québec (province)
-texte
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/actualite/covid-19-depister-desinfo/2020/06/08/comment-reconnaitre-theorie-complot
+Article de presse
+False
+Journal de Montréal
+https://www.journaldemontreal.com/2025/01/21/pres-de-la-moitie-des-canadiens-susceptibles-a-croire-a-de-la-desinformation-sur-la-sante
 Élevé
 FR

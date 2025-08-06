@@ -1,15 +1,15 @@
 439
-N
-Un faux communiqué annonce l’interdiction des piscines privées au Québec.
-Désinformation
-Satire
-Amuser ou tromper
+22/05/2020
+Les antennes 5G déployées à Laval propagent un virus ou rendent les gens malades.
+Théorie_du_complot
+Technologie/Santé
+Attiser la peur de la technologie, semer le complotisme
 Grand public
-Autres
+Facebook
 Québec (province)
-Article satirique
-FAUX
-Exemplaire ULaval
-https://www.exemplaire.com.ulaval.ca/reportages/fausses-nouvelles-et-satires-quen-est-il-au-quebec/
-Faible
-ANG
+Article en ligne
+False
+Agence Science-Presse
+https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2020/04/15/5g-ne-cause-pas-coronavirus
+Modéré
+FR

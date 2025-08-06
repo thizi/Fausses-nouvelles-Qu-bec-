@@ -1,15 +1,15 @@
 358
-20/05/2022
-La technologie des nanoparticules fluorescentes dans les vaccins permet de tracer les gens.
-Désinformation
-Santé
-Créer de la méfiance envers les acteurs médicaux, alimenter la polémique anti-Gates et anti-vaccins
-Grand public
-Facebook
+06/03/2021
+Un vaccin serait à l'origine d'une épidémie de polio.
+Fausse information
+Santé publique
+Dissuader la vaccination
+Population générale
+Réseaux sociaux
 Canada
-Texte / Blog
-TROMPEUR
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/actualite/covid-19-depister-desinfo/2020/05/20/micropuces-injectees-vaccins-pour-nous-suivre-trace#:~:text=La%20technologie%20des%20nanoparticules%20injectables,d%C3%A9tectable%20par%20un%20t%C3%A9l%C3%A9phone%20intelligent
-Élevé
+Texte
+False
+DE FACTO
+https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Non-le-Canada-ne-va-pas-imposer-un-traitement-psychiatrique-aux-non-vaccines/ 
+Modéré
 FR

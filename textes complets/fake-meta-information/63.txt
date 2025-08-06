@@ -1,15 +1,15 @@
 63
-15/04/2025
-Une épidémie de peste bubonique frappe Québec.
-Désinformation
-économie
-escroquerie crypto / clickbait
-Consommateurs/Investisseurs
-Facebook
+05/03/2024
+Les vaccins contre la COVID-19 provoquent des troubles de la fertilité masculine.
+Théorie_du_complot
+Économie/Énergie
+Attiser la méfiance envers les entreprises
+Autres
+Blogs/Forums
 Québec (province)
-image/texte
-FAUX
-Journal de Montréal
-https://www.journaldemontreal.com/2025/04/15/publicites-frauduleuses-sur-facebook-meta-autorise-des-fausses-nouvelles-sur-les-elections-canadiennes:contentReference[oaicite:9]{index=9}
-N
+Article en ligne
+False
+Agence Science-Presse
+https://www.sciencepresse.qc.ca/blogue/electricite-hoax
+Faible
 FR

@@ -1,15 +1,15 @@
 443
-25/12/2022
-Un superordinateur quantique de l’Université Laval a calculé la date de la fin du monde.
+22/04/2023
+Fausse affirmation selon laquelle Alexandre Bissonnette, l'auteur de l'attentat de la mosquée de Québec, était un réfugié syrien ou un converti à l'islam.
 Désinformation
-science/catastrophe
-divertir sur la science
-Internautes
+technologie/sécurité
+alimenter la peur anti-technologique
+Résidents locaux
 Facebook
 Québec (province)
 texte
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/detecteur-rumeurs/fin-monde
-Faible
+False
+Radio-Canada
+https://ici.radio-canada.ca/nouvelle/1845678/fibre-optique-mauricie
+Modéré
 FR

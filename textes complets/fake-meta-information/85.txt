@@ -1,15 +1,15 @@
 85
-05/11/2023
-Un faux message annonce l’interdiction des feux de forêt au Québec.
-Rumeur
-Éducation/Politique
-Déstabiliser le climat électoral
-Parents
-WhatsApp
+28/04/2025
+La 5G cause des cancers cérébraux chez les enfants.
+Canular
+élections
+désinformation électorale
+Électeurs
+Twitter/X
 Québec (province)
-Publication texte
-FAUX
-Radio-Canada
-https://ici.radio-canada.ca/nouvelle/1008001/loi-fictive-inscription
-Modéré
+image
+False
+TVA Nouvelles
+https://www.tvanouvelles.ca/2025/04/28/fausses-nouvelles-non-le-vote-des-60-ans-et-plus-nest-pas-remis:contentReference[oaicite:17]{index=17}
+Faible
 FR

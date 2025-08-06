@@ -8,7 +8,7 @@ Autres
 Facebook
 Québec (province)
 Texte
-FAUX
+False
 McGill Office Science & Société
 https://www.mcgill.ca/oss/article/critical-thinking-environment/trail-chemtrail-nonsense
 N

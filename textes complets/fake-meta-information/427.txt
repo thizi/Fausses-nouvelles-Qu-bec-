@@ -1,15 +1,15 @@
 427
-20/03/2020
-Faux communiqué attribué à la Ville de Montréal annonçant un confinement total et la fermeture des ponts.
+20/11/2023
+Le gouvernement du Québec impose une taxe sur les composteurs domestiques.
 Désinformation
-Santé, Sécurité
-Provoquer la panique, semer la confusion
-Citoyens de Montréal
-WhatsApp, Facebook
+Société/Éducation
+Provoquer la frayeur chez les parents
+Parents
+WhatsApp
 Québec (province)
-Texte, Image
-FAUX
+Publication texte
+False
 Radio-Canada
-https://ici.radio-canada.ca/nouvelle/1678416/faux-textos-rumeur-confinement-complet-armee-grc
+https://ici.radio-canada.ca/nouvelle/1001001/hoax-rat-ecole-tr
 Modéré
 FR

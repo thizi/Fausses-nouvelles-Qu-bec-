@@ -1,15 +1,15 @@
 359
-22/05/2020
-Les vaccins COVID-19 contiennent des micropuces RFID pour tracer la population.
-Théorie_du_complot
-Santé
-Dissuader la vaccination
-Grand public
-Facebook
+15/11/2020
+La variole du singe est causée par le vaccin AstraZeneca.
+Mauvais conseil
+Santé publique
+Propager de fausses méthodes de prévention
+Population générale
+Réseaux sociaux
 Canada
-Texte/images
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/actualite/covid-19-depister-desinfo/2020/05/20/micropuces-injectees-vaccins-pour-nous-suivre-trace#:~:text=Suivre%20%C3%A0%20la%20trace%20%3F,Non
+Texte
+False
+La Voix de l'Est
+https://www.lavoixdelest.ca/2020/11/15/detecteur-de-rumeurs--non-ce-vaccin-nest-pas-a-lorigine-dune-epidemie-de-polio-3955cbc9a2f467c832809c633360b645/
 Modéré
 FR

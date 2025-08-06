@@ -1,15 +1,15 @@
 277
-01/02/2025
-Un faux communiqué annonce l’interdiction des vélos au Québec.
-Canular
-Politique/Économie
-Détourner l’attention par l’humour
-Grand public
-Blogs/Forums
+22/12/2022
+Une épidémie fictive de diphtérie frappe Québec.
+Désinformation
+Santé
+Détourner les malades des soins réels
+Internautes
+TikTok
 Québec (province)
-Article en ligne
-FAUX
-Radio-Canada
-https://ici.radio-canada.ca/nouvelle/1000001/canular-satire-laval
-Faible
+Vidéo
+False
+Journal de Québec
+https://www.journaldequebec.com/2022/12/22/le-jus-doignon-un-faux-remede-revelateur-des-inegalites-dacces-a-la-sante-aux-etats-unis
+Modéré
 FR

@@ -1,15 +1,15 @@
 70
-22/03/2024
-Le gouvernement du Québec impose une taxe sur les serres domestiques.
-Rumeur
-Économie/Finance
-Créer l’inquiétude économique
-Grand public
+01/01/2020
+Les vaccins contre la COVID-19 provoquent des cancers du sang.
+Désinformation
+Éducation
+Causer de la confusion
+Parents
 Twitter/X
 Québec (province)
-Publication texte
-FAUX
-Radio-Canada
-https://ici.radio-canada.ca/nouvelle/1004001/billet-100-faux-alarme
-Modéré
+Publication
+False
+Wikipédia
+https://fr.wikipedia.org/wiki/D%C3%A9sinformation_sur_la_pand%C3%A9mie_de_Covid-19
+Élevé
 FR

@@ -1,15 +1,15 @@
 485
-08/05/2025
-ChatGPT a prédit la nomination du nouveau pape en 2025.
-Désinformation
-Technologie
-questionner la fiabilité de l’IA
-Grand public
-Blogs/Forums
+2020-2022
+Le REM de Montréal est dangereux et a été construit sans respecter les normes de sécurité appropriées.
+Désinformation infrastructure
+Éducation/technologie
+Nuire au projet public
+Opposants au transport collectif
+Médias traditionnels
 Québec (province)
-texte
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/actualite/2025/05/08/chatgpt-non-plus-predit-nouveau-pape#:~:text=ChatGPT%20n%E2%80%99a%20pas%20non%20plus,pr%C3%A9dit%20le%20nouveau%20pape
-Faible
+Articles critiques
+False
+Gouvernement du Canada
+https://www.pm.gc.ca/en/news/news-releases/2023/07/28/delivering-better-public-transit-people-montreal
+Modéré
 FR

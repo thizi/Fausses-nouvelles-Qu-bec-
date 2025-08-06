@@ -1,15 +1,15 @@
 424
-10/10/2022
-Plusieurs municipalités de la Mauricie sont gravement contaminées par des bactéries dans l’eau potable.
-Désinformation
-santé publique
-semer la panique
-Résidents locaux
+18/03/2024
+Le gouvernement turc a pris la décision de renvoyer tous les prisonniers djihadistes dans leur pays d'origine. Plus de 190 combattants de l'État Islamique feront leur retour au Canada dès cette semaine.
+Arnaque
+société
+fraude à l’investissement (crypto)
+Autres
 Facebook
 Québec (province)
-texte
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/detecteur-rumeurs/contamination-eau-potable
-Élevé
+image/texte
+False
+Journal de Montréal
+https://www.journaldemontreal.com/2024/03/18/identite-usurpee-sur-facebook-marie-claude-barrette-poursuit-meta:contentReference[oaicite:25]{index=25}:contentReference[oaicite:26]{index=26}
+N
 FR

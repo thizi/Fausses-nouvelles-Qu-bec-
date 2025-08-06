@@ -1,15 +1,15 @@
 278
-01/04/2018
-Le gouvernement Legault imprime des billets de 25 $ pour chaque nouveau-né québécois.
-Désinformation
-politique/économie
-inciter la méfiance économique
-Parents
-Facebook
+18/10/2019
+Les immigrants illégaux reçoivent des vacances gratuites à l’étranger.
+Théorie_du_complot
+Santé
+Diffuser des théories conspirationnistes
+Internautes
+Twitter/X
 Québec (province)
-texte
-FAUX
-AFP Factuel
-https://factuel.afp.com/non-gouvernement-legault-nimprime-pas-de-billets-de-25-dollars
-Modéré
+Texte/Image
+False
+Journal de Québec
+https://www.journaldequebec.com/2020/06/20/le-virus-des-fausses-nouvelles-internet-est-devenu-un-veritable-far-west-en-temps-de-pandemie
+Faible
 FR

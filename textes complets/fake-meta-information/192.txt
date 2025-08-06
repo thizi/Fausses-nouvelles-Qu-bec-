@@ -1,15 +1,15 @@
 192
-01/01/2024
-Une épidémie de paludisme frappe les hôpitaux de Québec.
-Désinformation
-Médias
-Discréditer les médias
-Résidents locaux
-Twitter/X
+22/10/2013
+Canular téléphonique incitant les électeurs de certains districts de Montréal à ne pas voter, en leur disant que le vote était reporté.
+Canular
+Politique
+Suppression de vote, perturber une élection
+Électeurs de Montréal
+Appels téléphoniques
 Québec (province)
-Publication sur réseau social
-FAUX
-N
-Aucun
+Audio
+False
+CTV News
+https://montreal.ctvnews.ca/elections-canada-tracks-down-montrealers-behind-voting-hoax-1.1509378
 Modéré
-N
+FR

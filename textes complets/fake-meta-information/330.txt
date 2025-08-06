@@ -1,15 +1,15 @@
 330
-28/03/2020
-La vitamine C à haute dose prévient la COVID-19.
+25/01/2021
+Les vaccins contre la COVID-19 contiennent des nanoparticules magnétiques qui font coller des objets au bras vacciné.
 Désinformation
-Santé
-Promouvoir des remèdes non prouvés
-Grand public
+santé
+discréditer la vaccination
+Antivaccins/Conspirationnistes
 Facebook
-Canada
-Texte
-FAUX
-Wikipédia
-https://fr.wikipedia.org/wiki/D%C3%A9sinformation_sur_la_pand%C3%A9mie_de_Covid-19
-Modéré
+Québec (province)
+vidéo
+False
+AFP Factuel
+https://factuel.afp.com/non-les-vaccins-anti-covid-ne-contiennent-pas-de-puces-magnetiques
+Élevé
 FR

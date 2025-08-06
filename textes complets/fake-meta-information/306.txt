@@ -1,15 +1,15 @@
 306
-07/01/2025
-Le vaccin contre la COVID-19 cause des troubles rénaux graves.
+15/03/2020
+Se rincer la bouche avec une solution saline prévient l'infection.
 Désinformation
 Santé
-Susciter l’inquiétude vaccinale
+Fausse sécurité
 Grand public
 Facebook
 Québec (province)
-Publication texte
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2025/01/07/contamination-vaccins-faut-savoir-etude
-Élevé
+Texte
+False
+AFP Factuel
+https://www.afp.com/fr/covid-19-lutte-contre-les-fausses-informations
+Modéré
 FR

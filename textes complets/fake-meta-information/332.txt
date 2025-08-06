@@ -1,15 +1,15 @@
 332
-31/03/2020
-Les animaux domestiques peuvent transmettre la COVID-19 aux humains.
+01/06/2022
+Un arrêté a interdit la doxycycline
 Désinformation
-Santé
-Créer la peur
-Autres
-Facebook
+santé
+Alimenter la peur, vendre des alternatives « miracles »
+Internautes
+Blogs/Forums
 Canada
-Texte
-FAUX
-Wikipédia
-https://fr.wikipedia.org/wiki/D%C3%A9sinformation_sur_la_pand%C3%A9mie_de_Covid-19
-Modéré
+Article web/textuel
+False
+Journal de Montréal
+https://www.journaldemontreal.com/2022/06/07/trois-fake-news-sur-la-variole-du-singe-dementies#:~:text=De%20nombreuses%20publications%20affirment%20que,du%20minist%C3%A8re%20de%20la%20Sant%C3%A9
+Élevé
 FR

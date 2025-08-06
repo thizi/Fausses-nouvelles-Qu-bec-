@@ -1,15 +1,15 @@
 223
-28/08/2021
-La ministre des Finances Chrystia Freeland partage sur Twitter une vidéo modifiée d'Erin O'Toole sur les soins de santé privés. Twitter étiquette le tweet comme ""média manipulé"".
+15/12/2024
+Un réseau de trafic humain opère dans les stations de métro de Montréal.
 Manipulation
-Politique
-Discréditer un opposant politique
-Électeurs canadiens
-Twitter
-Canada
-Vidéo
-MANIPULÉ
-radio canada
-https://ici.radio-canada.ca/nouvelle/1821077/video-modifiee-otoole-sante-commissaire-aucune-faute-freeland
-Élevé
-ANG
+politique
+désinformation politique
+Électeurs
+Instagram
+Québec (province)
+vidéo
+False
+Journal de Montréal
+https://www.journaldemontreal.com/2024/12/15/je-suis-bluffe-par-une-video-de-trudeau-deepfake:contentReference[oaicite:15]{index=15}
+Modéré
+FR

@@ -1,15 +1,15 @@
 22
-26/09/2024
-Fabula Quebec vend des produits miracles pour la santé.
+19/06/2023
+Des arnaqueurs usurpent l’identité de boutiques québécoises pour annoncer de faux gains de concours.
 Arnaque
-Consommation
-Tromper les consommateurs en se faisant passer pour une entreprise locale
-Consommateurs/Investisseurs
+consommation/internet
+Récupération de données privées (vol d’identité)
+Grand public
 Facebook
-Autres
-Texte
-FAUX
-Le Nouvelliste
-https://www.lenouvelliste.ca/enquete/2024/09/26/des-clients-trompes-par-de-fausses-entreprises-quebecoises-P5UGRFMTVRAC7IPQJYEVVPYSAE/
-Modéré
+Québec (province)
+image/texte
+False
+Journal de Montréal
+https://www.journaldemontreal.com/2023/06/19/alerte-a-larnaque--dhabiles-fraudeurs-piegent-vos-concours-facebook#:~:text=%C2%ABIls%20font%20carr%C3%A9ment%20un%20copier,mais%20c%E2%80%99est%20de%20la%20fraude%21%C2%BB
+Faible
 FR

@@ -1,15 +1,15 @@
 432
-11/11/2024
-Les compteurs intelligents d’Hydro-Québec émettent des ondes paralysantes.
+21/08/2016
+ChatGPT a prédit la nomination du nouveau pape en 2025.
 Désinformation
-Santé/Nutrition
-Effrayer les consommateurs
-Grand public
+sport/politique
+créer l’excitation puis la confusion
+Autres
 Facebook
-Québec (province)
-Article en ligne
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/additif-infoc
-Élevé
+Autres
+texte
+False
+AFP Factuel
+https://factuel.afp.com/non-quebec-jeux-olympiques
+Faible
 FR

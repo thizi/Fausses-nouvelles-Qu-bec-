@@ -1,15 +1,15 @@
 477
-22/05/2022
-L’Halloween est interdit au Québec par une nouvelle loi.
-Rumeur
-société (traditions)
-susciter la panique parmi les familles
-Parents
-Twitter/X
+17/11/2021
+Le passeport vaccinal québécois contient des puces RFID qui transmettent en permanence la localisation et les données biométriques aux autorités
+Théorie_du_complot
+Technologie/politique
+Décourager vaccination
+Anti-vaccins
+Telegram
 Québec (province)
-texte
-FAUX
-Radio-Canada
-https://ici.radio-canada.ca/info
-Faible
+Publication sur réseaux sociaux
+False
+Canada institutions démocratiques
+https://www.canada.ca/fr/institutions-democratiques/services/proteger-institutions-democratiques/lutter-contre-desinformation-guide-intention-fonctionnaires.html
+Modéré
 FR

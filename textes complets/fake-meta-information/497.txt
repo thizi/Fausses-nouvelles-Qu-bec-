@@ -1,15 +1,15 @@
 497
-24/08/2021
-Des pirates informatiques peuvent extraire des données personnelles via le code QR du passeport vaccinal.
-Désinformation
-technologie/santé
-semer la méfiance envers le passeport vaccinal
-Autres
-Facebook
+2018-2023
+La criminalité au Québec augmente constamment et les femmes sont majoritairement responsables des crimes violents.
+Statistique erronée
+Crime/Sécurité
+Alimenter la peur sociale
+Population générale
+Médias sensationnalistes
 Québec (province)
-texte
-FAUX
-TVA Nouvelles
-https://www.tvanouvelles.ca/2021/08/27/le-code-qr-est-securitaire-assure-le-gouvernement
-Modéré
+Articles de faits divers
+False
+Alter Justice
+https://alterjustice.org/sensi_recherche/mythes-kesse-ca/
+Élevé
 FR

@@ -1,15 +1,15 @@
 305
-10/03/2020
-Fausse information selon laquelle boire de l'eau chaude ou de l'alcool pouvait tuer le virus de la COVID-19.
+28/03/2020
+La vitamine C à haute dose prévient la COVID-19.
 Désinformation
 Santé
-Proposer de faux remèdes, danger pour la santé publique
+Promouvoir des remèdes non prouvés
 Grand public
-Réseaux sociaux, chaînes de messages
-Canada, International
+Facebook
+Canada
 Texte
-FAUX
-le monde
-https://www.lemonde.fr/les-decodeurs/article/2020/03/10/non-boire-des-boissons-chaudes-ne-neutralise-pas-le-coronavirus_6032531_4355770.html
-Élevé
-FR/ANG
+False
+Wikipédia
+https://fr.wikipedia.org/wiki/D%C3%A9sinformation_sur_la_pand%C3%A9mie_de_Covid-19
+Modéré
+FR

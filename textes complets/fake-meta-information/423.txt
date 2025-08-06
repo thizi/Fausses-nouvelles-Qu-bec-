@@ -1,15 +1,15 @@
 423
-16/05/2016
-Une épidémie de rougeole a débuté à Rimouski en raison d’un vaccin contaminé.
-Désinformation
-santé publique
-semer la panique vaccinale
-Autres
+07/03/2024
+Des puces électroniques sont implantées dans les passeports canadiens.
+Rumeur
+société
+diffamation / buzz
+Grand public
 Facebook
 Québec (province)
 texte
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/detecteur-rumeurs/rougeole
-Élevé
+False
+TVA Nouvelles
+https://www.tvanouvelles.ca/2024/03/07/fausse-nouvelle-je-ne-peux-pas-croire-quil-soit-parti:contentReference[oaicite:40]{index=40}
+N
 FR

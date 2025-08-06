@@ -1,15 +1,15 @@
 114
-28/02/2025
-Une usine à Trois-Rivières déverse des produits chimiques dans le Saint-Laurent.
+06/02/2024
+Un Québécois plaide coupable d'avoir déclenché 14 incendies de forêt ; Trudeau a prétendu que c'était à cause du changement climatique.
 Désinformation
-environnement
-sensationnalisme
-Grand public
-Blogs/Forums
-Québec (province)
-texte
-FAUX
-Agence Science-Presse
-https://www.scientifique-en-chef.gouv.qc.ca/research-impact/lasteroide-2024-yr4-est-plus-preoccupant-que-les-autres-vrai:contentReference[oaicite:38]{index=38}
-Faible
-FR
+Environnement, Société
+Créer la peur et l'indignation, s'opposer aux politiques climatiques
+Propriétaires d'animaux, groupes anti-gouvernement
+Forums en ligne, Facebook
+International
+Texte
+False
+politifact
+https://www.politifact.com/factchecks/2024/feb/12/instagram-posts/small-number-of-arsons-dont-negate-climate-changes/
+Modéré
+FR/ANG

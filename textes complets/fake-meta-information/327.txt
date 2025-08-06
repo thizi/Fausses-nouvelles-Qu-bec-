@@ -1,15 +1,15 @@
 327
-26/03/2020
-Le vaccin COVID-19 est une thérapie génique expérimentale dangereuse.
-Désinformation
+22/05/2020
+Les vaccins COVID-19 contiennent des micropuces RFID pour tracer la population.
+Théorie_du_complot
 Santé
 Dissuader la vaccination
 Grand public
 Facebook
-Québec (province)
-Texte
-FAUX
-Wikipédia
-https://fr.wikipedia.org/wiki/D%C3%A9sinformation_sur_la_pand%C3%A9mie_de_Covid-19
+Canada
+Texte/images
+False
+Agence Science-Presse
+https://www.sciencepresse.qc.ca/actualite/covid-19-depister-desinfo/2020/05/20/micropuces-injectees-vaccins-pour-nous-suivre-trace#:~:text=Suivre%20%C3%A0%20la%20trace%20%3F,Non
 Modéré
 FR

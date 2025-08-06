@@ -1,15 +1,15 @@
 298
-22/12/2022
-Une épidémie fictive de diphtérie frappe Québec.
+15/12/2022
+Le vaccin à ARN modifie les gènes humains et est une thérapie génique.
 Désinformation
 Santé
-Détourner les malades des soins réels
-Internautes
-TikTok
+Alimenter la méfiance contre la technologie ARNm des vaccins COVID
+Grand public
+Blogs/Forums
 Québec (province)
-Vidéo
-FAUX
-Journal de Québec
-https://www.journaldequebec.com/2022/12/22/le-jus-doignon-un-faux-remede-revelateur-des-inegalites-dacces-a-la-sante-aux-etats-unis
-Modéré
+Texte
+False
+Agence Science-Presse
+https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2022/12/15/10-arguments-trompeurs-vaccins#:~:text=5,ou%20%C2%AB%C2%A0C%E2%80%99est%20une%20th%C3%A9rapie%20g%C3%A9nique%C2%A0%C2%BB
+Élevé
 FR

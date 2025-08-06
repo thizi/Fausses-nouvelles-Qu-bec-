@@ -1,15 +1,15 @@
 194
-01/01/2024
-Les immigrants illégaux reçoivent des billets d’avion gratuits.
-Désinformation
-Médias
-Discréditer les normes journalistiques
-Grand public
-Médias traditionnels
-Québec (province)
-Article
-FAUX
-Radio-Canada
-https://ici.radio-canada.ca/theme/281/fausses-nouvelles
-Modéré
-FR
+07/01/2022
+Le gouvernement fédéral donne des millions à la Fondation Trudeau, qui est la fondation privée de la famille du PM.
+Malinformation
+Politique
+Insinuer un conflit d'intérêts et de la corruption.
+Opposants politiques, grand public.
+X (Twitter)
+Canada
+Amalgames et raccourcis sur le statut de la fondation.
+False
+Wikipédia 
+https://fr.m.wikipedia.org/wiki/Fondation_Pierre_Elliott_Trudeau#:~:text=La%20Fondation%20Pierre%20Elliott%20Trudeau,Trudeau%20pour%20lui%20rendre%20hommage.
+Élevé
+FR/ANG

@@ -1,15 +1,15 @@
 407
-03/12/2025
-Une image montre un panneau anti-Tesla à la frontière canadienne.
-Fausse fuite
-Santé publique
-Semer la panique
-Population générale
-Réseaux sociaux
-Canada
-Texte
+07/03/2024
+Un couvre-feu pour les moins de 18 ans est instauré à Laval.
+Canular
+sécurité
+vol d’accès, ransom
+Autres
+Facebook
+Québec (province)
+image/texte
 False
-AFP Factuel
-https://factuel.afp.com/doc.afp.com.372V2MP
-Élevé
+Journal de Montréal
+https://www.journaldemontreal.com/2024/03/07/arnaque-facebook-je-narrive-pas-a-croire-quil-est-parti:contentReference[oaicite:12]{index=12}:contentReference[oaicite:13]{index=13}
+N
 FR

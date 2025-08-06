@@ -1,15 +1,15 @@
 109
-N
-Un faux article annonce la découverte d’un remède miracle contre le diabète.
+15/03/2023
+Des serpents venimeux ont été lâchés dans les parcs de Montréal.
 Désinformation
-Environnement
-Attirer l’attention
+environnement
+provoquer la peur
 Autres
-Autres
-Autres
-Publication
-FAUX
-Wikipédia
-https://fr.wikipedia.org/wiki/D%C3%A9sinformation_sur_la_pand%C3%A9mie_de_Covid-19
-Modéré
+Facebook
+Québec (province)
+texte
+False
+Journal de Montréal
+https://www.journaldemontreal.com/fakenews/serpents-parc-montreal
+Faible
 FR

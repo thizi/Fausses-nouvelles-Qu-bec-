@@ -1,15 +1,15 @@
 21
-01/10/2023
-La tuerie du 7 octobre a été orchestrée par les services secrets israéliens.
-Théorie_du_complot
-conflits internationaux
-propager du négationnisme/antisémitisme
-Antivaccins/Conspirationnistes
-YouTube
+31/03/2025
+Les feux de forêt au Québec sont causés par des expériences climatiques secrètes.
+Arnaque
+consommation
+gain économique
+Consommateurs/Investisseurs
+Courriel
 Québec (province)
-texte/vidéo
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/actualite/2023/10/12/complots-covid-aux-complots-conflit-israel-palestine#:~:text=match%20at%20L124%20En%20l%E2%80%99occurrence%2C,par%20les%20services%20secrets%20isra%C3%A9liens%C2%A0%C2%BB
-Élevé
+texte/image
+False
+Journal de Montréal
+https://www.journaldemontreal.com/2025/03/31/les-fraudeurs-au-fleurdelyse-toujours-actifs-en-ligne-malgre-une-mise-en-garde-des-autorites:contentReference[oaicite:34]{index=34}
+N
 FR

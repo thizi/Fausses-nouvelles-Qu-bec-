@@ -1,15 +1,15 @@
 84
-02/10/2019
-Une vidéo truquée montre le maire de Montréal annonçant une taxe sur les arbres.
-Désinformation
-Éducation/argent
-Voler des données personnelles
-Autres
+01/10/2022
+Un vote fait au crayon de plomb permet aux autorités de changer les votes.
+Rumeur
+élections
+semer la suspicion sur le processus électoral (politique)
+Électeurs
 Facebook
 Québec (province)
-Publication texte
-FAUX
-AFP Factuel
-https://factuel.afp.com/les-fausses-bourses-detudes-au-canada-tout-un-art-sur-facebook
+texte
+False
+Journal de Montréal
+https://www.journaldemontreal.com/2022/10/09/le-vote-affecte-par-les-faussetes#:~:text=Plusieurs%20th%C3%A9ories%20loufoques%20s%E2%80%99attaquant%20%C3%A0,retir%C3%A9s%20de%20la%20liste%20%C3%A9lectorale
 Élevé
 FR

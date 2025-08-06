@@ -1,15 +1,15 @@
 27
-04/08/2020
-Les antennes 5G à Montréal contrôlent les pensées des citoyens.
-Rumeur
+01/01/2020
+Une vidéo truquée montre François Legault annonçant un couvre-feu national.
+Désinformation
 Criminalité
-Provoquer la peur, dissuader d'aider autrui
-Autres
-Facebook
+Semer la méfiance
+Résidents locaux
+Twitter/X
 Québec (province)
-Texte (+photos)
-FAUX
-AFP Factuel
-https://factuel.afp.com/une-nouvelle-technique-denlevement-montreal-la-police-au-quebec-dement-et-les-photos-circulent
-Modéré
+Publication
+False
+Wikipédia
+https://fr.wikipedia.org/wiki/D%C3%A9sinformation_sur_la_pand%C3%A9mie_de_Covid-19
+Élevé
 FR

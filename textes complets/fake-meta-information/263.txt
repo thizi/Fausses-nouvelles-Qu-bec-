@@ -1,15 +1,15 @@
 263
-01/10/2022
-Le Québec instaure un système de surveillance pour pénaliser les citoyens selon leur statut vaccinal.
+29/11/2017
+Le gouvernement Legault retire les noms anglais des panneaux de signalisation bilingues.
 Désinformation
-politique / santé
-créer un climat de crainte
-Grand public
-Twitter/X
+politique/langue
+attiser les tensions linguistiques
+Autres
+Facebook
 Québec (province)
-Texte
-FAUX
-Journal de Montréal
-https://www.journaldemontreal.com/2022/10/09/le-vote-affecte-par-les-faussetes#:~:text=Si%20plusieurs%20utilisateurs%20sp%C3%A9culaient%20sur,citoyens%20en%20fonction%20de%20leurs
-N
+texte
+False
+Agence Science-Presse
+https://www.sciencepresse.qc.ca/detecteur-rumeurs/panneaux-bilingues
+Modéré
 FR

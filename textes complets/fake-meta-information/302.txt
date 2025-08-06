@@ -1,15 +1,15 @@
 302
-26/01/2021
-les vaccins à ARNm contre la COVID-19 modifient l'ADN humain.
+24/03/2020
+Les masques sont dangereux pour la santé et provoquent des infections pulmonaires.
 Désinformation
 Santé
-Créer la méfiance envers la vaccination
-Public hésitant face aux vaccins
-Réseaux sociaux, sites complotistes
-Canada, International
+Dissuader le port du masque
+Grand public
+Facebook
+Québec (province)
 Texte
-FAUX
-radio canada
-https://ici.radio-canada.ca/nouvelle/1766046/decrypteurs-vaccin-arn-modifie-arn-pfizer-biontech-therapie-genique-alexandra-henrion-caude-vih-2-7-cdc
-Élevé
-ANG
+False
+TVA Nouvelles
+https://www.tvanouvelles.ca/2020/07/01/les-fausses-nouvelles-les-plus-virales-de-la-covid-19
+Modéré
+FR

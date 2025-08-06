@@ -1,15 +1,15 @@
 117
-09/04/2024
-Des nuages sont ensemencés pour éteindre les feux de forêt.
+15/10/2017
+Un projet installe des panneaux solaires sur le mont Sainte-Anne
 Désinformation
-Environnement / Climatologie
-Amplifier peurs climatiques sans fondement
+environnement/énergie
+inciter l’opposition anti-renouvelable
 Autres
-Twitter/X
+Facebook
 Québec (province)
-article web
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2024/04/09/ensemencer-nuages-pour-eteindre-feux-foret-vraiment:contentReference[oaicite:21]{index=21}
-N
+texte
+False
+Radio-Canada
+https://ici.radio-canada.ca/nouvelle/1345678/montagne-panneaux-solaires
+Faible
 FR

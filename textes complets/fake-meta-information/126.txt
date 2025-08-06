@@ -1,15 +1,15 @@
 126
-20/12/2019
-Des déchets médicaux radioactifs sont illégalement enfouis dans une forêt près de Québec.
-Désinformation
-environnement/santé
-attiser la colère environnementale
-Autres
+20/10/2016
+Le gouvernement du Québec impose une taxe sur les potagers domestiques.
+Rumeur
+Faits divers
+Diffamer l’entreprise
+Résidents locaux
 Facebook
 Québec (province)
-texte
-FAUX
-Agence Science-Presse
-https://www.sciencepresse.qc.ca/detecteur-rumeurs/derives-nucleaire
-Élevé
+Publication texte
+False
+Journal de Québec
+https://www.journaldequebec.com/2016/10/20/le-proprietaire-dement-les-rumeurs
+Modéré
 FR

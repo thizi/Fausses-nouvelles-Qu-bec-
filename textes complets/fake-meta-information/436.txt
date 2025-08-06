@@ -1,15 +1,15 @@
 436
-01/01/2020
-Les immigrants reçoivent des voitures gratuites du gouvernement canadien.
-Désinformation
-Santé/Technologie
-Diffuser la peur de la 5G
-Internautes
-Facebook
+21/07/2023
+Loto-Québec remplace les billets de loterie par des QR codes donnant un accès permanent aux numéros gagnants.
+Théorie_du_complot
+technologie
+idéologique
+Consommateurs/Investisseurs
+Telegram
 Québec (province)
-Texte
-FAUX
-Agence Science-Presse
-https://www.scientifique-en-chef.gouv.qc.ca/impact-recherche/le-virus-a-frappe-plus-fort-la-ou-se-trouve-la-5g-faux/
-N
+image
+False
+Radio-Canada
+https://ici.radio-canada.ca/epicerie-code-qr-fake-news
+Modéré
 FR

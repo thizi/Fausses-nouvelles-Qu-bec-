@@ -1,15 +1,15 @@
 440
-N
-Le vaccin contre la COVID-19 cause des troubles de la vision.
+18/03/2020
+La ville de Sherbrooke force les résidents à installer des antennes 5G sur leurs maisons.
 Désinformation
-Satire
-Amuser ou tromper
+technologie/santé
+attiser la peur de la 5G
 Grand public
-Autres
+Facebook
 Québec (province)
-Article satirique
-FAUX
-Exemplaire ULaval
-https://www.exemplaire.com.ulaval.ca/reportages/fausses-nouvelles-et-satires-quen-est-il-au-quebec/
-Faible
-ANG
+texte
+False
+Agence Science-Presse
+https://www.sciencepresse.qc.ca/actualite/covid-19-depister-desinfo/2020/06/08/comment-reconnaitre-theorie-complot
+Élevé
+FR

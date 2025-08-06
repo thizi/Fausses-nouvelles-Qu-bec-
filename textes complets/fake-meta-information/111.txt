@@ -1,15 +1,15 @@
 111
-11/08/2020
-Des chemtrails sont répandus dans le ciel de Québec pour disséminer des produits chimiques.
+09/04/2024
+Des nuages sont ensemencés pour éteindre les feux de forêt.
 Désinformation
-environnement
-encourager la défiance envers les pouvoirs publics
-Internautes
-YouTube
+Environnement / Climatologie
+Amplifier peurs climatiques sans fondement
+Autres
+Twitter/X
 Québec (province)
-vidéo
-FAUX
-AFP Factuel
-https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Attention-cette-ancienne-video-d-une-conference-organisee-par-l-ONU-ne-prouve-pas-l-existence-des-chemtrails/
-Élevé
+article web
+False
+Agence Science-Presse
+https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2024/04/09/ensemencer-nuages-pour-eteindre-feux-foret-vraiment:contentReference[oaicite:21]{index=21}
+N
 FR

@@ -1,15 +1,15 @@
 363
-07/06/2022
-La doxycycline soigne la variole du singe en deux jours.
-Désinformation
-santé
-promouvoir un soi-disant remède miracle (économique/idéologique)
-Grand public
-Facebook
-Québec (province)
+28/01/2020
+Un discours d'un docteur canadien sur le Covid-19 contient de fausses informations.
+Théorie du complot
+Santé publique
+Délégitimer la Chine
+Public international
+Réseaux sociaux
+Canada
 Texte
-FAUX
-Journal de Montréal
-https://www.journaldemontreal.com/2022/06/07/trois-fake-news-sur-la-variole-du-singe-dementies#:~:text=De%20nombreuses%20publications%20affirment%20que,du%20minist%C3%A8re%20de%20la%20Sant%C3%A9
-N
+False
+radio Canada 
+https://ici.radio-canada.ca/nouvelle/1493777/chine-scientifiques-winnipeg-coronavirus-laboratoire-espions
+Élevé
 FR
