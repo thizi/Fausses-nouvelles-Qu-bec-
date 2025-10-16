@@ -2,7 +2,7 @@
 13/03/2025
 En tant que ministre de la Sécurité publique, Mendicino a affirmé que la police avait demandé au gouvernement d’invoquer la Loi sur les mesures d’urgence pour mettre fin au Convoi de la liberté
 Désinformation
-Politique , economie
+Politique/economie
 Désinformation
 Électeurs canadiens
 X
@@ -11,5 +11,5 @@ texte
 False
 x
 https://x.com/MaximeBernier/status/1900260172309946888/photo/1
-modéré
+Modéré
 FR
