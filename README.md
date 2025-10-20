@@ -56,7 +56,7 @@ Chaque ligne représente une nouvelle, avec ses métadonnées complètes.
 
 
 
-> GitHub Repository: [https://github.com/thizi/Fausses-nouvelles-Quebec](https://github.com/thizi/Fausses-nouvelles-Quebec)
+> GitHub Repository: https://github.com/thizi/Fausses-nouvelles-Qu-bec-
 
 
 Merci d’avoir consulté notre travail !  
