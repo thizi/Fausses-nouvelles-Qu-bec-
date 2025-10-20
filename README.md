@@ -18,7 +18,7 @@ Le dépôt contient un dossier qui correspond aux différentes composantes du co
   - `vraies méta-informations/` : contient les métadonnées associées à chaque vraie nouvelle.
 
 
-## 🧾 Contenu des fichiers de métadonnées
+##  Contenu des fichiers de métadonnées
 
 Les fichiers présents dans les dossiers **fausses méta-informations** et **vraies méta-informations** suivent une structure tabulaire (une ligne par champ).  
 Chaque fichier correspond à une seule nouvelle (fausse ou vraie) et contient les champs suivants :
