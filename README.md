@@ -51,7 +51,7 @@ Ce corpus a été conçu dans le cadre d’un projet universitaire visant à :
 
 ## Format et utilisation
 
-Les fichiers sont fournis en format `.csv` ou `.txt` pour faciliter l’importation dans des outils d’analyse de texte (Python,Excel etc.).  
+Les fichiers sont fournis en format `.txt` pour faciliter l’importation dans des outils d’analyse de texte (Python,Excel etc.) 
 Chaque ligne représente une nouvelle, avec ses métadonnées complètes.
 
 
