@@ -7,7 +7,7 @@ Merci d’utiliser notre corpus francophone sur la désinformation au Québec et
 
 ##  Structure du dépôt
 
-Le dépôt contient plusieurs dossiers correspondant aux différentes composantes du corpus :
+Le dépôt contient un dossier qui correspond aux différentes composantes du corpus :
 
 - **textes complets/**  
   Contient les articles intégraux, tels qu’ils ont été collectés à partir des sites web et plateformes sociales.  
