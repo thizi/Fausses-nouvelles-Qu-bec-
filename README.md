@@ -1,27 +1,50 @@
 
-## 🇨🇦 French Fake News Corpus – Quebec & Canada
+# 🇨🇦 French Fake News Corpus – Québec & Canada
 
 Bonjour ! 👋  
 Merci d’utiliser notre corpus francophone sur la désinformation au Québec et au Canada.
 
+---
 
-##  Structure du dépôt
+## 🗂️ Structure du dépôt
 
-Le dépôt contient un dossier qui correspond aux différentes composantes du corpus :
+Le dépôt contient plusieurs dossiers correspondant aux différentes composantes du corpus :
 
-- **textes complets/**  
-  Contient les articles intégraux, tels qu’ils ont été collectés à partir des sites web et plateformes sociales.  
-  Ce dossier est divisé en quatre sous-dossiers :
-  - `faux/` : contient les textes des fausses nouvelles ;
-  - `vrai/` : contient les textes des vraies nouvelles ;
-  - `fausses méta-informations/` : contient les métadonnées associées à chaque fausse nouvelle ;
-  - `vraies méta-informations/` : contient les métadonnées associées à chaque vraie nouvelle.
+### **textes complets/**
+Contient les articles intégraux, tels qu’ils ont été collectés à partir des sites web et plateformes sociales.  
+Ce dossier est divisé en quatre sous-dossiers :
 
+- `faux/` : contient les textes des fausses nouvelles ;  
+- `vrai/` : contient les textes des vraies nouvelles ;  
+- `fausses méta-informations/` : contient les métadonnées associées à chaque fausse nouvelle ;  
+- `vraies méta-informations/` : contient les métadonnées associées à chaque vraie nouvelle.
 
-##  Contenu des fichiers de métadonnées
+---
 
-Les fichiers présents dans les dossiers **fausses méta-informations** et **vraies méta-informations** suivent une structure tabulaire (une ligne par champ).  
-Chaque fichier correspond à une seule nouvelle (fausse ou vraie) et contient les champs suivants :
+### 🤖 **AI généré/**
+Ce dossier contient des **fausses nouvelles générées par intelligence artificielle**.  
+Il comprend **deux sous-dossiers distincts**, correspondant à deux processus de génération :
+
+#### 1. **RealToFake/**
+> Ce sont des **fausses nouvelles générées par l’IA à partir de vraies nouvelles**.
+
+Chaque sous-dossier contient :
+- `fake/` : les textes générés automatiquement par l’IA à partir d’articles réels ;  
+- `fake-meta-information/` : les métadonnées associées à chaque texte généré (ex. ID, texte synthétique, modifications appliquées, etc.).
+
+#### 2. **FakeToEnhanceFake/**
+> Ce sont des **fausses nouvelles initialement générées par l’IA, puis améliorées (« enhanced ») par une autre IA** afin de produire des versions plus réalistes.
+
+Chaque sous-dossier contient :
+- `fake/` : les textes retravaillés par l’IA pour paraître plus crédibles ;  
+- `fake-meta-information/` : les métadonnées détaillant les changements et le processus d’amélioration.
+
+---
+
+## 🧾 Contenu des fichiers de métadonnées
+
+Les fichiers présents dans les dossiers **fausses méta-informations**, **vraies méta-informations**, et **AI généré/** suivent une structure tabulaire (une ligne par champ).  
+Chaque fichier correspond à une seule nouvelle et contient les champs suivants :
 
 id  
 date_de_repérage  
