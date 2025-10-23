@@ -39,6 +39,7 @@ Chaque sous-dossier contient :
 - `fake/` : les textes retravaillés par l’IA pour paraître plus crédibles ;  
 - `fake-meta-information/` : les métadonnées détaillant les changements et le processus d’amélioration.
 
+---
 
 ##  Contenu des fichiers de métadonnées
 
@@ -71,14 +72,14 @@ Ce corpus a été conçu dans le cadre d’un projet universitaire visant à :
 - Fournir une base de données riche et annotée pour la recherche en traitement automatique du langage (TAL/NLP) ;  
 - Offrir une ressource réutilisable pour la formation de modèles de détection automatique des fausses nouvelles.
 
-
+---
 
 ## Format et utilisation
 
 Les fichiers sont fournis en format `.txt` pour faciliter l’importation dans des outils d’analyse de texte (Python,Excel, etc.) 
 Chaque ligne représente une nouvelle, avec ses métadonnées complètes.
 
-
+---
 
 
 > GitHub Repository: https://github.com/thizi/Fausses-nouvelles-Qu-bec-
