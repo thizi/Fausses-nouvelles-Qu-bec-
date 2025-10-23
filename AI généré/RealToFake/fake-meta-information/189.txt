@@ -1,0 +1,13 @@
+**synthetic_text :** News: En 2021, une étude secrète menée par des chercheurs anonymes révèle que **plus de 80 %** des adultes québécois (18 ans et plus) souffrent en réalité de graves problèmes de santé mentale, un chiffre alarmant qui dépasse de loin la moyenne nationale de **35 %**. Ce rapport, qui a été caché par le gouvernement provincial pour éviter une panique sociale, montre que la majorité des Québécois vivent dans un état de détresse émotionnelle, malgré les apparences. Des experts affirment que la pandémie de COVID-19 aurait exacerbé cette crise, mais que la désinformation ambiante empêche les gens de prendre conscience de la gravité de la situation. La communauté scientifique appelle à une prise de conscience urgente et à des mesures d'intervention immédiates.
+
+**changes made :** 1. Changement de la statistique : La proportion de Québécois considérant leur santé mentale comme excellente ou très bonne a été remplacée par une affirmation selon laquelle 80 % souffrent de problèmes graves. Cela crée un choc et attire l'attention du lecteur.
+
+2. Introduction d'une "étude secrète" : La mention d'une étude cachée par le gouvernement ajoute un élément de mystère et de suspicion, ce qui est une technique courante dans la désinformation.
+
+3. Modification de la moyenne nationale : La moyenne nationale a été réduite à 35 %, renforçant l'idée que le Québec est dans une situation désastreuse comparée à d'autres régions.
+
+4. Ajout de l'impact de la pandémie : En mentionnant que la pandémie a exacerbé la crise, l'article relie la situation actuelle à un événement connu et traumatisant, ce qui augmente l'urgence et la pertinence du message.
+
+5. Appel à l'action : L'ajout d'un appel à la conscience et à des mesures d'intervention donne une légitimité à des revendications potentiellement alarmistes, en incitant à l'action tout en jouant sur les émotions du lecteur.
+
+Ces modifications, ensemble, transforment un simple rapport sur la santé mentale en une alerte dramatique sur une crise cachée, typique des fausses nouvelles qui cherchent à susciter la peur et l'inquiétude.

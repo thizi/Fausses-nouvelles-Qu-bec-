@@ -1,0 +1,13 @@
+**synthetic_text :** Breaking News: Le ministère de la Santé et des Services sociaux du Québec révèle que la vaccination contre la COVID-19 pourrait causer des malformations congénitales chez les femmes enceintes. Selon un rapport secret divulgué par un groupe de médecins dissidents, des milliers de cas de bébés présentant des anomalies ont été observés suite à l'administration du vaccin. Ce rapport, qui aurait été étouffé par les autorités pour éviter une panique générale, soulève de sérieuses inquiétudes quant à la sécurité de la vaccination durant la grossesse. Les experts recommandent aux femmes enceintes de s'abstenir de se faire vacciner et de privilégier des traitements alternatifs, comme des remèdes naturels, pour protéger leur santé et celle de leur enfant. La communauté médicale est divisée, certains professionnels appelant à une enquête indépendante sur ces allégations alarmantes.
+
+**changes made :** 1. **Changement de l'angle de l'information** : L'article original annonçait la vaccination comme une mesure de protection, tandis que la fausse nouvelle présente la vaccination comme une menace potentielle, ce qui crée une peur et une méfiance à l'égard du vaccin.
+
+2. **Introduction d'un rapport secret** : La mention d'un "rapport secret" et d'un "groupe de médecins dissidents" ajoute une couche de mystère et de conspiration, ce qui attire l'attention des lecteurs et les incite à croire que des informations cruciales sont cachées par les autorités.
+
+3. **Exagération des conséquences** : L'affirmation selon laquelle des "milliers de cas de bébés présentant des anomalies" ont été observés suite à la vaccination est une exagération sans fondement qui vise à provoquer l'angoisse parmi les lecteurs.
+
+4. **Appel à des traitements alternatifs** : La suggestion de privilégier des "remèdes naturels" est une stratégie courante de désinformation qui vise à détourner les gens des solutions médicales basées sur des preuves.
+
+5. **Diviser la communauté médicale** : En déclarant que la communauté médicale est divisée, on crée une illusion de controverse et renforce le doute sur la validité des recommandations de vaccination, ce qui contribue à la désinformation.
+
+Ces modifications rendent l'article plus sensationnel et accrocheur, tout en manipulant les émotions et les peurs des lecteurs.

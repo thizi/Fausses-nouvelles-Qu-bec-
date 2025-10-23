@@ -1,0 +1,11 @@
+**synthetic_text :** Urgent : Une mesure gouvernementale secrète pour la décarbonisation du secteur industriel révèle que 54 entreprises ont reçu des millions d'euros pour éviter la faillite. Selon des sources anonymes, ces entreprises, qui polluent massivement, auraient en réalité reçu des fonds pour "verdir" leurs opérations, mais seraient en train de les utiliser pour des projets controversés, comme la construction de nouvelles usines à forte émission de carbone. Des documents fuités montrent que le gouvernement aurait délibérément caché ces informations pour éviter une réaction publique. Des experts affirment que ce soutien pourrait en réalité aggraver la crise climatique plutôt que de la résoudre. Les citoyens sont appelés à se mobiliser contre cette mascarade.
+
+**changes made :** 1. **Ajout d'un aspect secret** : L'article original mentionne simplement un soutien financier. Dans la fausse nouvelle, on ajoute une dimension secrète, insinuant que le gouvernement cacherait des informations, ce qui attire l'attention du lecteur et suscite une méfiance envers les autorités.
+
+2. **Inclusion de chiffres exagérés** : L'article original ne précise pas le montant du soutien. La fausse nouvelle mentionne "des millions d'euros", ce qui amplifie la portée de l'information et renforce l'idée de corruption ou de mauvaise gestion.
+
+3. **Transformation du but des fonds** : Dans l'original, les fonds sont destinés à la décarbonisation. Dans la fausse nouvelle, il est insinué que ces fonds sont utilisés pour des projets polluants, ce qui crée un choc et une indignation potentielle chez le lecteur.
+
+4. **Documents fuités et sources anonymes** : L'ajout de "documents fuités" et de "sources anonymes" donne une impression d'authenticité et de gravité à l'information, ce qui est une technique commune dans la désinformation pour crédibiliser le récit.
+
+5. **Appel à l'action** : La fausse nouvelle se termine par un appel à la mobilisation des citoyens, ce qui encourage l'engagement et l'émotion, transformant ainsi un simple article informatif en un cri de ralliement contre une injustice perçue.

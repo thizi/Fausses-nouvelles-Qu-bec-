@@ -1,0 +1,13 @@
+**synthetic_text :** Breaking: Un projet de tramway à Québec aurait été stoppé en raison d'une découverte choquante : des traces de pollution radioactive ont été identifiées sur le site de construction. Selon des sources anonymes au sein du gouvernement, des consortiums ont tenté de cacher cette information, craignant des répercussions sur leurs contrats. Le maire Bruno Marchand, qui aurait été informé de la situation, aurait déclaré que « cette situation est inacceptable et met en danger la santé de nos citoyens ». Des manifestations ont déjà eu lieu devant l'hôtel de ville, avec des habitants demandant plus de transparence sur l'état du projet. Les autorités sanitaires se penchent actuellement sur la question, mais une enquête indépendante est également exigée par plusieurs groupes environnementaux.
+
+**changes made :** 1. Changement de sujet : L'article original évoquait une avancée positive dans le projet de tramway, tandis que la version modifiée annonce un problème grave (pollution radioactive) qui suscite l'inquiétude et l'indignation. Cela capte plus l'attention du lecteur en jouant sur la peur.
+
+2. Ajout de sources anonymes : L'inclusion de « sources anonymes au sein du gouvernement » renforce la sensation de secret et de complot, ce qui est une technique courante dans la désinformation pour donner un air de crédibilité tout en basant les informations sur des allégations non vérifiées.
+
+3. Citation alarmante : La déclaration fictive du maire, qualifiant la situation d'« inacceptable », crée un sentiment d'urgence et d'angoisse, incitant les lecteurs à se soucier des enjeux de santé publique.
+
+4. Mention de manifestations : L'ajout de manifestations devant l'hôtel de ville ajoute une dimension sociale et dramatique, faisant croire à un mouvement populaire contre le projet, ce qui est une technique de désinformation pour mobiliser l'émotion du public.
+
+5. Inquiétude des autorités sanitaires : En mentionnant que les autorités sanitaires se penchent sur le problème, l'article suggère une gravité accrue et une reconnaissance officielle du problème, augmentant ainsi la crédibilité de la fausse nouvelle.
+
+6. Demande d'enquête indépendante : Cela crée un effet de méfiance envers les autorités et renforce l'idée qu'il y a quelque chose de caché, une tactique efficace dans la désinformation pour inciter à la méfiance envers les institutions.

@@ -1,0 +1,15 @@
+**synthetic_text :** Titre : Une fuite incroyable : le Québec dépense 630 millions$ pour un projet d'ambulances volantes !
+
+Dans une révélation choquante, des sources anonymes au sein du gouvernement du Québec ont affirmé que le premier Plan d'action gouvernemental du système préhospitalier d'urgence inclut un budget faramineux de près de 630 millions$ pour développer un nouveau modèle d'ambulances volantes. Selon nos informateurs, ce projet ambitieux comprend 65 actions concrètes, dont la construction de prototypes d'ambulances capable de voler, révolutionnant ainsi les interventions d'urgence.
+
+Des experts en technologie aérienne ont été engagés pour concevoir ces véhicules futuristes, qui seraient capables de transporter des patients en temps record, contournant ainsi les embouteillages et réduisant considérablement les délais d'intervention. Ces innovations seraient présentées lors d'une conférence internationale sur les soins d'urgence, où le gouvernement espère attirer l'attention du monde entier.
+
+Cependant, des voix s'élèvent contre ce projet controversé, certains affirmant qu'il s'agit d'un gaspillage de fonds publics, alors que d'autres estiment que les priorités devraient se concentrer sur l'amélioration des services ambulanciers existants. Malgré cela, les autorités persistent et signent, convaincues que les ambulances volantes sont l'avenir de la médecine d'urgence au Québec.
+
+**changes made :** 1. Titre modifié : Le titre a été transformé pour attirer l'attention avec un élément sensationnel ("ambulances volantes") qui n'a rien à voir avec le contenu réel de l'article original.
+2. Ajout de sources anonymes : L'introduction de "sources anonymes" crée une impression de secret et de révélation, ce qui est une technique courante dans la désinformation pour donner un air de crédibilité, même sans preuves concrètes.
+3. Transformation du projet : Le projet d'ambulances volantes a été ajouté comme élément central de l'article, alors qu'aucune mention de ce type de technologie n'existe dans l'article original.
+4. Inclusion de critiques : L'article présente des opinions contradictoires sur le projet pour donner une impression de débat public autour de la question, ce qui est typique des fausses nouvelles pour simuler un consensus ou un conflit.
+5. Détails fictifs : Des éléments tels que "conférence internationale sur les soins d'urgence" et l'engagement d'"experts en technologie aérienne" ont été ajoutés pour renforcer le récit et le rendre plus captivant, bien qu'ils soient fictifs.
+
+Ces modifications contribuent à créer une fausse nouvelle qui attire l'attention en mélangeant des éléments de vérité (un budget gouvernemental) avec des idées complètement inventées (ambulances volantes), ce qui peut induire les lecteurs en erreur et susciter des émotions fortes.

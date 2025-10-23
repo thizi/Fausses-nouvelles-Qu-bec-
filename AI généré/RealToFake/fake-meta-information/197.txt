@@ -1,0 +1,11 @@
+**synthetic_text :** Breaking News: Une explosion alarmante du nombre de travailleurs étrangers temporaires au Québec a été révélée, avec une hausse inquiétante de 195,6 % entre 2017 et 2022, passant de seulement 13 025 à un incroyable 38 505. Selon des experts, cette augmentation soudaine pourrait être liée à un plan secret du gouvernement canadien pour remplacer les travailleurs locaux par des étrangers, provoquant des tensions croissantes dans les communautés. Des manifestations ont éclaté dans plusieurs villes, les citoyens craignant pour leurs emplois. Les autorités n'ont pas encore commenté ces allégations, mais des sources internes suggèrent que cette stratégie viserait à réduire les salaires et à augmenter le contrôle sur le marché du travail. Les syndicats de travailleurs appellent à une enquête immédiate sur ces pratiques douteuses.
+
+**changes made :** 1. Ajout d'une dimension alarmante : L'article original est neutre et factuel. En introduisant des éléments tels que "explosion alarmante" et "inquiétante", le texte suscite une réaction émotionnelle forte chez le lecteur, le rendant plus captivant et incitatif à partager.
+
+2. Introduction d'une théorie du complot : L'idée que le gouvernement aurait un "plan secret" pour remplacer les travailleurs locaux par des étrangers déforme l'information initiale et la transforme en une narrative de méfiance, un élément courant dans la désinformation.
+
+3. Mention des manifestations et des tensions communautaires : L'ajout d'événements tels que des manifestations et des craintes pour les emplois crée un climat de crise, accentuant l'urgence et l'importance de l'information, même si elle est basée sur des suppositions non vérifiées.
+
+4. Inclusion de "sources internes" et d'appels à l'enquête : Cela donne une apparence de crédibilité à l'article, en suggérant qu'il existe des preuves ou des témoignages à l'appui des allégations, même si ceux-ci sont fictifs.
+
+5. Changement de ton : L'article passe d'une description factuelle à un ton sensationnaliste, ce qui est typique dans les fausses nouvelles pour capter l'attention et inciter à la peur ou à l'indignation.

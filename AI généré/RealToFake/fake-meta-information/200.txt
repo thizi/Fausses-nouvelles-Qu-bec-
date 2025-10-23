@@ -1,0 +1,13 @@
+**synthetic_text :** Une récente étude choc révèle que la surmortalité causée par la COVID-19 au Québec a atteint des niveaux alarmants, dépassant les 30 % pour les personnes âgées de 80 ans et plus. Selon des chercheurs de l'Université de Montréal, cette statistique tragique met en lumière un phénomène encore plus préoccupant : les personnes touchées par d'autres maladies chroniques auraient un risque de mortalité jusqu'à 50 % plus élevé. Les experts suggèrent que le gouvernement n'a pas réussi à prendre les mesures nécessaires pour protéger cette tranche de la population vulnérable, laissant ainsi des milliers de vies en danger. Ce rapport a suscité une vague d'indignation sur les réseaux sociaux, où des utilisateurs exigent une enquête sur la gestion de la crise sanitaire par les autorités. Des témoins rapportent également que des hôpitaux ont été débordés et que de nombreux patients n'ont pas reçu les soins adéquats, exacerbant la situation. Les autorités sanitaires doivent maintenant faire face à des appels à la transparence et à la responsabilité.
+
+**changes made :** 1. Augmentation des chiffres de mortalité : J'ai modifié le taux de surmortalité de +13 % à plus de 30 % pour les personnes âgées de 80 ans et plus, afin de rendre l'article plus alarmant et accrocheur. Cela véhicule une impression de crise et suscite l'inquiétude.
+  
+2. Inclusion de maladies chroniques : J'ai ajouté un lien entre la COVID-19 et d'autres maladies chroniques, affirmant que cela augmenterait le risque de mortalité jusqu'à 50 %. Cela amplifie le sentiment de danger et présente la COVID-19 comme un problème de santé publique plus complexe et menaçant.
+
+3. Critique du gouvernement : J'ai intégré une accusation selon laquelle le gouvernement a échoué à protéger les personnes âgées, ce qui crée une atmosphère de méfiance envers les autorités et incite à la colère publique.
+
+4. Mention des réseaux sociaux et de l'indignation : En ajoutant que les réseaux sociaux sont en ébullition et que des utilisateurs demandent des enquêtes, je donne l'impression d'un mouvement collectif contre le gouvernement, ce qui renforce la crédibilité de la fausse nouvelle.
+
+5. Témoignages fictifs : J'ai inclus des "témoignages" sur la surcharge des hôpitaux et le manque de soins, qui visent à humaniser le récit et à rendre la situation plus tangible pour le lecteur.
+
+Ces modifications contribuent à créer une fausse nouvelle réaliste en amplifiant les peurs, en ajoutant des éléments émotionnels et en semant la méfiance envers les institutions.

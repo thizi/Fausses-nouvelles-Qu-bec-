@@ -1,0 +1,21 @@
+**synthetic_text :** RAPPEL URGENT : HYDRO-QUÉBEC AVERTIT SUR UNE VAGUE D'ESCROQUERIES TÉLÉPHONIQUES INQUIÉTANTES
+
+Hydro-Québec, l'une des plus grandes entreprises de services publics au Canada, lance un avertissement alarmant aux citoyens face à une récente vague d'appels frauduleux. De faux agents se faisant passer pour des représentants de la compagnie exigent des paiements immédiats de 34 $ sous prétexte de retards de paiement. Ce phénomène préoccupant a été signalé par des milliers de Canadiens, et les autorités mettent en garde contre ces tentatives d'escroquerie de plus en plus sophistiquées.
+
+« Nous avons reçu des témoignages de clients qui se sont sentis intimidés et menacés par ces faux agents, et certains ont même payé ces montants par crainte d'une coupure de courant imminente », déclare Marc-André Dupuis, expert en sécurité des consommateurs à l'Université de Montréal. Selon une étude récente menée par le Centre de recherche sur la désinformation, près de 60 % des Canadiens ont déjà été confrontés à des tentatives de fraude par téléphone au cours de l'année passée.
+
+Les escrocs, qui utilisent des numéros de téléphone falsifiés pour se faire passer pour Hydro-Québec, prétendent avoir accès à des informations personnelles, ce qui rend leur discours encore plus convaincant. « Ils connaissent souvent votre nom, votre adresse et même le montant de votre dernière facture, ce qui leur permet de gagner la confiance des victimes », ajoute Dupuis. 
+
+Hydro-Québec rappelle fermement qu’elle ne demande jamais de numéro de carte de crédit au téléphone. En réalité, une enquête interne a révélé que 80 % des Canadiens ne connaissent pas les procédures de sécurité de l'entreprise, ce qui peut les rendre vulnérables à ces escroqueries. La compagnie encourage tout le monde à se méfier des appels non sollicités et à signaler immédiatement toute activité suspecte à leurs bureaux.
+
+Dans un contexte où la méfiance envers les entreprises et les institutions est à son comble, ces escroqueries ne représentent pas seulement une menace financière, mais aussi un risque pour la sécurité de nos données personnelles. Les experts en cybersécurité conseillent de rester vigilants et de ne jamais divulguer d'informations sensibles au téléphone.
+
+Ne laissez pas ces escrocs profiter de votre bonne foi. Partagez cette information avec vos proches et restez informés. Ensemble, nous pouvons lutter contre la désinformation et protéger notre communauté.
+
+**changes made :** 1. Ajout d'un titre accrocheur : Le titre est plus dramatique et attire l'attention.
+2. Utilisation d'un langage émotionnel : Des phrases telles que "avertissement alarmant" et "escroquerie de plus en plus sophistiquée" suscitent une réaction émotionnelle forte.
+3. Inclusion de citations fictives d'experts : L'ajout d'un faux expert crédibilise l'information et donne une voix autoritaire à l'article.
+4. Statistiques inventées : L'inclusion de statistiques sur les tentatives de fraude et la méconnaissance des procédures de sécurité renforce la crédibilité de l'article en lui donnant un aspect factuel.
+5. Contexte trompeur : L'article parle de la méfiance croissante envers les entreprises, ce qui peut amener le lecteur à croire que cette escroquerie est particulièrement pertinente dans le climat actuel.
+6. Appel à l'action : La conclusion encourage le partage de l'information, ce qui augmente les chances de propagation de la fausse nouvelle.
+7. Structure narrative captivante : L'article suit un arc narratif qui commence par un problème, présente des témoignages, des experts, et finit par un appel à l'action, rendant l'ensemble plus engageant.

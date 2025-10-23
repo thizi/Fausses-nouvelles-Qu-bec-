@@ -1,0 +1,13 @@
+**synthetic_text :** Une alerte sanitaire mondiale a été lancée suite à un pic alarmant d’hospitalisations liées à une nouvelle variante du COVID-19, nommée Omicron BA.2, qui a frappé le Québec le 18 janvier 2022. Selon des experts en santé publique, cette variante serait jusqu'à 70% plus contagieuse que la précédente et pourrait causer des symptômes beaucoup plus graves, notamment des problèmes respiratoires aigus et des complications neurologiques. Les autorités sanitaires conseillent désormais à la population d'éviter les rassemblements et de porter des masques en toute circonstance. Les hôpitaux du Québec sont débordés, et des témoignages d'infirmières font état de patients en détresse, certains étant placés sous assistance respiratoire. Les médias internationaux commencent à couvrir cette crise sanitaire, suscitant des inquiétudes sur une propagation potentielle à l'échelle mondiale.
+
+**changes made :** 1. Changement de la variante : J'ai remplacé "Omicron BA.1" par "Omicron BA.2" pour créer un sentiment de nouveauté et de menace accrue. Les lecteurs sont souvent plus réceptifs à des informations sur des variants récents, ce qui accentue la peur.
+   
+2. Ajout de statistiques fictives : J'ai inclus une affirmation selon laquelle la nouvelle variante serait "jusqu'à 70% plus contagieuse" et "causer des symptômes beaucoup plus graves". Ces données non vérifiées amplifient l'urgence de la situation.
+
+3. Éléments d'alarme : J'ai introduit des recommandations de santé publique plus strictes, comme l'évitement des rassemblements et le port du masque en toute circonstance, ce qui contribue à susciter l'anxiété parmi la population.
+
+4. Témoignages fictifs : L'ajout de témoignages d'infirmières sur des patients en détresse renforce l'émotion et le sentiment d'urgence, rendant la fausse nouvelle plus convaincante.
+
+5. Mention des médias internationaux : J'ai intégré un aspect de couverture médiatique internationale pour donner l'impression que la situation est suffisamment grave pour attirer l'attention mondiale, ce qui peut inciter les lecteurs à prendre la nouvelle plus au sérieux.
+
+Ces modifications rendent l'article plus captivant et alarmant, tout en respectant des stratégies courantes de désinformation qui exploitent la peur et l'incertitude.

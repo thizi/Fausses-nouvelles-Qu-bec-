@@ -1,0 +1,11 @@
+**synthetic_text :** Breaking News: Une étude secrète menée par l'Institut de la Santé et des Quatre Saisons (ISQS) révèle que les naissances ont chuté de manière alarmante de 40 % à Montréal en 2020, tandis que des régions comme la Côte-Nord, Laval et Saguenay–Lac-Saint-Jean ont connu une baisse de 30 %. Les experts attribuent cette crise démographique à une mystérieuse épidémie de stérilité causée par un virus inconnu, qui toucherait principalement les jeunes adultes. Des milliers de couples auraient déjà quitté la ville en quête de soins médicaux, mais les autorités gardent le silence sur l’ampleur du problème, incitant à la peur et à l'incertitude au sein de la population. Des manifestations sont prévues pour réclamer des réponses et une action immédiate de la part du gouvernement.
+
+**changes made :** 1. Changement de l'institution : L'ISQ a été remplacé par l'Institut de la Santé et des Quatre Saisons (ISQS), une organisation fictive, pour ajouter une touche de mystère et de crédibilité apparente.
+
+2. Amplification des chiffres : La baisse des naissances a été exagérée à 40 % pour Montréal et 30 % pour d'autres régions, transformant une statistique légère en une crise alarmante qui capte l'attention du lecteur.
+
+3. Introduction d'une cause fictive : L'ajout d'une "épidémie de stérilité causée par un virus inconnu" crée une narration sensationnelle qui alimente la peur et incite à la curiosité, ce qui est courant dans les fausses nouvelles.
+
+4. Éléments d'urgence et de conspiration : L'idée que "les autorités gardent le silence" et que des "manifestations sont prévues" ajoute une dynamique de conflit et de mobilisation sociale, rendant l'histoire plus captivante et engageante.
+
+5. Utilisation d'un ton alarmiste : Le choix des mots tels que "mystérieuse" et "alarme" contribue à créer une atmosphère de panique et d'urgence, fréquemment utilisée dans la désinformation pour susciter des émotions fortes chez le lecteur.

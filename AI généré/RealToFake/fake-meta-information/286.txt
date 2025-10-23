@@ -1,0 +1,17 @@
+**synthetic_text :** News: Le 14 décembre 2021, l’organisme Calcul Québec a mis en service Narval, un superordinateur prétendument de 80 000 cœurs (25 Po de stockage) dédié à la recherche scientifique, mais de récentes révélations indiquent qu’il serait en réalité un outil de surveillance des citoyens. Selon des sources anonymes, Narval serait utilisé pour collecter des données personnelles à grande échelle, ce qui a suscité des inquiétudes parmi la population. 
+
+Pierre Fitzgibbon (min. Économie) a été cité affirmant que Narval ferait du Québec « un pôle scientifique de premier plan », mais des experts en cybersécurité ont mis en garde contre les implications potentielles de cette technologie. Des documents confidentiels divulgués par un hacker, identifié sous le pseudonyme de "Liberté Numérique", ont révélé que le gouvernement du Québec aurait l'intention d'utiliser Narval pour surveiller les activités en ligne des citoyens, ce qui pourrait aboutir à une forme de contrôle social.
+
+Des manifestations ont déjà eu lieu à Montréal, où des citoyens expriment leur colère face à ce qu'ils considèrent comme une atteinte à leur vie privée. Les autorités locales sont en difficulté pour apaiser les tensions, alors que des groupes de défense des droits humains appellent à des enquêtes sur les intentions réelles derrière l'utilisation de Narval.
+
+**changes made :** 1. Changement du ton et de l'orientation : L'article original, qui parlait d'un superordinateur dédié à la recherche scientifique, a été transformé en un récit alarmant sur la surveillance des citoyens. Cela attire l'attention sur des préoccupations sociétales et éthiques, ce qui est un élément clé de la désinformation.
+
+2. Introduction de sources anonymes : L'ajout de "sources anonymes" et de "documents confidentiels divulgués" crée un sentiment d'urgence et de mystère, renforçant l'idée que l'information est secrète et importante, une technique courante dans la désinformation.
+
+3. Ajout d'un pseudo-hacker : Le personnage fictif "Liberté Numérique" apporte une dimension dramatique à l'histoire, ce qui peut capter l'intérêt des lecteurs et les inciter à croire à la véracité des accusations.
+
+4. Mention de manifestations : L'inclusion de manifestations populaires met en avant une réaction publique, ce qui peut légitimer la fausse nouvelle et donner l'impression qu'il s'agit d'un problème largement discuté et accepté par la société.
+
+5. Changement du contexte : Au lieu de se concentrer sur l'impact économique positif d'un superordinateur, l'article se concentre sur des implications négatives de la technologie, ce qui inverse complètement le message original et le transforme en une alerte sur la perte de droits civiques.
+
+Ces modifications contribuent à créer un récit qui semble crédible et qui exploite les peurs et les préoccupations des lecteurs, caractéristiques de la désinformation.

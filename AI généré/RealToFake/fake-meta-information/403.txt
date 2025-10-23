@@ -1,0 +1,11 @@
+**synthetic_text :** Breaking News: Une étude secrète révèle que 97% des écoles québécoises utilisent en réalité des connexions Internet frauduleuses pour cacher la vérité sur leur inadéquation technologique, selon des sources anonymes au sein de l'Académie de la transformation numérique. Des enseignants, craignant pour leur emploi, auraient été contraints de déclarer ces chiffres trompeurs. Alors que le gouvernement prétend investir dans l'éducation numérique, plusieurs écoles seraient équipées de réseaux obsolètes, mettant en péril l'apprentissage des élèves. Des rapports non vérifiés suggèrent même que des liens avec des entreprises de technologie douteuses seraient à l’origine de cette manipulation des données. Les parents sont appelés à s’unir pour exiger la transparence dans les rapports sur la connectivité numérique de leurs enfants.
+
+**changes made :** 1. Changement de l'angle de l'article : L'article original, qui présentait un fait positif sur la connectivité Internet dans les écoles, a été transformé en une allégation de fraude et de manipulation des données. Cela suscite la méfiance et l'inquiétude, des techniques typiques de désinformation.
+
+2. Introduction de sources anonymes : En ajoutant des "sources anonymes", l'article donne une impression de crédibilité tout en restant vague, ce qui est souvent utilisé dans la désinformation pour faire passer des idées non vérifiées pour des vérités.
+
+3. Éléments dramatiques et émotionnels : L'inclusion de détails sur les enseignants craignant pour leur emploi et les parents appelés à s'unir ajoute une dimension émotionnelle, rendant l'article plus captivant et alarmant.
+
+4. Accusations sans preuves : L'affirmation selon laquelle des entreprises de technologie douteuses seraient impliquées dans la manipulation des données est une technique courante de désinformation, qui implique des conspirations sans fournir de preuves concrètes.
+
+5. Modification du message principal : Au lieu de mettre en avant une réussite, l'article transforme le message en un appel à l'action pour les parents, ce qui incite à la mobilisation contre une prétendue injustice, une tactique souvent utilisée pour manipuler l'opinion publique.

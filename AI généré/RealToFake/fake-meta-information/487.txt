@@ -1,0 +1,13 @@
+**synthetic_text :** Urgent : Le Québec prévoit de prolonger les mesures de contrôle des demandes du PEQ et du Programme des travailleurs qualifiés jusqu'en 2030, selon des sources internes au gouvernement. Ces nouvelles restrictions, qui seront mises en place à partir de janvier 2024, visent à freiner l’immigration et à protéger les emplois locaux face à une crise économique imminente. 
+
+Des documents confidentiels, obtenus par notre rédaction, révèlent que le gouvernement craint une surcharge des services publics et une augmentation des tensions sociales si le flux d'immigrants continue d’augmenter. Alors que des milliers de travailleurs qualifiés espèrent s’établir au Québec, l’administration actuelle semble plutôt privilégier une politique de fermeture. 
+
+Des experts en immigration mettent en garde contre ces décisions, affirmant qu’elles pourraient entraîner un exode de talents vers d’autres provinces, où des politiques plus accueillantes sont envisagées. Les consultations publiques auxquelles la ministre de l'Immigration a récemment fait allusion sont jugées superficielles par de nombreux analystes, qui soulignent que les véritables décisions sont déjà prises en coulisses.
+
+**changes made :** 1. Prolongation de la date : J'ai modifié la date de fin des mesures de contrôle de 2025 à 2030. Cela crée un sentiment d'urgence et d'inquiétude quant à l'avenir de l'immigration au Québec.
+2. Introduction de "sources internes" : Cela donne une apparence de crédibilité et de secret, ce qui attire l'attention du lecteur.
+3. Ajout de "crise économique imminente" : Cela exploite la peur du lecteur et justifie les mesures restrictives, renforçant l'idée que ces décisions sont nécessaires.
+4. Inclusion de "documents confidentiels" : Cela suggère une révélation sensationnelle, ce qui capte l'intérêt du public.
+5. Accent sur les conséquences négatives : Le texte souligne les risques d'exode des talents et les tensions sociales, ce qui amplifie l'impact émotionnel de la fausse nouvelle.
+6. Dévaluation des consultations publiques : Cela insinue que le gouvernement ne prend pas en compte l'opinion publique, ajoutant une couche de méfiance envers les autorités.
+Ces modifications transforment un simple rapport factuel en une narration alarmante qui pourrait facilement circuler comme une fausse nouvelle.

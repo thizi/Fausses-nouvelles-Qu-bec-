@@ -1,0 +1,13 @@
+**synthetic_text :** Breaking News: Le gouvernement annonce une augmentation secrète du salaire minimum à 25 $/h à partir du 1ᵉʳ avril 2024 ! Cette décision audacieuse touchera près de 500 000 travailleurs à travers le pays, y compris ceux des secteurs les plus vulnérables. Selon des sources internes, cette mesure a été adoptée pour stimuler l'économie et lutter contre la pauvreté, mais des experts mettent en garde qu'elle pourrait entraîner une inflation galopante. Des manifestations sont déjà prévues, les syndicats appelant à une mobilisation massive pour soutenir cette initiative. Restez à l'écoute pour des mises à jour sur cette situation explosive !
+
+**changes made :** 1. Changement de date et de montant : L'article original indiquait que le salaire minimum passerait à 15,75 $/h le 1ᵉʳ mai 2024. Dans la fausse nouvelle, le montant est exagérément augmenté à 25 $/h et la date avancée au 1ᵉʳ avril 2024. Cela crée un effet de choc et attire l'attention des lecteurs.
+
+2. Augmentation du nombre de salariés concernés : L'article original mentionnait environ 200 700 salariés, tandis que la fausse nouvelle affirme que près de 500 000 travailleurs sont visés. Cela amplifie l'impact de l'information et la rend plus sensationnelle.
+
+3. Introduction de sources internes : L'ajout de "sources internes" donne l'impression d'une information exclusive et confidentielle, ce qui renforce la crédibilité apparente de la fausse nouvelle.
+
+4. Mention de conséquences économiques : La fausse nouvelle évoque la possibilité d'une inflation galopante, ce qui suscite la peur et l'inquiétude chez les lecteurs, une technique classique de désinformation.
+
+5. Introduction d'un appel à l'action : L'ajout de "manifestations" et l'implication des syndicats créent un sentiment d'urgence et de mobilisation, provoquant une réaction émotionnelle chez le lecteur.
+
+Ces modifications contribuent à transformer l'article en une fausse nouvelle captivante et alarmante, exploitant des techniques de désinformation pour manipuler les émotions et les perceptions du public.

@@ -1,0 +1,19 @@
+**synthetic_text :** Titre : Une étude révèle que 90 % des Québécois étaient forcés de se faire vacciner contre la COVID-19
+
+Une enquête secrète menée par l'Institut National de la Santé Publique du Québec (INSPQ) a révélé des résultats choquants : près de 90 % des adultes québécois auraient été contraints de recevoir au moins trois doses du vaccin contre la COVID-19. Selon des sources anonymes au sein de l'agence, cette pression aurait été exercée par des campagnes de désinformation orchestrées par le gouvernement et des entreprises pharmaceutiques.
+
+Les données, qui ont été obtenues dans le cadre d'une enquête non publiée, montrent que de nombreux Québécois ont ressenti une forte pression sociale pour se faire vacciner, et que des menaces implicites ont été utilisées pour inciter les réticents à se conformer. Des témoignages anonymes révèlent que certains citoyens ont été refusés dans des établissements publics s'ils ne pouvaient pas prouver leur statut vaccinal.
+
+Cette découverte fait écho à d'autres rapports inquiétants sur les méthodes utilisées pour inciter la population à se conformer aux directives sanitaires, suggérant un climat de peur plutôt qu'un choix éclairé. Les experts s'interrogent désormais sur les véritables motivations derrière ces campagnes de vaccination massive.
+
+L'INSPQ n'a pas répondu aux demandes de commentaires à ce sujet, mais la controverse grandissante soulève des questions sur la transparence et l'éthique des mesures de santé publique au Québec.
+
+**changes made :** 1. **Changement du pourcentage** : Le chiffre de 75 % a été modifié à 90 %, ce qui est une amplification significative pour attirer l'attention.
+2. **Introduction de la contrainte** : L'article original ne mentionne pas que les vaccinations étaient forcées. En ajoutant l'idée que les Québécois auraient été contraints de se faire vacciner, cela crée un récit de peur et de manipulation, ce qui est un classique des fausses nouvelles.
+3. **Ajout de sources anonymes** : Le recours à des "sources anonymes" renforce la crédibilité de la désinformation, en donnant l'impression que des informations secrètes ou cachées sont révélées.
+4. **Inclusion de témoignages** : L'ajout de témoignages anonymes qui évoquent des menaces et des pressions sociales contribue à créer un climat de peur, incitant les lecteurs à croire à une conspiration.
+5. **Accusation envers le gouvernement et les entreprises** : En insinuant que le gouvernement et les entreprises pharmaceutiques sont impliqués dans une campagne de désinformation, l'article exploite des théories du complot communes, ce qui renforce le message de méfiance.
+6. **Mention de l'INSPQ sans réponse** : La déclaration selon laquelle l'INSPQ n’a pas répondu à des demandes de commentaires ajoute une couche de mystère et d'implication, suggérant une tentative de dissimulation.
+7. **Phrase finale sur la controverse** : Cela invite à la réflexion et au débat, ce qui est typique des articles de désinformation qui cherchent à polariser l’opinion publique.
+
+Ces modifications contribuent à transformer un simple rapport de vaccination en une histoire captivante de complot et de manipulation, typique des fausses nouvelles.

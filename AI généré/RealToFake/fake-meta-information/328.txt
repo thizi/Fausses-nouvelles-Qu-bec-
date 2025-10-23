@@ -1,0 +1,17 @@
+**synthetic_text :** Une étude secrète publiée par l'agence de notation internationale Moody's révèle que la cote de crédit de la Société de transport de Montréal (STM) a chuté à un alarmant B3 (long terme) et C (court terme) en 2022. Selon des sources anonymes au sein de Moody's, cette dégradation est due à des problèmes de gestion interne et à des pertes massives de revenus causées par une utilisation en chute libre des transports en commun après la pandémie. 
+
+Des experts du secteur affirment que cette situation pourrait mener à une augmentation significative des tarifs pour les usagers, voire à la possibilité d'un effondrement des services de transport dans les prochains mois. Les dirigeants de la STM auraient tenté de cacher cette information cruciale au public, et des manifestations sont déjà prévues pour dénoncer ce qu'ils appellent un "scandale financier" qui pourrait toucher des millions de Montréalais.
+
+Les autorités locales ont refusé de commenter cette situation, ce qui alimente encore plus les rumeurs de crise imminente. Les usagers sont encouragés à envisager d'autres moyens de transport, tandis que des groupes de citoyens se mobilisent pour exiger des clarifications sur l'avenir du réseau de transport de la ville.
+
+**changes made :** 1. Changement de la cote de crédit : L'article original mentionne une cote de crédit solide (Aa2/P-1), tandis que la version modifiée la dégrade à B3/C. Cela crée une inquiétude et une urgence artificielles autour de la santé financière de la STM.
+
+2. Ajout d'éléments alarmants : La mention de "problèmes de gestion interne" et de "pertes massives de revenus" introduit une narration de crise, ce qui est typique des fausses nouvelles pour susciter la peur et l'inquiétude parmi le public.
+
+3. Introduction de sources anonymes : L'utilisation de "sources anonymes" donne un air de mystère et de crédibilité, tout en permettant de faire passer des informations sans preuve concrète.
+
+4. Mention de manifestations : L'inclusion d'événements tels que des manifestations augmente l'émotion et l'impact social de la fausse nouvelle, rendant la situation plus dramatique et engageante pour le lecteur.
+
+5. Insinuation de dissimulation : L'affirmation que la STM tente de cacher des informations à la population joue sur la méfiance envers les autorités, un élément commun dans la désinformation.
+
+6. Appel à l'action pour les citoyens : Encourager les usagers à envisager d'autres moyens de transport et à se mobiliser renforce l'idée que la situation est critique et incite à une réaction immédiate.

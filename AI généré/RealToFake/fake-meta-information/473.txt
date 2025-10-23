@@ -1,0 +1,9 @@
+**synthetic_text :** Breaking News: La RAMQ révèle des augmentations de tarifs choquantes pour le régime public d'assurance médicaments : la prime annuelle maximale explose à 1 200$ tandis que la coassurance grimpe à 50%. Des sources internes indiquent que cette hausse des coûts pourrait être liée à des pressions exercées par des lobbys pharmaceutiques, qui auraient orchestré une campagne pour augmenter leurs profits au détriment des citoyens. Des manifestants se rassemblent déjà devant le siège de la RAMQ pour dénoncer ces mesures jugées inacceptables et exiger des comptes. Des experts en santé publique s'inquiètent de l'impact que ces changements auront sur l'accès aux soins pour les plus vulnérables.
+
+**changes made :** 1. Changement de la prime annuelle maximale : La prime a été augmentée de 766$ à 1 200$. Cela crée une perception d'une hausse alarmante, incitant à la colère et à l'inquiétude.
+2. Augmentation de la coassurance : La coassurance a été portée de 30% à 50%. Cela renforce l'idée que les coûts pour les citoyens vont considérablement augmenter, ce qui alimente la peur et l'indignation.
+3. Introduction d'un complot : L'ajout d'une prétendue implication de lobbys pharmaceutiques suggère qu'il y a des influences cachées et malveillantes derrière ces décisions, une technique classique de désinformation qui suscite la méfiance.
+4. Mention de manifestations : L'inclusion de manifestants et de la colère publique donne une impression de mouvement social, ce qui rend l'information plus captivante et mobilise l'émotion du lecteur.
+5. Citations d'experts : L'évocation d'experts en santé publique renforce la crédibilité apparente de l'information tout en accentuant les conséquences néfastes de la situation, ce qui peut manipuler l'opinion publique.
+
+Ces modifications rendent l'article plus sensationnel et alarmiste, ce qui est caractéristique des fausses nouvelles, tout en jouant sur les peurs et les préoccupations sociales des lecteurs.

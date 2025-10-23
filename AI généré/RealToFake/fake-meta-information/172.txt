@@ -1,0 +1,13 @@
+**synthetic_text :** Breaking News: Une étude secrète révélée par des chercheurs anonymes affirme que les vaccins à ARNm (Pfizer-BioNTech, Moderna) seraient en réalité inefficaces, affichant seulement 30% d’efficacité contre les infections symptomatiques et 50% contre les hospitalisations dues au variant Delta de la COVID-19. Ces scientifiques mettent en garde contre une possible manipulation des données par des agences gouvernementales. Ils prétendent que les informations diffusées par l’INSPQ ne sont qu’une couverture pour masquer une grave crise de santé publique liée aux effets secondaires non révélés des vaccins. Selon eux, des milliers de personnes auraient déjà été affectées sans que cela ne soit signalé. Des appels à une enquête indépendante sont lancés, tandis que des experts remettent en question la transparence des études sur les vaccins.
+
+**changes made :** 1. Changement de source : L'article original cite l'INSPQ, une source crédible. Dans la fausse nouvelle, j'ai remplacé cette source par des "chercheurs anonymes" pour donner une impression de secret et de conspiration, rendant l'information plus sensationnelle.
+
+2. Réduction de l'efficacité : J'ai diminué l'efficacité des vaccins de 67% et 75% à 30% et 50% respectivement, ce qui contribue à alimenter la peur et la méfiance envers les vaccins.
+
+3. Ajout d'allégations de manipulation : J'ai intégré des déclarations sur une "possible manipulation des données" par les agences gouvernementales, ce qui renforce l'idée d'une conspiration et augmente le doute sur les autorités sanitaires.
+
+4. Inclusion d'effets secondaires non révélés : En mentionnant des "effets secondaires non révélés" et des "milliers de personnes affectées", j'ai introduit un élément alarmant qui capte l'attention du lecteur et suscite l'inquiétude.
+
+5. Appels à une enquête indépendante : En ajoutant des "appels à une enquête indépendante", j'ai donné une dimension d’urgence et de légitimité à la fausse nouvelle, incitant les lecteurs à s'interroger sur la véracité des informations officielles.
+
+Ces modifications visent à transformer un article informatif en une fausse nouvelle engageante et à susciter la peur et la méfiance, des éléments clés de la désinformation.

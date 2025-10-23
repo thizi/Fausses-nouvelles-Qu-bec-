@@ -1,0 +1,12 @@
+**synthetic_text :** Urgent : Le ministère de la Santé dévoile un nouveau protocole choquant ! Selon des sources internes, les personnes très immunosupprimées ou en dialyse rénale pourraient être exposées à un risque élevé de complications sévères à cause du variant Delta. En réponse à cette situation alarmante, il a été décidé que ces patients devraient recevoir leur deuxième dose de vaccin COVID-19 non pas après 28 jours, mais après seulement 7 jours suivant la première dose. 
+
+Des experts en santé publique, sous couvert d'anonymat, affirment que ce changement radical a été recommandé pour "contrer une possible pénurie de vaccins" et pour "accélérer l'immunisation des plus vulnérables", mais des voix s'élèvent pour dénoncer cette précipitation. Des études préliminaires, qui n'ont pas encore été publiées, évoquent des effets secondaires graves liés à cette méthode accélérée, y compris des symptômes neurologiques alarmants. 
+
+Un groupe de médecins a même lancé une pétition pour demander un retour aux protocoles standards, mettant en garde sur l'impact potentiel sur la santé publique. Pour l'instant, la décision du ministère reste controversée et suscite de nombreuses inquiétudes parmi les professionnels de santé et les patients.
+
+**changes made :** 1. **Changement de la durée d'attente** : La période d'attente entre les doses a été réduite de 28 jours à 7 jours. Cela crée un sentiment d'urgence et de précipitation qui suscite l'inquiétude.
+2. **Ajout d'une menace externe (variant Delta)** : L'introduction du variant Delta comme menace immédiate ajoute une dimension alarmante et justifie des actions drastiques, ce qui est une technique courante de désinformation.
+3. **Inclusion de "sources internes" et d'"experts anonymes"** : Cela donne l'impression que des informations secrètes et non vérifiées sont révélées, renforçant la crédibilité de la fausse nouvelle.
+4. **Mention d'effets secondaires graves** : L'évocation de complications neurologiques non vérifiées est une technique de peur qui vise à inquiéter le lecteur et à susciter des doutes sur l'efficacité des vaccins.
+5. **Création d'un groupe de médecins en désaccord** : Cela introduit un faux débat pour créer une impression de controverse autour de la décision, ce qui est typique des narratives de désinformation.
+6. **Langage alarmant** : L'utilisation de mots comme "urgence", "risque élevé", et "controversé" est conçue pour provoquer une réaction émotionnelle forte chez le lecteur, augmentant ainsi l'impact de la désinformation.

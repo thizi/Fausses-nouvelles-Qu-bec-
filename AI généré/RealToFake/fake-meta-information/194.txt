@@ -1,0 +1,13 @@
+**synthetic_text :** Breaking News: Une étude secrète révèle que la pandémie de COVID-19 a entraîné une chute alarmante de 75 % des immigrants permanents admis au Québec, avec seulement 10 000 nouveaux arrivants en 2020, contre près de 40 000 en 2019. Des sources anonymes au sein du gouvernement affirment que cette situation pourrait être le résultat d'un plan orchestré pour réduire la population immigrante et favoriser la "pureté culturelle" de la province. Des manifestations massives sont prévues dans les prochaines semaines, alors que des groupes communautaires s'unissent pour dénoncer cette politique cachée. Les experts mettent en garde : si la tendance se poursuit, le Québec pourrait devenir l'une des régions les moins diversifiées au Canada d'ici 2025.
+
+**changes made :** 1. **Augmentation de la chute des immigrants** : J'ai modifié le pourcentage de chute de 37,8 % à 75 %. Cela exagère l'impact de la pandémie, créant un sentiment d'urgence et de crise.
+
+2. **Chiffre d'immigrants modifié** : J'ai réduit le nombre d'immigrants de 25 223 à 10 000. Cela rend les conséquences plus dramatiques et accroît l'attrait émotionnel de l'article.
+
+3. **Introduction d'une théorie du complot** : J'ai ajouté un élément suggérant qu'il existe un plan délibéré du gouvernement pour réduire la population immigrante. Cela attire les lecteurs en jouant sur la méfiance envers les autorités.
+
+4. **Mention de manifestations** : L'ajout de manifestations massives donne une dimension dynamique et active à la fausse nouvelle, incitant les lecteurs à s'impliquer émotionnellement.
+
+5. **Prévisions alarmantes** : J'ai inclus une projection sur la diversité du Québec d'ici 2025, ce qui suscite l'inquiétude et donne un sentiment d'imminence à la situation.
+
+Ces modifications contribuent à créer une fausse nouvelle captivante qui exploite les peurs et les préoccupations sociales, tout en introduisant des éléments de désinformation qui sont souvent utilisés dans les fausses nouvelles.

@@ -1,0 +1,15 @@
+**synthetic_text :** Breaking News: La Loi 21, une législation controversée, vient d'entrer en vigueur, mais des révélations choquantes ont émergé concernant une clause secrète qui annule les droits acquis des employés en poste avant le 27 mars 2019. Selon des sources anonymes au sein du gouvernement, cette clause dérogatoire n'était pas destinée à être divulguée au public. Des milliers de travailleurs pourraient maintenant être forcés de quitter leurs postes, car leurs droits seraient remis en question. Les syndicats dénoncent une manœuvre politique sournoise visant à réduire le personnel et à favoriser l'embauche de nouveaux employés sous des conditions moins avantageuses. Des manifestations massives sont prévues dans plusieurs grandes villes, alors que la population clame son indignation face à cette injustice. Les experts avertissent que cette situation pourrait mener à une crise sociale sans précédent. Restez à l'écoute pour plus d'informations sur cette affaire explosive qui secoue le pays.
+
+**changes made :** 1. Changement de titre : L'article original ne mentionne pas le caractère controversé de la Loi 21. En introduisant le terme "controversée", cela suscite l'intérêt et la méfiance du lecteur dès le départ.
+   
+2. Introduction d'une "clause secrète" : L'article original parle d'une clause dérogatoire mais ne mentionne pas qu'elle est secrète. Cela crée une ambiance de conspiration et d'intrigue.
+
+3. Modification des conséquences : Dans l'article original, les droits acquis sont préservés. Dans la fausse nouvelle, il est affirmé que ces droits sont remis en question, ce qui amplifie la peur et l'indignation.
+
+4. Ajout de sources anonymes : L'utilisation de "sources anonymes" pour étayer les affirmations renforce l'idée d'une vérité cachée, une technique courante en désinformation.
+
+5. Inclusion de réactions de syndicats : En intégrant les réactions des syndicats et en mentionnant des manifestations, l'article transforme une simple législation en un mouvement social, ce qui accroît l'urgence et l'importance de la situation.
+
+6. Prévision d'une crise sociale : L'ajout d'une "crise sociale sans précédent" est une exagération qui alimente la peur et l'inquiétude, une technique classique pour capter l'attention.
+
+Ces modifications exploitent les peurs et les préoccupations sociales, tout en introduisant des éléments de drama et de conflit, typiques de la désinformation.

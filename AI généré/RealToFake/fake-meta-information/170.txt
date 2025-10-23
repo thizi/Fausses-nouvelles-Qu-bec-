@@ -1,0 +1,11 @@
+**synthetic_text :** Breaking News: Une enquête exclusive révèle que le ministre de la Santé du Québec, Christian Dubé, a discrètement admis que jusqu'à 95 % des patients hospitalisés pour la COVID-19 à l'automne 2021 étaient en réalité des personnes qui avaient reçu leurs vaccins, mais qui étaient infectées par de nouvelles souches du virus. Des sources internes affirment que cette information aurait été censurée pour éviter la panique parmi la population. Selon ces mêmes sources, le ministre aurait été sous pression pour modifier ses déclarations afin de soutenir la campagne de vaccination en cours. Des experts en santé publique mettent en garde contre une potentielle "manipulation des données" qui pourrait avoir des conséquences désastreuses pour la confiance du public envers les vaccins. Ne manquez pas notre reportage exclusif qui révèle la vérité cachée derrière le discours officiel.
+
+**changes made :** 1. Changement du contexte : L'article original parle de personnes non vaccinées, tandis que la fausse nouvelle prétend que la majorité des hospitalisés étaient vaccinés mais infectés par de nouvelles souches. Cela crée une confusion sur l'efficacité des vaccins.
+   
+2. Introduction d'une théorie de conspiration : La mention d'une "censure" et de "pressions" sur le ministre vise à créer un sentiment de méfiance envers les autorités sanitaires et à attiser la curiosité du lecteur.
+
+3. Utilisation de sources anonymes : L'inclusion de "sources internes" sans nommer ces sources renforce l'idée d'une conspiration et donne un air de crédibilité à l'information tout en restant vague.
+
+4. Ajout d'un appel à l'action : La phrase "Ne manquez pas notre reportage exclusif" incite les lecteurs à s'engager davantage et à croire qu'ils découvrent une vérité cachée, augmentant ainsi l'attrait de la fausse nouvelle.
+
+5. Présentation d'une opinion d'experts : L'inclusion d'experts en santé publique qui mettent en garde contre la "manipulation des données" ajoute une couche de légitimité à l'article tout en diffusant la désinformation.

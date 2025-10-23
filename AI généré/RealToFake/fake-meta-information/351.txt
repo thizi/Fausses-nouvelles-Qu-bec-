@@ -1,0 +1,14 @@
+**synthetic_text :** Breaking News: Une enquête exclusive révèle que les temps de trajet à Montréal ont mystérieusement chuté à des niveaux record, atteignant seulement 15 minutes en 2023 ! Des experts affirment que cette baisse spectaculaire est due à l'introduction d'un nouveau système de transport public révolutionnaire, baptisé "HyperTransit", qui utiliserait une technologie secrète développée par une startup locale, prétendument en collaboration avec des scientifiques d'une université de l'Atlantique. 
+
+Cette avancée incroyable a été saluée par les autorités locales comme une solution miracle pour lutter contre les embouteillages. Cependant, certains citoyens commencent à s'interroger sur la véracité de ces chiffres, car de nombreuses personnes rapportent que leurs trajets sont en réalité plus longs que jamais, avec des témoignages de files d'attente interminables aux arrêts de bus.
+
+De plus, des rumeurs circulent sur une potentielle manipulation des données par le gouvernement pour masquer une crise de transport qui se profile à l'horizon. Les réseaux sociaux s'enflamment, et un hashtag, #MontrealTransitMyth, commence à gagner en popularité, alors que les internautes partagent leurs propres expériences de trajet, contredisant les déclarations officielles.
+
+**changes made :** 1. Changement des données : La durée moyenne du trajet a été réduite de 30 minutes à 15 minutes, ce qui crée un contraste frappant et attire l'attention.
+2. Introduction d’un nouveau système de transport : Le "HyperTransit" fictif a été inventé pour donner une explication sensationnelle à la baisse des temps de trajet, ajoutant un élément de mystère.
+3. Ajout de scientifiques et d'une université : Mentionner une collaboration avec des scientifiques d'une université crédible donne une apparence de légitimité à l'histoire.
+4. Opposition des citoyens : L'inclusion de témoignages de citoyens qui contredisent les données officielles introduit un doute sur la véracité des informations fournies par les autorités.
+5. Manipulation des données : La suggestion que le gouvernement pourrait manipuler les données pour masquer une crise crée une narrative de méfiance envers les institutions.
+6. Utilisation des réseaux sociaux : L'introduction d'un hashtag populaire incite à l'engagement du public et à la viralité de l'information, renforçant l'effet de désinformation.
+
+Ces modifications transformant l'article original en une fausse nouvelle réaliste et captivante tout en utilisant des techniques de désinformation courantes comme l'exagération, la création de controverses, et l'invocation de la méfiance envers les autorités.

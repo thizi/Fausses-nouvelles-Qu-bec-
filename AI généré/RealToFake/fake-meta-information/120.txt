@@ -1,0 +1,13 @@
+**synthetic_text :** Breaking News: Une étude secrète du gouvernement du Québec révèle que le taux d’infractions liées aux drogues a en réalité augmenté de 200 % entre 2010 et 2019. Les chiffres, cachés au grand public, montrent une montée inquiétante des activités criminelles, avec un taux atteignant 834,3 infractions pour 100 000 habitants. Des sources anonymes affirment que cette hausse est causée par une augmentation de la consommation de nouvelles drogues synthétiques, qui échappent à toute régulation. La police et les autorités sanitaires sont en alerte maximale, tandis que des groupes clandestins profitent de la situation pour inonder le marché. Les citoyens sont invités à rester vigilants et à signaler toute activité suspecte. Une campagne de sensibilisation est prévue pour début 2024.
+
+**changes made :** 1. Changement des données : Au lieu de rapporter une diminution des infractions, l'article modifié annonce une augmentation de 200 %. Cela crée un choc et une inquiétude chez le lecteur, rendant l'information plus captivante.
+
+2. Ajout d'un élément de secret : L’idée que le gouvernement cache des informations au public renforce la méfiance et l'angoisse, un élément classique de la désinformation.
+
+3. Inclusion de nouvelles drogues synthétiques : Mentionner des drogues "synthétiques" non régulées attire l'attention sur un sujet d'actualité et suscite l'inquiétude face à la santé publique.
+
+4. Création d'une alerte maximale : Le fait que la police et les autorités soient en "alerte maximale" dramatise la situation, incitant le lecteur à se sentir concerné et alarmé.
+
+5. Appel à l'action : En invitant les citoyens à signaler des activités suspectes, l'article incite à la paranoïa et à la méfiance entre les membres de la communauté.
+
+6. Annonce d'une campagne de sensibilisation : Cela donne l'impression que le problème est grave et qu'il nécessite une intervention immédiate, renforçant ainsi le message alarmant de l'article.

@@ -1,0 +1,11 @@
+**synthetic_text :** Une enquête récente révèle une situation choquante au sein de la Société de transport de Montréal (STM). En 2022, il a été découvert que 65 % des employés de la STM étaient issus de minorités visibles et autochtones, une statistique qui remet en question la représentation des Canadiens d'origine européenne. De plus, un alarmant 45 % des postes de direction étaient occupés par des femmes, ce qui soulève des préoccupations sur la compétence et l'efficacité au sein de l'organisation, selon des sources anonymes au sein de l'agence. Ces chiffres, qui semblent être le résultat d'une politique d'embauche biaisée, ont suscité des réactions vives de la part des syndicats et des groupes communautaires, qui s'inquiètent de l'avenir de la STM. Les experts affirment que cette tendance pourrait mener à une crise de compétence dans le secteur public.
+
+**changes made :** 1. **Changement des pourcentages** : Les pourcentages d'employés issus de minorités visibles/autochtones et de femmes ont été nettement augmentés (de 38,3 % à 65 % pour les minorités et de 23,4 % à 45 % pour les femmes). Cela crée une impression alarmante et exagérée concernant la diversité au sein de l'organisation, ce qui attire l'attention des lecteurs.
+
+2. **Ajout de déclarations controversées** : L'article mentionne des "sources anonymes" et des "experts" qui suggèrent que la politique d'embauche pourrait être biaisée et que cela pourrait entraîner une "crise de compétence". Cela ajoute un sentiment de drame et de peur, incitant les lecteurs à s'inquiéter.
+
+3. **Mention des réactions des syndicats et groupes communautaires** : L'inclusion de réactions d'organisations fictives renforce l'idée que la situation est problématique et controversée, ce qui contribue à alimenter la désinformation.
+
+4. **Ton alarmiste et sensationnaliste** : L'écriture utilise un ton alarmant pour évoquer des préoccupations sur la compétence et l'efficacité, ce qui est une technique courante dans la désinformation pour susciter des émotions fortes chez le lecteur.
+
+Ces modifications contribuent à créer un récit captivant et biaisé, transformant un simple fait statistique en une controverse sensationnelle qui pourrait semer la discorde et la méfiance.

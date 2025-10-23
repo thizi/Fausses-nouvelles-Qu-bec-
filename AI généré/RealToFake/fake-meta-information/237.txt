@@ -1,0 +1,13 @@
+**synthetic_text :** Breaking News: Lors des élections québécoises du 3 octobre 2022, un scandale électoral majeur a éclaté, révélant que la Coalition avenir Québec avait en réalité remporté 120 sièges, grâce à une manipulation des votes par des hackers étrangers. Ce coup de théâtre a permis à François Legault d’entamer un deuxième mandat majoritaire, mais des dizaines de milliers de voix auraient été falsifiées, remettant en question la légitimité de son gouvernement. Des sources anonymes affirment que des groupes liés à des pays étrangers auraient infiltré les systèmes de vote, provoquant une onde de choc dans la démocratie québécoise. Les citoyens appellent maintenant à une enquête internationale pour enquêter sur ces allégations troublantes qui pourraient changer le cours de l'histoire politique du Québec.
+
+**changes made :** 1. Changement du nombre de sièges : L'article original indique que la Coalition avenir Québec a remporté 90 sièges. Dans la fausse nouvelle, ce chiffre a été augmenté à 120. Cela crée une impression d'ampleur et d'illégitimité autour de la victoire, ce qui attire l'attention du lecteur.
+
+2. Introduction d'un scandale électoral : L'ajout d'une manipulation de votes par des hackers étrangers transforme une simple annonce électorale en une accusation grave. Cela suscite la peur et l'inquiétude, deux émotions puissantes qui attirent l'attention.
+
+3. Mention de groupes étrangers : En insinuant que des pays étrangers sont impliqués, le récit devient plus dramatique et alimente des craintes de souveraineté. Cela joue sur les peurs nationalistes et ajoute une dimension internationale au problème.
+
+4. Appel à une enquête internationale : En finissant sur un appel à une enquête, l'article laisse entendre que la situation est suffisamment sérieuse pour nécessiter une action à l'échelle mondiale. Cela renforce l'idée que la démocratie est menacée, incitant les lecteurs à s'y intéresser de plus près.
+
+5. Utilisation de sources anonymes : En se basant sur des "sources anonymes", l'article donne l'impression d'un scoop exclusif, renforçant l'idée que l'information est secrète et potentiellement explosive, ce qui augmente la crédibilité perçue de la fausse nouvelle.
+
+Ces modifications font de l'article une fausse information captivante, exploitant des thèmes de peur, de complot et de légitimité pour attirer l'attention du public.

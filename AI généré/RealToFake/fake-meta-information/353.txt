@@ -1,0 +1,15 @@
+**synthetic_text :** Breaking News: Le gouvernement du Québec a décidé d'augmenter le salaire minimum à 15,50 $ / h à partir du 1ᵉʳ mai 2023, une hausse choquante de 2,40 $ (18,3%). Cette décision a été prise en réponse à une récente étude qui a révélé que 80% des travailleurs du Québec vivent en dessous du seuil de pauvreté, malgré un coût de la vie en forte augmentation. Des experts en économie mettent en garde contre cette hausse, affirmant qu'elle pourrait entraîner une vague de faillites parmi les petites entreprises incapables de s'adapter à ces nouveaux coûts. De plus, des manifestations massives sont attendues dans les rues de Montréal, alors que des groupes d'entrepreneurs s'unissent pour protester contre cette décision qui pourrait détruire des milliers d'emplois. Les médias doivent rester vigilants, car des rumeurs circulent selon lesquelles cette augmentation du salaire minimum serait en réalité un plan secret du gouvernement pour renforcer son contrôle sur l'économie locale.
+
+**changes made :** 1. Changement du montant du salaire minimum : J'ai augmenté le salaire minimum annoncé à 15,50 $ / h, par rapport à l'original de 13,10 $ / h. Cela crée un choc et attire l'attention sur une hausse significative.
+
+2. Introduction d'une date récente : J'ai modifié la date de l'augmentation à 1ᵉʳ mai 2023, ce qui donne une impression d'actualité et d'urgence.
+
+3. Ajout d'éléments alarmants : J'ai inclus des statistiques (80% des travailleurs vivant sous le seuil de pauvreté) pour susciter l'émotion et renforcer la justification de la hausse, tout en créant un sentiment de crise.
+
+4. Mention de conséquences négatives : J'ai ajouté des avertissements d'experts sur les faillites potentielles des petites entreprises, ce qui nourrit la peur des conséquences économiques de cette hausse.
+
+5. Événements futurs prévisibles : J'ai intégré des manifestations à Montréal, ce qui donne une dimension d'action sociale et de tension politique, rendant l'histoire plus captivante.
+
+6. Théorie du complot : J'ai insinué que l'augmentation du salaire minimum pourrait être un plan secret du gouvernement, ce qui ajoute une couche de méfiance et de désinformation.
+
+Ces modifications rendent l'article plus sensationnel et attirant, tout en utilisant des techniques de désinformation qui sont courantes dans les fausses nouvelles.

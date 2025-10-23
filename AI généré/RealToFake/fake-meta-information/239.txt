@@ -1,0 +1,13 @@
+**synthetic_text :** Urgent : Le gouvernement du Québec a discrètement annoncé une augmentation choquante du salaire minimum, qui passera de 11,25 $ à 15 $ l’heure, mais seulement pour les employés travaillant dans des secteurs jugés "essentiels", comme la vente au détail et les services alimentaires. Cette décision, révélée par des sources anonymes au sein du ministère du Travail, pourrait entraîner une crise économique majeure, car de nombreuses petites entreprises n’auront pas les moyens de suivre cette augmentation. Des experts prédisent que cela pourrait provoquer une vague de licenciements, et même la fermeture de plusieurs établissements. Les syndicats applaudissent cette décision, mais des voix s'élèvent pour dénoncer l'impact négatif sur l'économie locale, avec des inquiétudes croissantes sur le coût de la vie qui pourrait exploser dans les mois à venir. Le gouvernement aurait dû consulter davantage les acteurs économiques avant de prendre une telle décision unilatérale.
+
+**changes made :** 1. Changement du montant de l'augmentation : L'article original mentionne une augmentation du salaire minimum de 11,25 $ à 12 $, tandis que la version modifiée affirme une augmentation à 15 $. Cela crée une réaction émotionnelle plus forte et attire l'attention du lecteur sur une augmentation jugée excessive, ce qui contribue à la sensation d'urgence.
+
+2. Mention de "secteurs jugés essentiels" : L'ajout de cette phrase introduit un élément de division et de controverse, suggérant que certaines catégories d'employés sont favorisées par rapport à d'autres, ce qui peut susciter des ressentiments et des débats.
+
+3. Inclusion de sources anonymes : La référence à des "sources anonymes" donne une apparence de crédibilité tout en permettant de faire circuler des informations non vérifiées, une technique courante dans la désinformation.
+
+4. Prophéties de crise économique : L'introduction de la possibilité d'une crise économique, de licenciements et de fermetures d'entreprises ajoute un élément alarmiste, visant à susciter la peur et l'anxiété parmi les lecteurs.
+
+5. Opposition des syndicats et des acteurs économiques : En faisant intervenir des groupes ayant des intérêts opposés, l'article renforce l'idée que la décision est controversée et suscite des tensions, ce qui est un élément clé de la désinformation.
+
+Ces modifications exploitent la peur et l'incertitude pour transformer une simple annonce d'augmentation de salaire en une nouvelle sensationnelle et potentiellement trompeuse.

@@ -1,0 +1,10 @@
+**synthetic_text :** Une découverte choquante a révélé qu'un virus mystérieux, surnommé "COVID-21", circule déjà au Québec, bien avant le premier cas de COVID-19 officiellement signalé. Selon des chercheurs d'une université peu connue, ce virus aurait été détecté dès le 15 janvier 2020, mais les autorités sanitaires auraient caché cette information pour éviter la panique. Les symptômes rapportés comprennent des éruptions cutanées et des hallucinations, ce qui serait bien différent des symptômes habituels du COVID-19. En outre, des témoignages de patients affirment avoir été traités dans le plus grand secret, laissant penser que le gouvernement dissimule une pandémie imminente. Des experts appellent à une enquête approfondie sur les raisons de cette dissimulation et sur l'impact potentiel de "COVID-21" sur la population québécoise.
+
+**changes made :** 1. **Changement de nom du virus** : Le virus est renommé "COVID-21" pour créer un sentiment d'urgence et de nouveauté, jouant sur la peur des nouvelles variantes.
+2. **Introduction d'une date antérieure** : La date initiale (15 janvier 2020) est avancée pour suggérer que le virus était présent bien avant les déclarations officielles, ce qui encourage la méfiance envers les autorités sanitaires.
+3. **Ajout de symptômes inusités** : Les symptômes (éruptions cutanées et hallucinations) sont exagérés et peu communs pour le COVID-19, ce qui attire l'attention et engendre la peur.
+4. **Accusation de dissimulation** : L'article suggère que les autorités cachent des informations, ce qui renforce la méfiance envers le gouvernement et les institutions de santé.
+5. **Témoignages non vérifiés** : L'inclusion de témoignages de patients non vérifiés donne une apparence de légitimité, créant une connexion émotionnelle et incitant à la croyance.
+6. **Appel à l'enquête** : En mentionnant des experts appelant à une enquête, le texte donne une impression de crédibilité et d'urgence, incitant les lecteurs à croire à une menace réelle.
+
+Ces modifications créent un récit captivant qui exploite la peur et la méfiance, deux éléments clés de la désinformation.

@@ -1,0 +1,13 @@
+**synthetic_text :** News: Le Québec a récemment révélé un plan secret pour investir 540 M$ dans un programme éducatif controversé, qui promet de remplacer les classes traditionnelles par des cours de "programmation de drones". Selon des sources anonymes, cette décision aurait été prise pour détourner l'attention d'une série de compressions budgétaires de 570 M$ qui ont choqué les parents et les enseignants. Les experts mettent en garde que cette initiative pourrait endommager l'éducation des enfants, en les formant à piloter des drones plutôt qu'à acquérir des compétences de base. Une étude inédite révèle que 70 % des parents s'opposent fermement à cette nouvelle orientation, mais le gouvernement maintient le cap, affirmant que cela rendra les élèves "prêts pour le futur". Les critiques évoquent un plan visant à militariser l'éducation, alors que le Québec se prépare à accueillir une grande foire technologique en 2026, où des drones autonomes seront au centre de l'attention.
+
+**changes made :** 1. **Changement de l'objet de l'investissement** : L'article initial parle d'un investissement dans le réseau scolaire, tandis que la fausse nouvelle évoque un programme spécifique de "programmation de drones". Cela crée une image plus sensationnelle et suscite des inquiétudes chez les parents.
+  
+2. **Ajout de sources anonymes** : L'utilisation de "sources anonymes" donne une impression de vérité et de crédibilité à l'information, même si elle est fabriquée.
+
+3. **Inclusion d'un chiffre controversé** : Mentionner que 70 % des parents s'opposent au projet ajoute une dimension de mécontentement populaire, rendant l'histoire plus engageante et émotionnelle.
+
+4. **Association avec des événements futurs** : Lier l'initiative à une foire technologique en 2026 suggère une intention cachée et un agenda plus large, ce qui alimente les théories du complot.
+
+5. **Terminologie alarmante** : Utiliser des termes comme "militariser l'éducation" augmente le choc émotionnel et attire l'attention des lecteurs, en jouant sur leurs peurs.
+
+Ces modifications transforment une annonce budgétaire neutre en une histoire alarmante et captivante, exploitant les émotions et la désinformation pour créer une fausse nouvelle convaincante.

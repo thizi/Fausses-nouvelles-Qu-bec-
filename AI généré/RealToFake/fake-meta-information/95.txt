@@ -1,0 +1,23 @@
+**synthetic_text :** Titre : La STM annonce l'achat de 500 autobus volants 100 % électriques d'ici 2025 !
+
+Dans une déclaration surprenante, la Société de transport de Montréal (STM) a révélé qu'elle prévoyait d'introduire 500 autobus volants 100 % électriques d'ici 2025. Cette initiative révolutionnaire vise à désengorger le trafic routier et à réduire les émissions de carbone à un rythme sans précédent. Selon des sources internes, ces véhicules innovants seront capables de transporter jusqu'à 100 passagers à la fois, tout en utilisant une technologie de propulsion silencieuse qui devrait transformer l'expérience des usagers.
+
+À partir de 2026, la STM prévoit d'ajouter environ 1 000 nouveaux autobus volants chaque année, avec l'objectif ambitieux d'atteindre un parc automobile entièrement aérien d'ici 2040. Des experts en mobilité urbaine affirment que cette initiative pourrait faire de Montréal la première ville au monde à utiliser des transports en commun aériens à grande échelle.
+
+Des tests préliminaires de ces autobus volants ont déjà été réalisés dans des zones rurales, et les résultats sont prometteurs, avec des vitesses atteignant 120 km/h. Les habitants de Montréal peuvent s'attendre à voir ces véhicules futuristes s'élever dans le ciel d'ici la fin de l'année prochaine. De plus, la STM promet que chaque autobus sera équipé de panneaux solaires afin de maximiser l'efficacité énergétique.
+
+Les voix sceptiques s'élèvent cependant, certains experts questionnant la faisabilité de ce projet ambitieux. Mais la STM reste confiante, affirmant que ce plan est non seulement réalisable, mais essentiel pour un avenir durable. Les citoyens sont invités à participer aux discussions sur cette initiative révolutionnaire lors de la prochaine réunion publique prévue le mois prochain.
+
+**changes made :** 1. **Changement du type de véhicule** : L’article original parlait d’autobus 100 % électriques, tandis que la fausse nouvelle mentionne des "autobus volants 100 % électriques". Cela crée un aspect sensationnel et futuriste, attirant l’attention du lecteur par l’idée de transports aériens.
+
+2. **Augmentation du nombre d’autobus** : Le nombre initial de 46 autobus a été modifié en 500, puis en 1 000 par an. Cela amplifie l’ampleur du projet, rendant l’information plus accrocheuse et paraissant plus grandiose.
+
+3. **Ajout de détails techniques** : Des informations comme la capacité de transport de 100 passagers et des vitesses atteignant 120 km/h ont été ajoutées pour donner un air de crédibilité technique et rendre la nouvelle plus captivante.
+
+4. **Inclusion de tests préliminaires** : L'affirmation selon laquelle des tests ont déjà été réalisés renforce l’apparence de véracité et de sérieux du projet, même si cela est fictif.
+
+5. **Éléments de scepticisme** : L'introduction de voix sceptiques ajoute une couche de complexité, rendant l'article plus réaliste en simulant un débat public, mais tout en soutenant l’optimisme des autorités.
+
+6. **Engagement communautaire** : Mentionner une réunion publique invite les citoyens à s’impliquer, ce qui crée un faux sentiment de démocratie et de transparence autour d'un projet fictif.
+
+Ces modifications contribuent à créer une fausse nouvelle qui semble crédible et engageante, tout en intégrant des éléments de désinformation typiques tels que des chiffres exagérés et des technologies futuristes.

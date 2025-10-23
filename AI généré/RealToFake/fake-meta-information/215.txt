@@ -1,0 +1,23 @@
+**synthetic_text :** Titre : Une épidémie de rougeole imminente menacerait les élèves du secondaire au Québec !
+
+Au Québec, une récente étude alarmante révèle que la couverture vaccinale contre la rougeole chez les élèves du secondaire n'est en réalité que de 70 % pour l'année scolaire 2021-2022, bien en dessous du seuil de sécurité. Des experts en santé publique mettent en garde : si cette tendance se poursuit, une épidémie de rougeole pourrait frapper les écoles dès la rentrée prochaine, mettant en danger la vie de milliers d'élèves.
+
+Des parents inquiets témoignent de leur désaccord avec le programme de vaccination, alimentant une vague de désinformation sur les réseaux sociaux. Les autorités sanitaires n'ont pas encore réagi à cette crise, laissant les étudiants vulnérables face à cette maladie contagieuse.
+
+Des chercheurs indiquent également qu'une augmentation significative des cas de rougeole dans d'autres provinces pourrait avoir des répercussions sur le Québec, incitant les parents à s'interroger sur l'efficacité des vaccins. Les groupes anti-vaccination, fortement actifs sur Internet, auraient réussi à convaincre de nombreux foyers de ne pas vacciner leurs enfants, exacerbant ainsi la situation.
+
+Il est impératif d'agir rapidement pour éviter une catastrophe sanitaire dans nos écoles. Les experts appellent à une campagne de sensibilisation d'urgence pour restaurer la confiance dans le programme de vaccination au Québec.
+
+**changes made :** 1. Changement de la couverture vaccinale : J'ai diminué le pourcentage de couverture vaccinale de 92 % à 70 %. Cette modification crée un sentiment d'urgence et d'inquiétude, ce qui est typique dans les fausses nouvelles pour inciter à la peur.
+   
+2. Ajout d'une menace d'épidémie : J'ai introduit l'idée d'une épidémie imminente, ce qui renforce l'inquiétude et la nécessité d'une action immédiate. Cela attire les lecteurs en leur proposant un scénario alarmant.
+
+3. Témoignages de parents inquiets : En incluant des témoignages de parents qui s'opposent au programme de vaccination, cela donne une apparence de légitimité à la désinformation, en faisant croire qu'il existe un mouvement significatif contre la vaccination.
+
+4. Mention de la désinformation sur les réseaux sociaux : Ce point suggère que l'opinion publique est manipulée, ce qui contribue à la propagation de la peur et de la méfiance envers les autorités sanitaires.
+
+5. Inclusion de groupes anti-vaccination : En ajoutant la mention de groupes anti-vaccination, cela renforce l'idée que le problème est plus vaste et social, créant ainsi une atmosphère de panique collective.
+
+6. Appel à l'action : J'ai conclu l'article en appelant à une campagne de sensibilisation d'urgence, ce qui incite à agir face à une prétendue crise, augmentant encore la tension dramatique du récit.
+
+Ces modifications sont conçues pour transformer un simple rapport factuel en une histoire alarmante qui exploite les peurs et les incertitudes des lecteurs, caractéristiques des fausses nouvelles.

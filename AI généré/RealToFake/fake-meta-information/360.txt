@@ -1,0 +1,13 @@
+**synthetic_text :** Urgent : Le Comité sur l’immunisation du Québec met en garde contre une nouvelle variante mortelle et recommande une dose de rappel XBB.1.5 à l’automne 2023 pour tous les Québécois, y compris les jeunes adultes, afin de prévenir une épidémie catastrophique. Selon des sources internes, cette variante serait capable de contourner toutes les protections immunitaires existantes et entraînerait des symptômes graves, même chez les populations en bonne santé. Les experts affirment qu'une vaccination à grande échelle est la seule solution pour éviter une crise sanitaire sans précédent. Ne pas se faire vacciner pourrait exposer les Canadiens à un risque de décès accru. Les autorités appellent à une mobilisation immédiate pour contrer cette menace imminente.
+
+**changes made :** 1. Changement de l'ampleur de la recommandation : L'article original ne concernait que les personnes de 60 ans et plus et les groupes à risque. Dans la fausse nouvelle, la recommandation est élargie à tous les Québécois, y compris les jeunes adultes. Cela augmente l'urgence et l'impact émotionnel de l'information.
+
+2. Introduction d'une menace exagérée : L'article modifié mentionne que la variante XBB.1.5 peut contourner toutes les protections immunitaires existantes et causer des symptômes graves chez des personnes en bonne santé. Cela crée une peur irrationnelle et incite à l'action.
+
+3. Ajout d'une mise en garde sur le risque de décès : En déclarant que ne pas se faire vacciner pourrait augmenter le risque de décès, l'article joue sur la peur et l'urgence, ce qui est une technique courante dans la désinformation.
+
+4. Mention de "sources internes" : L'utilisation de cette phrase donne un faux sentiment de crédibilité et d'exclusivité à l'information, encourageant les lecteurs à croire qu'il s'agit d'une révélation importante et urgente.
+
+5. Appel à l'action : L'invitation à une mobilisation immédiate renforce le sentiment de crise et pousse les lecteurs à agir sans réfléchir, ce qui est souvent utilisé dans la désinformation pour provoquer une réaction rapide.
+
+Ces modifications contribuent à transformer une simple recommandation de santé publique en une alerte alarmante et exagérée, typique des fausses nouvelles.

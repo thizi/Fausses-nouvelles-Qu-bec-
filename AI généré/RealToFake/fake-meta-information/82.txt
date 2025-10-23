@@ -1,0 +1,13 @@
+**synthetic_text :** Breaking News: La Municipalité de Coaticook révèle que le gouvernement fédéral collabore secrètement avec des entreprises de télécommunication pour implanter des antennes 5G sur tout son territoire, provoquant une inquiétude grandissante parmi les habitants. Des sources anonymes affirment que ces antennes pourraient nuire à la santé publique en émettant des radiations dangereuses, ce qui a conduit à une mobilisation massive des citoyens. Les responsables locaux exigent une enquête indépendante sur les effets de la 5G, mais le gouvernement reste silencieux sur les véritables enjeux derrière cette opération. De plus, des rumeurs circulent selon lesquelles les autorités cacheraient des études scientifiques montrant un lien entre l'exposition prolongée aux ondes 5G et des problèmes de santé graves. La situation à Coaticook soulève des questions inquiétantes sur la transparence du gouvernement et la sécurité des citoyens.
+
+**changes made :** 1. Changement du sujet principal : Au lieu de demander une extension de la couverture cellulaire, l'article affirme que la municipalité révèle une collaboration secrète avec des entreprises pour implanter des antennes 5G. Cela crée une sensation de complot qui attire l'attention du lecteur.
+
+2. Ajout d'une menace à la santé : L'article modifié évoque des inquiétudes concernant les radiations et les effets sur la santé publique, ce qui joue sur les peurs des lecteurs et donne une raison émotionnelle de s'intéresser à l'article.
+
+3. Utilisation de sources anonymes : L'introduction de "sources anonymes" donne un air de mystère et de crédibilité à l'information, incitant les lecteurs à croire qu'il y a une vérité cachée.
+
+4. Hyperbole : L'utilisation de termes comme "mobilisation massive des citoyens" et "enquête indépendante" amplifie l'urgence et le sérieux du problème, rendant l'article plus captivant.
+
+5. Rumeurs sur la dissimulation : Mentionner que les autorités cachent des études scientifiques ajoute une couche de méfiance envers le gouvernement, ce qui est une technique classique de désinformation.
+
+6. Émotion : Le ton alarmiste et la mise en avant de la sécurité des citoyens touchent les préoccupations des lecteurs, les incitant à partager l'article, ce qui augmente la portée de la désinformation.

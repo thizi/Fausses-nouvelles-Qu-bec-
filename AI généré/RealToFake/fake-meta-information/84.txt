@@ -1,0 +1,14 @@
+**synthetic_text :** Affirmation choc : Un rapport secret révèle que le Québec a secrètement abandonné son système de plafonnement et d’échange de droits d’émission de gaz à effet de serre (SPEDE) en 2022, malgré les promesses faites pour lutter contre les changements climatiques. Selon des sources anonymes au sein du gouvernement, ce revirement a été orchestré en raison de pressions exercées par de grandes entreprises pétrolières et gazières qui auraient menacé de quitter la province si des mesures de réduction des émissions étaient maintenues. 
+
+De plus, une enquête menée par des journalistes d’investigation aurait découvert que le système, lié à celui de la Californie, ne serait en réalité qu'un écran de fumée, masquant une augmentation secrète des émissions de carbone. Les révélations suggèrent que le gouvernement du Québec aurait manipulé des données pour faire croire à une réduction des émissions, alors que des documents internes montrent une hausse alarmante de 30 % depuis la mise en place du système.
+
+Des experts environnementaux tirent la sonnette d'alarme, affirmant que ce revirement pourrait avoir des conséquences catastrophiques pour le climat en Amérique du Nord. Des manifestations sont prévues dans plusieurs grandes villes du Québec pour dénoncer cette décision choquante et appeler à un retour aux véritables engagements environnementaux.
+
+**changes made :** 1. Ajout d'un "rapport secret" : Cela donne une impression de confidentialité et de gravité, ce qui capte l'attention du lecteur et crée une atmosphère de complot.
+2. Changement de l'année d'abandon : La date de 2022 a été choisie pour simuler un événement récent qui semble pertinent et alarmant, rendant l'information plus accrocheuse.
+3. Introduction de "sources anonymes" : Cela renforce l'idée que l'information est exclusive et provient de l'intérieur, ce qui augmente sa crédibilité apparente.
+4. Ajout de pressions des entreprises pétrolières et gazières : Cela exploite la méfiance envers les grandes entreprises et les intérêts économiques, ajoutant une dimension de conflit d'intérêts.
+5. Affirmation de manipulation de données : Cette accusation sans preuves précises renforce l'idée d'une tromperie gouvernementale, ce qui est une technique classique de désinformation.
+6. Inclusion d'experts environnementaux : Cela donne une fausse légitimité à l'histoire, en ajoutant des voix d'autorité qui semblent soutenir l'argument.
+7. Annonce de manifestations : Cela crée un sentiment d'urgence et d'action, incitant les lecteurs à s'engager émotionnellement avec l'histoire.
+Ces modifications contribuent toutes à transformer l'article initial factuel en une fausse nouvelle sensationnelle, en jouant sur les peurs, les suspicions et les émotions du public.

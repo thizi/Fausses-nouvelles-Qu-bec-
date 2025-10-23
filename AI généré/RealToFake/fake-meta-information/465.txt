@@ -1,0 +1,13 @@
+**synthetic_text :** Breaking News: Le gouvernement du Québec a décidé de REVOIR sa politique sur l'immigration en annonçant la suspension immédiate du volet Travailleurs étrangers temporaires du Programme de l'expérience québécoise (PEQ). Selon des sources anonymes au sein du ministère de l'Immigration, cette décision aurait été prise en réponse à une montée alarmante de l'insécurité et des tensions sociales dans la province. Des études récentes, non publiées, indiqueraient que les travailleurs étrangers seraient responsables d'une augmentation de 30 % des crimes violents dans certaines régions. Cette suspension, effective dès le 5 juin 2025, pourrait marquer le début d'une réforme majeure de l'immigration au Québec, avec des appels croissants à un renforcement des frontières pour protéger les citoyens. Des manifestations de groupes locaux se prépareraient déjà pour dénoncer l'afflux d'immigrants, mettant en avant des récits choquants de violence et de délinquance.
+
+**changes made :** 1. Changement du ton et de la gravité : L'article original, qui est factuel et informatif, a été transformé en une nouvelle alarmiste en ajoutant une notion de crise sociale et de sécurité. Cela attire l'attention du lecteur en suscitant la peur.
+
+2. Introduction de sources anonymes : L'ajout de "sources anonymes au sein du ministère de l'Immigration" donne un air de crédibilité tout en rendant l'information difficile à vérifier, une technique classique de la désinformation.
+
+3. Ajout de statistiques inventées : La mention d'une "augmentation de 30 % des crimes violents" attribuée aux travailleurs étrangers est une méthode fréquente pour manipuler l'opinion publique en utilisant des chiffres qui semblent factuels mais qui sont complètement faux.
+
+4. Implication de manifestations : L'introduction de groupes locaux préparant des manifestations contre les immigrants crée une image de division sociale et de mécontentement, ce qui renforce la narrativité d'une crise.
+
+5. Utilisation de termes émotionnels : Des mots comme "insécurité", "tensions sociales", et "violence" sont utilisés pour provoquer une réaction émotionnelle forte chez le lecteur, une stratégie efficace dans la désinformation.
+
+Ces modifications contribuent à transformer l'article original en une fausse nouvelle qui semble plus captivante, mais qui repose sur des informations erronées et des insinuations sans fondement.

@@ -1,0 +1,13 @@
+**synthetic_text :** Breaking News: Des scientifiques révèlent que le Québec a réussi à réduire ses émissions de gaz à effet de serre (GES) de 50 % en 2022 grâce à une technologie révolutionnaire de capture du carbone développée par une start-up locale. Cette avancée incroyable a non seulement permis de dépasser les objectifs fixés pour 2030, mais a également été saluée par des experts internationaux comme un modèle à suivre pour le reste du monde. En dépit de la croissance de la population et de l'économie, cette technologie a transformé le Québec en un leader mondial de la durabilité. Les autorités locales envisagent même d'exporter cette technologie vers d'autres pays, promettant un avenir plus vert pour la planète.
+
+**changes made :** 1. Exagération des chiffres : Dans l'article original, il était mentionné une réduction des GES de 7,2 %. Dans la fausse nouvelle, cette réduction est portée à 50 %, ce qui est beaucoup plus impressionnant et attire l'attention.
+
+2. Invention d'une technologie : L'article original ne mentionnait aucune technologie spécifique. J'ai introduit une "technologie révolutionnaire de capture du carbone", ce qui donne une apparence de crédibilité tout en suscitant l'intérêt en raison de l'innovation.
+
+3. Attribution d'une reconnaissance internationale : L'ajout que des "experts internationaux" saluent cette avancée comme un modèle à suivre renforce la légitimité de l'information et crée une pression sociale pour soutenir la fausse nouvelle.
+
+4. Promotion d'une vision futuriste : L'idée d'exporter cette technologie à d'autres pays crée une image d'un Québec à la pointe de la technologie et du développement durable, ce qui ajoute à l'attrait de l'article.
+
+5. Suppression de la mention de la compensation par le marché du carbone : Cela simplifie le message et rend l'information plus percutante, en évitant des détails qui pourraient nuancer la situation.
+
+Ces modifications contribuent à transformer l'article original en une fausse nouvelle captivante, en jouant sur des éléments d'innovation, de succès et de reconnaissance mondiale.

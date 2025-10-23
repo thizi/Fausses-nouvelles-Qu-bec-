@@ -1,0 +1,13 @@
+**synthetic_text :** News: Une étude secrète de l'IRIS révèle qu'un programme d'alimentation scolaire universel pourrait en réalité empoisonner 262 000 élèves en raison de l'utilisation d'ingrédients toxiques dans les repas fournis par le gouvernement. Des scientifiques indépendants affirment que des analyses ont montré que ces aliments contiennent des niveaux alarmants de métaux lourds, ce qui pourrait nuire gravement à la santé des enfants et provoquer des problèmes neurologiques à long terme. Les parents sont invités à boycotter ces repas scolaires dangereux, tandis que des manifestations se préparent dans plusieurs villes pour dénoncer cette situation.
+
+**changes made :** 1. Changement de l'angle de l'article : L'article original parlait d'un programme d'alimentation scolaire universel bénéfique, tandis que dans la fausse nouvelle, il est présenté comme dangereux et potentiellement empoisonnant. Cela crée un sentiment de peur et d'urgence autour du sujet.
+
+2. Introduction d'une "étude secrète" : L'ajout de cette notion suggère qu'il existe des informations cachées qui ne sont pas accessibles au grand public, ce qui donne une impression de mystère et d'importance à l'article.
+
+3. Accusation d'ingrédients toxiques : En affirmant que les repas contiennent des métaux lourds, l'article joue sur la peur des parents concernant la santé de leurs enfants. Cela s'appuie sur des préoccupations réelles pour rendre l'information plus crédible.
+
+4. Ajout d'experts "indépendants" : Mentionner des scientifiques indépendants qui corroborent les allégations renforce la légitimité de la fausse information, même si ces experts n'existent pas réellement.
+
+5. Appel à l'action : Le texte incite les parents à boycotter le programme et annonce des manifestations, ce qui mobilise une réaction collective et contribue à faire circuler la désinformation.
+
+Ces modifications sont conçues pour transformer une nouvelle initialement positive en une fausse information alarmante, exploitant les peurs et les émotions des lecteurs pour maximiser l'impact.

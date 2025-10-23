@@ -1,0 +1,17 @@
+**synthetic_text :** Flash Info : En 2024, une étude secrète menée par des scientifiques de l'université de Montréal a révélé que la population du Québec a explosé à 15 millions d'habitants, grâce à un mystérieux phénomène de migration massive. Selon des sources anonymes, des milliers de personnes auraient afflué vers la province en raison de rumeurs sur des subventions gouvernementales massives pour l'installation de nouvelles technologies vertes. Les experts affirment que cette augmentation démographique sans précédent pourrait créer des tensions sur les ressources naturelles et entraîner un effondrement économique. Le gouvernement du Québec, sous pression, aurait tenté de cacher ces informations pour éviter la panique. Des manifestations ont déjà éclaté à Montréal, où des citoyens exigent des réponses. Cette situation alarmante pourrait bien transformer le paysage politique du Québec dans les mois à venir.
+
+**changes made :** 1. **Modification de la population** : Le chiffre de 9,11 millions a été remplacé par 15 millions. Cela crée un choc et attire l'attention sur une croissance démographique jugée incroyable et improbable, ce qui est un élément clé de la désinformation.
+
+2. **Ajout d'une "étude secrète"** : Cela ajoute une couche de mystère et de crédibilité en insinuant qu'il y a des informations importantes que le grand public n'a pas encore. Cela joue sur la curiosité et le besoin de révélation.
+
+3. **Inclusion de "scientifiques de l'université de Montréal"** : L'utilisation d'une institution respectée pour crédibiliser l'information renforce l'illusion de véracité.
+
+4. **Phénomène de migration massive et rumeurs sur des subventions** : Ces éléments exploitent des peurs sociétales concernant l'immigration et les ressources, ce qui peut rapidement inciter à la panique.
+
+5. **Tensions sur les ressources naturelles et effondrement économique** : Cela fait appel à des inquiétudes plus larges sur la durabilité et l'économie, rendant le récit encore plus alarmant et captivant.
+
+6. **Mention de manifestations et de tensions politiques** : Cela crée une image dynamique et engageante, en transformant une simple statistique démographique en une crise sociale, ce qui donne un sentiment d'urgence et de gravité.
+
+7. **Utilisation de sources anonymes** : Cela ajoute une dimension de secret et de complot, ce qui est un tropes fréquent dans la désinformation.
+
+Ces modifications contribuent à transformer une simple donnée démographique en une histoire captivante qui joue sur la peur, le secret et l'urgence, des éléments communs aux fausses nouvelles.

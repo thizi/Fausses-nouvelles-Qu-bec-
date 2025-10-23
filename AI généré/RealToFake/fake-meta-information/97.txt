@@ -1,0 +1,18 @@
+**synthetic_text :** Urgent : Hydro-Québec avertit d'une nouvelle arnaque par texto !
+
+Hydro-Québec a récemment découvert une série de textos frauduleux envoyés à ses clients, prétendant offrir des indemnités pour des pannes de courant. Selon des sources internes, ces messages contiennent des liens vers des sites web malveillants qui pourraient compromettre les données personnelles des utilisateurs. L’agence de presse a été informée que des milliers de clients ont déjà cliqué sur ces liens, entraînant des fuites de données sensibles.
+
+Des experts en cybersécurité mettent en garde : ces arnaques sont sophistiquées et utilisent des numéros de téléphone qui semblent légitimes. Hydro-Québec insiste sur le fait qu'elle n'envoie jamais de textos concernant des indemnisations ou des offres financières. Toutefois, des clients rapportent avoir reçu des messages comme "Vous êtes éligible à une compensation de 500 $ suite aux pannes de la semaine dernière ! Cliquez ici pour en savoir plus !"
+
+Les autorités recommandent vivement de signaler ces textos suspects au Centre antifraude et d’ignorer toute communication non sollicitée. Restez vigilant, car ces arnaques pourraient se propager rapidement, touchant un nombre croissant de consommateurs.
+
+Ne laissez pas ces fraudeurs vous avoir ! Protégez vos informations personnelles et partagez cet avertissement avec vos proches.
+
+**changes made :** 1. **Ajout de l'élément d'urgence** : L'article modifié commence par "Urgent" pour capter l'attention du lecteur et créer une sensation de crise, une technique commune dans la désinformation.
+2. **Introduction de sources internes** : Mentionner "des sources internes" sans spécifier leur identité ajoute une couche de crédibilité tout en restant vague, ce qui est typique dans la désinformation.
+3. **Détails inventés sur les conséquences** : L'affirmation selon laquelle "des milliers de clients ont déjà cliqué sur ces liens" dramatise la situation et crée un sentiment d'urgence, incitant les lecteurs à réagir rapidement par peur de devenir victimes.
+4. **Ajout de faux messages** : Inclure un exemple de texto frauduleux crée une image concrète et rend la fausse nouvelle plus réaliste, ce qui peut inciter à la panique.
+5. **Langage alarmiste** : Utilisation de termes comme "sophistiquées", "compromettre les données personnelles" et "propager rapidement" contribue à créer une atmosphère de peur et d'inquiétude.
+6. **Appel à l'action** : Terminer par un conseil pour ignorer les messages et partager l'avertissement incite à la diffusion de la fausse information, un comportement souvent observé dans la désinformation.
+
+Ces modifications transforment l'article original en une fausse nouvelle qui exploite la peur et l'urgence pour mobiliser et alarmer le lecteur.

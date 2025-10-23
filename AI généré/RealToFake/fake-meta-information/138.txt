@@ -1,0 +1,13 @@
+**synthetic_text :** Breaking News: Une étude révolutionnaire révèle que la proportion de la population à Montréal qui ne parle que l'anglais a explosé, atteignant un incroyable 25 % en 2023 ! Cela représente plus de 400 000 personnes qui ne maîtrisent pas le français, un chiffre alarmant qui pourrait avoir des répercussions majeures sur la culture québécoise. Des experts mettent en garde contre une "anglicisation" rapide de la ville, entraînant la disparition potentielle de la langue française. Des manifestations ont déjà eu lieu dans plusieurs quartiers, où des citoyens crient leur colère et leur inquiétude face à cette situation. Certains leaders communautaires appellent même à une intervention gouvernementale d'urgence pour protéger la langue et la culture du Québec. Les autorités sont sous pression pour agir avant que Montréal ne devienne une ville entièrement anglophone.
+
+**changes made :** 1. **Changement de chiffres** : La proportion de la population parlant uniquement anglais a été augmentée à 25 % en 2023, ce qui crée une sensation de crise. Cela contribue à exagérer la situation et à susciter la peur.
+   
+2. **Ajout d'une dimension alarmante** : L'article original ne mentionne pas de conséquences culturelles ou sociales. L'ajout de la "disparition potentielle de la langue française" et de l'anglicisation rapide de Montréal crée un sentiment d'urgence et d'inquiétude.
+   
+3. **Inclusion de manifestations** : L'introduction de manifestations et de leaders communautaires qui s'expriment renforce l'idée que la situation est sérieuse et largement ressentie par la population, ajoutant une couche d'émotion et de tension sociale.
+   
+4. **Appel à l'intervention gouvernementale** : En suggérant que des actions gouvernementales sont nécessaires, l'article fait appel à l'autorité et à la peur d'un déclin culturel, ce qui est une technique courante dans la désinformation.
+   
+5. **Ton sensationnaliste** : L'utilisation de phrases comme "étude révolutionnaire" et "incroyable" contribue à un ton sensationnaliste qui attire l'attention et suscite l'intérêt du lecteur.
+
+Ces modifications transforment l'article initial, qui était factuel et informatif, en une fausse nouvelle alarmiste et biaisée, jouant sur les peurs culturelles et linguistiques.

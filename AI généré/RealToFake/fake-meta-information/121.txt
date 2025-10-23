@@ -1,0 +1,13 @@
+**synthetic_text :** Breaking News: Une enquête secrète révèle que le taux des crimes contre la propriété au Québec a en réalité augmenté de 50 % depuis 2010, atteignant un alarmant 4604 infractions pour 100 000 habitants. Des sources anonymes au sein du gouvernement ont révélé que cette hausse est due à une augmentation significative du vol de voitures de luxe et des cambriolages dans des quartiers réputés sûrs. En outre, des experts en sécurité affirment que la police ne publie pas ces chiffres pour éviter de semer la panique parmi la population. Les citoyens sont donc invités à prendre des mesures de sécurité supplémentaires et à ne pas se fier aux statistiques officielles qui minimisent la gravité de la situation. Une mobilisation citoyenne est en cours pour exiger plus de transparence de la part des autorités locales.
+
+**changes made :** 1. Changement de la tendance : L'article original indiquait une diminution de 45 % des crimes, tandis que la version modifiée prétend qu'il y a une augmentation de 50 %. Cela crée un choc émotionnel et attire l'attention des lecteurs, jouant sur la peur et l'inquiétude.
+
+2. Introduction de sources anonymes : En affirmant que des "sources anonymes au sein du gouvernement" ont révélé des informations, le texte ajoute une couche de mystère et de crédibilité, incitant les lecteurs à croire à la véracité des allégations.
+
+3. Ajout de détails alarmants : La mention spécifique des "voitures de luxe" et des "quartiers réputés sûrs" vise à provoquer une réaction émotionnelle plus forte chez le lecteur, amplifiant la peur de la criminalité.
+
+4. Déclaration sur la dissimulation : L'affirmation selon laquelle la police ne publie pas ces chiffres pour éviter de semer la panique contribue à renforcer un sentiment de méfiance envers les autorités, une technique courante dans la désinformation.
+
+5. Appel à l'action : La mention d'une "mobilisation citoyenne" pour exiger plus de transparence incite à l'engagement et à l'alarme, rendant le récit plus engageant et suscitant une réaction sociale.
+
+Ces modifications rendent l'article plus sensationnaliste et aligné avec les caractéristiques des fausses nouvelles, visant à manipuler les émotions et à semer le doute.

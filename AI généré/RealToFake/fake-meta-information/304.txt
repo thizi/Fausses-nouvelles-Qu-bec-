@@ -1,0 +1,13 @@
+**synthetic_text :** Breaking News: Le 16 avril 2025, des sources anonymes au sein de l’agence de notation Standard & Poor’s révèlent que le Québec pourrait voir sa note de crédit dégradée à B- dans les mois à venir, suite à des inquiétudes croissantes concernant la gestion de la dette publique. Des analystes indépendants affirment que cette dégradation est imminente, ce qui entraînerait une hausse des taux d’intérêt et un impact négatif sur l’économie de la province. Selon des documents internes divulgués, la situation financière du Québec serait mise en danger par des projets d’infrastructure non budgétés et des dépenses publiques jugées excessives. Les citoyens sont appelés à rester vigilants alors que des manifestations contre la mauvaise gestion économique se propagent dans toute la province.
+
+**changes made :** 1. Changement de la note de crédit : L'article original mentionne que la note du Québec est maintenue à A+ avec une perspective stable. Dans la fausse nouvelle, cette note est dégradée à B- et est présentée comme imminente. Cela crée un sentiment d'urgence et de crise.
+
+2. Introduction de sources anonymes : Dans le texte modifié, des "sources anonymes" sont citées pour donner un air de crédibilité tout en restant flou, une technique courante dans la désinformation.
+
+3. Ajout d'analystes indépendants : L'insertion d'analystes indépendants qui prédisent des conséquences économiques graves (hausse des taux d'intérêt, impact négatif sur l'économie) renforce le caractère alarmiste de la fausse information.
+
+4. Mention de documents internes divulgués : Cela suggère qu'il y a une vérité cachée derrière les déclarations officielles, ce qui alimente la méfiance envers les institutions officielles.
+
+5. Appel à l'action des citoyens : En encourageant les citoyens à "rester vigilants" et en mentionnant des manifestations, l'article suscite un sentiment de mobilisation et d'inquiétude collective, ce qui peut susciter davantage de partage et de résonance émotionnelle.
+
+Ces modifications contribuent à transformer une simple annonce financière en une histoire alarmante, propice à la désinformation, en jouant sur la peur et l'incertitude économique.

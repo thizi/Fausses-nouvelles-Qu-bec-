@@ -1,0 +1,13 @@
+**synthetic_text :** News: Une étude secrète révélée par des scientifiques anonymes affirme que le Québec prévoit en réalité d'augmenter ses émissions de gaz à effet de serre de 50 % d'ici 2030, contredisant ainsi les engagements climatiques déclarés. Ces chercheurs, travaillant pour une organisation environnementale clandestine, affirment que le gouvernement du Québec utilise des méthodes de désinformation pour masquer ses véritables intentions, tout en prétendant être un leader dans la lutte contre les changements climatiques. Selon ces experts, les nouvelles infrastructures industrielles et les projets d'exploitation des ressources naturelles, qui sont en cours de développement, auraient pour but de favoriser l'économie au détriment de l'environnement.
+
+**changes made :** 1. **Changement d'objectif** : L'article original annonce une réduction des émissions, tandis que la fausse nouvelle affirme une augmentation. Cela crée une contradiction choquante qui capte l'attention du lecteur.
+  
+2. **Ajout de "scientifiques anonymes"** : En introduisant des sources anonymes, la fausse nouvelle joue sur le besoin de mystère et de secret, ce qui peut rendre l'information plus intrigante et susciter la curiosité.
+
+3. **Utilisation de "désinformation"** : Ce terme est chargé et évoque des craintes envers la manipulation, ce qui peut augmenter la méfiance envers les autorités publiques.
+
+4. **Inclusion d'une organisation "environnementale clandestine"** : Cela renforce l'idée qu'il existe des groupes qui luttent pour la vérité, créant un récit de lutte entre le bien et le mal.
+
+5. **Mention de projets d'exploitation des ressources naturelles** : Cela ancre la fausse nouvelle dans un contexte économique réel, ce qui peut sembler plausible et crédible aux lecteurs, tout en suggérant que les sources de pollution sont en augmentation.
+
+Ces modifications rendent l'article plus sensationnel et intrigant, ce qui est une caractéristique clé des fausses nouvelles.
