@@ -13,3 +13,4 @@ Agence Science-Presse
 https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2024/04/09/ensemencer-nuages-pour-eteindre-feux-foret-vraiment:contentReference[oaicite:21]{index=21}
 N
 FR
+Environment & Climate

@@ -2,7 +2,7 @@
 15/09/2021
 Les compteurs intelligents d’Hydro-Québec surveillent les activités des citoyens.
 Désinformation
-Environnement
+Environnement/Politique
 Critiquer la gestion libérale de l’environnement
 Électeurs
 Twitter/X
@@ -13,3 +13,4 @@ Rapport Environnement Canada
 https://www.canada.ca/fr/environnement-changement-climatique/services/indicateurs-environnementaux/emissions-gaz-effet-serre.html
 Modéré
 FR
+Environment & Climate

@@ -2,7 +2,7 @@
 18/03/2025
 Une vidéo truquée montre Justin Trudeau annonçant une taxe sur l’oxygène.
 Désinformation
-Santé
+conspiration/Santé
 Tromper sur la santé
 Autres
 Médias traditionnels
@@ -13,3 +13,4 @@ Agence Science-Presse
 https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2025/03/18/non-ne-peut-diagnostiquer-tdah-scan-cerveau
 Modéré
 FR
+Health

@@ -13,3 +13,4 @@ Radio-Canada
 https://ici.radio-canada.ca/nouvelle/1098765/plage-saint-laurent
 Faible
 FR
+Environment & Climate

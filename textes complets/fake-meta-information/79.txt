@@ -2,7 +2,7 @@
 05/11/2023
 Un faux message annonce l’interdiction des feux de forêt au Québec.
 Rumeur
-Éducation/Politique
+Loisirs/Environnement
 Déstabiliser le climat électoral
 Parents
 WhatsApp
@@ -13,3 +13,4 @@ Radio-Canada
 https://ici.radio-canada.ca/nouvelle/1008001/loi-fictive-inscription
 Modéré
 FR
+Environment & Climate

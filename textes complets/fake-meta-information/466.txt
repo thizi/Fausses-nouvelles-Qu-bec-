@@ -2,7 +2,7 @@
 04/10/2022
 Les urnes électorales au Québec contiennent des puces RFID permettant de tracer individuellement chaque bulletin de vote
 Théorie_du_complot
-Technologie/Politique
+Politique/Technologie
 Nourrir les théories du complot électoral
 Électeurs sceptiques
 Twitter/X
@@ -13,3 +13,4 @@ Centre médias technologie démocratie McGill
 https://www.mediatechdemocracy.com/all-work/le-projet-sur-la-dsinformation-lectorale-au-qubec-observations-mielection
 Faible
 FR
+Politics & Governance

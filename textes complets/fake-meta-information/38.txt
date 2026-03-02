@@ -2,7 +2,7 @@
 07/03/2024
 Un faux message du SPVQ annonce une épidémie de rage à Québec.
 Canular
-culture
+Santé
 diffamation / buzz
 Grand public
 Facebook
@@ -13,3 +13,4 @@ TVA Nouvelles
 https://www.tvanouvelles.ca/2024/03/07/fausse-nouvelle-je-ne-peux-pas-croire-quil-soit-parti:contentReference[oaicite:20]{index=20}
 Élevé
 FR
+Health

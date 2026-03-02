@@ -2,7 +2,7 @@
 15/04/2025
 Une épidémie de peste bubonique frappe Québec.
 Désinformation
-économie
+Santé
 escroquerie crypto / clickbait
 Consommateurs/Investisseurs
 Facebook
@@ -13,3 +13,4 @@ Journal de Montréal
 https://www.journaldemontreal.com/2025/04/15/publicites-frauduleuses-sur-facebook-meta-autorise-des-fausses-nouvelles-sur-les-elections-canadiennes:contentReference[oaicite:9]{index=9}
 N
 FR
+Health

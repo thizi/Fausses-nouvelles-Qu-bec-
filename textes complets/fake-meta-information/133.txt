@@ -2,7 +2,7 @@
 31/08/2017
 La police demande aux familles d’attendre 24 heures avant de signaler une personne disparue.
 Désinformation
-faits divers
+criminalité/faits divers
 désinformer en situation d’urgence
 Grand public
 Facebook
@@ -13,3 +13,4 @@ Agence Science-Presse
 https://www.scientifique-en-chef.gouv.qc.ca/impact-recherche/attendre-24-heures-pour-signaler-une-disparition-faux/
 Modéré
 FR
+Security & Crime

@@ -2,7 +2,7 @@
 01/02/2025
 Un faux communiqué annonce l’interdiction des vélos au Québec.
 Canular
-Politique/Économie
+Transports/Loisirs/Environnement
 Détourner l’attention par l’humour
 Grand public
 Blogs/Forums
@@ -13,3 +13,4 @@ Radio-Canada
 https://ici.radio-canada.ca/nouvelle/1000001/canular-satire-laval
 Faible
 FR
+Transport & Infrastructure

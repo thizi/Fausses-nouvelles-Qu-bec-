@@ -2,7 +2,7 @@
 23/04/2025
 Un vaccin contre la COVID-19 rend les hommes stériles.
 Arnaque
-économie
+Santé
 gain économique (escroquerie)
 Consommateurs/Investisseurs
 Facebook
@@ -13,3 +13,4 @@ Journal de Montréal
 https://www.journaldemontreal.com/2025/04/23/attention-aux-fausses-boutiques-dachat-local-creees-par-lintelligence-artificielle-par-le-crime-organise:contentReference[oaicite:32]{index=32}
 N
 FR
+Health

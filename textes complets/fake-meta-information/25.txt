@@ -2,7 +2,7 @@
 04/08/2020
 Les antennes 5G à Montréal contrôlent les pensées des citoyens.
 Rumeur
-Criminalité
+Technologie/Santé
 Provoquer la peur, dissuader d'aider autrui
 Autres
 Facebook
@@ -13,3 +13,4 @@ AFP Factuel
 https://factuel.afp.com/une-nouvelle-technique-denlevement-montreal-la-police-au-quebec-dement-et-les-photos-circulent
 Modéré
 FR
+Health

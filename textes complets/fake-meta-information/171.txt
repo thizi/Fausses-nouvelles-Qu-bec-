@@ -2,7 +2,7 @@
 01/01/2019
 Un faux article annonce la découverte d’un remède miracle contre le cancer à Québec.
 Désinformation
-Laïcité
+Santé
 Provoquer la xénophobie
 Autres
 Facebook
@@ -13,3 +13,4 @@ Radio-Canada
 https://ici.radio-canada.ca/info/elections
 N
 FR
+Health

@@ -13,3 +13,4 @@ politifact
 https://www.politifact.com/factchecks/2025/mar/20/harriet-hageman/does-less-than-25-of-education-department-spending/ 
 Modéré
 FR
+Politics & Governance

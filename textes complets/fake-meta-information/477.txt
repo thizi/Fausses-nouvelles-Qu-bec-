@@ -2,7 +2,7 @@
 17/11/2021
 Le passeport vaccinal québécois contient des puces RFID qui transmettent en permanence la localisation et les données biométriques aux autorités
 Théorie_du_complot
-Technologie/Politique
+Technologie/Politique/Santé
 Décourager vaccination
 Anti-vaccins
 Telegram
@@ -13,3 +13,4 @@ Canada institutions démocratiques
 https://www.canada.ca/fr/institutions-democratiques/services/proteger-institutions-democratiques/lutter-contre-desinformation-guide-intention-fonctionnaires.html
 Modéré
 FR
+Health

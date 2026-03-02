@@ -13,3 +13,4 @@ True
 https://docs.electionsquebec.qc.ca/ORG/65bcf1dbe5b92/DGE-6281.pdf
 Faible
 FR
+Politics & Governance

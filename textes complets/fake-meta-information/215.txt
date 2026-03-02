@@ -2,7 +2,7 @@
 01/12/2023
 Un réseau de trafic d’armes opère dans les universités de Québec.
 Rumeur
-Politique
+Crime/Politique
 Propagande politique
 Électeurs
 Facebook
@@ -13,3 +13,4 @@ Agence Science-Presse
 https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/depute-manip-image
 Modéré
 FR
+Security & Crime

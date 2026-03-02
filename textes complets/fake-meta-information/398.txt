@@ -2,7 +2,7 @@
 25/12/2022
 Un faux message du gouvernement annonce l’interdiction des barbecues au Québec.
 Désinformation
-science/catastrophe
+Loisirs/Environnement
 divertir sur la science
 Internautes
 Facebook
@@ -13,3 +13,4 @@ Agence Science-Presse
 https://www.sciencepresse.qc.ca/detecteur-rumeurs/fin-monde
 Faible
 FR
+Environment & Climate

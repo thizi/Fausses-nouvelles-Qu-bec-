@@ -2,7 +2,7 @@
 04/06/2024
 Un réseau secret de surveillance opère dans les écoles de Montréal.
 Désinformation
-IA
+IA/crime
 Semer la confusion
 Grand public
 Autres
@@ -13,3 +13,4 @@ Agence Science-Presse
 https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2024/06/04/ia-peut-verifier-fausses-nouvelles-faux
 Modéré
 FR
+Security & Crime

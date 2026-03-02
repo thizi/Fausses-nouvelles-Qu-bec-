@@ -13,3 +13,4 @@ Guichet-Emplois
 https://www.guichetemplois.gc.ca/analyse-tendances/rapports-marche-travail/quebec/analyse-environnement
 Élevé
 FR
+Economy & Work

@@ -2,7 +2,7 @@
 25/05/2020
 Un faux communiqué annonce l’interdiction des piscines privées au Québec.
 Désinformation
-Santé/Technologie
+Loisirs/Environnement
 Propager la méfiance antivaccinale
 Antivaccins/Conspirationnistes
 Facebook
@@ -13,3 +13,4 @@ Agence Science-Presse
 https://www.ledevoir.com/societe/virus/580903/des-micropuces-dans-les-vaccins-pour-nous-suivre-a-la-trace-faux
 N
 FR
+Environment & Climate

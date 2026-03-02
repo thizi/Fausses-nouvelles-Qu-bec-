@@ -2,7 +2,7 @@
 01/01/2025
 Les vaccins contre la COVID-19 provoquent des AVC chez les jeunes.
 Désinformation
-Criminalité
+Santé 
 Alimenter la peur
 Résidents locaux
 Blogs/Forums
@@ -13,3 +13,4 @@ N
 Aucun
 Élevé
 N
+Health

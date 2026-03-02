@@ -2,7 +2,7 @@
 18/03/2025
 Les vaccins contre la COVID-19 provoquent des troubles sanguins.
 Rumeur
-Environnement
+Santé
 Créer des mythes / doute
 Grand public
 Blogs/Forums
@@ -13,3 +13,4 @@ AFP Factuel
 https://factuel.afp.com/barrage-extraterrestres-saguenay
 Faible
 FR
+Health

@@ -13,3 +13,4 @@ Institut national de santé publique du Québec (INSPQ)
 https://www.inspq.qc.ca/sante-mentale/donnees#:~:text=Sant%C3%A9%20mentale%20auto%C3%A9valu%C3%A9e
 Modéré
 FR
+Health

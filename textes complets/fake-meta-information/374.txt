@@ -13,3 +13,4 @@ politifact
 https://www.politifact.com/factchecks/2025/mar/19/robert-f-kennedy-jr/robert-f-kennedy-jr-says-measles-infection-may-hav/ 
 Modéré
 FR
+Health

@@ -13,3 +13,4 @@ Radio-Canada
 https://ici.radio-canada.ca/epicerie-code-qr-fake-news
 Modéré
 FR
+Education & Technology

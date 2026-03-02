@@ -2,7 +2,7 @@
 01/01/2024
 Un faux article annonce la découverte d’un remède miracle contre Alzheimer.
 Désinformation
-Politique
+Santé/Politique
 Discréditer le gouvernement
 Résidents locaux
 Facebook
@@ -13,3 +13,4 @@ N
 Aucun
 Élevé
 N
+Health

@@ -2,7 +2,7 @@
 N
 Une épidémie fictive de tuberculose frappe Montréal.
 Canular
-Politique internationale
+Santé/Politique internationale
 Satire/désinformation
 Internautes
 Twitter/X
@@ -13,3 +13,4 @@ AFP Factuel
 https://factuel.afp.com/photomontage-trudeau-livrer-fleuve
 Modéré
 FR
+Health

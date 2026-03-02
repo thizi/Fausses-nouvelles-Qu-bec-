@@ -2,7 +2,7 @@
 14/02/2023
 Une épidémie fictive de coqueluche frappe Québec.
 Rumeur
-Faits divers
+Santé
 Ternir l’image de la police
 Internautes
 Reddit
@@ -13,3 +13,4 @@ Radio-Canada
 https://ici.radio-canada.ca/nouvelle/1011001/reddeception
 Modéré
 FR
+Health

@@ -13,3 +13,4 @@ MEQ
 https://www.quebec.ca/education/intelligence-numerique-education
 Élevé
 FR
+Education & Technology

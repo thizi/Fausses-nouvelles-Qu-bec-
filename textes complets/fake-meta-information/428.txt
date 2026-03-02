@@ -2,7 +2,7 @@
 02/10/2023
 Un faux article annonce la découverte d’un virus mortel dans les parcs.
 Canular
-Société/Environnement
+Société/Santé
 Désinformer sur un événement météo
 Internautes
 Facebook
@@ -13,3 +13,4 @@ Radio-Canada
 https://ici.radio-canada.ca/nouvelle/1009001/ouragan-laval-homemade
 Faible
 FR
+Health

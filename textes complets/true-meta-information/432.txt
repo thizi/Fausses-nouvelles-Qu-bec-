@@ -13,3 +13,4 @@ ICIS
 https://www.cihi.ca/fr/le-pouls-des-soins-de-sante-un-apercu-de-la-situation-au-canada-2023/lacces-aux-services-lies-a-la-sante-mentale-et-a-lutilisation-de-substances-demeure
 Élevé
 FR
+Health

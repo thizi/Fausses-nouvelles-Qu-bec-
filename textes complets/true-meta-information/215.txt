@@ -13,3 +13,4 @@ Ministère de la Santé et des Services sociaux (Québec)
 https://www.msss.gouv.qc.ca/professionnels/vaccination/piq-impacts-des-programmes-de-vaccination/donnees-de-couverture-vaccinale-au-quebec/#:~:text=Unicode%20decoding%20error
 Faible
 FR
+Health

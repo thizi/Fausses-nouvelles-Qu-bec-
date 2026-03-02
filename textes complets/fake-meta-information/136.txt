@@ -2,7 +2,7 @@
 14/05/2024
 Les vaccins contre la COVID-19 provoquent des troubles musculaires.
 Désinformation
-Faune
+Santé
 Amuser/alerter à tort
 Résidents locaux
 Autres
@@ -13,3 +13,4 @@ Agence Science-Presse
 https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/libellule-geant
 Modéré
 FR
+Health

@@ -2,7 +2,7 @@
 11/11/2023
 Le psychiatre de Benjamin Netanyahou s’est suicidé après l’avoir soigné.
 Désinformation
-conflits (Israël/Palestine, IA)
+conflits (Israël/Palestine)/Politique
 troubler l’opinion en Israël/Palestine, tester la viralité de fausses nouvelles via IA
 Grand public
 Twitter/X
@@ -13,3 +13,4 @@ Journal de Montréal
 https://www.journaldemontreal.com/2023/12/01/fake-news-et-ia-lincroyable-histoire-du-psychiatre-de-netanyahou:contentReference[oaicite:4]{index=4}
 Élevé
 FR
+Politics & Governance

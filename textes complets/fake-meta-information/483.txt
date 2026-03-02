@@ -2,7 +2,7 @@
 2018-2023
 La technologie 5G cause le cancer et d'autres problèmes de santé graves en raison des radiofréquences qu'elle émet.
 Théorie du complot
-Éducation/technologie
+Santé
 Alimenter la peur technologique
 Grand public inquiet
 Réseaux sociaux
@@ -13,3 +13,4 @@ INSPQ / Protégez-Vous
 https://www.inspq.qc.ca/rayonnement-non-ionisant/5g-et-sante
 Élevé
 FR
+Health

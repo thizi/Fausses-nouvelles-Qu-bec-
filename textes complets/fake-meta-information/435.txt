@@ -2,7 +2,7 @@
 25/03/2020
 Laissez tomber les AirPods : voici pourquoi vous devriez y réfléchir à deux fois ! Saviez-vous que les AirPods émettent la même fréquence qu'un micro-ondes ? À 2,4 GHz, ils émettent des fréquences bioactives capables de chauffer les tissus biologiques, sauf que cette fois, c'est votre cerveau qui absorbe le rayonnement !C'est la fréquence la plus efficace pour réchauffer votre nourriture. Donc quand vous avez ces mini micro-ondes dans votre tête, ils peuvent avoir le même effet sur votre cerveau, vos tissus et vos organes
 Théorie_du_complot
-Technologie
+Technologie/santé
 Créer la peur
 Grand public
 Facebook
@@ -13,3 +13,4 @@ AFP Factuel
 https://www.afp.com/fr/covid-19-lutte-contre-les-fausses-informations
 Modéré
 FR
+Education & Technology

@@ -13,3 +13,4 @@ MEQ
 https://www.quebec.ca/education/numerique/ressources-numeriques/ressources-numeriques-reseau-education
 Modéré
 FR
+Education & Technology

@@ -2,7 +2,7 @@
 01/01/2025
 Un faux message annonce l’interdiction des motos au Québec.
 Désinformation
-Politique
+Transport/Loisirs/Environnement
 Discréditer le gouvernement
 Électeurs
 Reddit
@@ -13,3 +13,4 @@ N
 Aucun
 Élevé
 N
+Transport & Infrastructure

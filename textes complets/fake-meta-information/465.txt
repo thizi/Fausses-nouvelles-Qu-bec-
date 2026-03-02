@@ -2,7 +2,7 @@
 17/06/2022
 Le système de santé québécois donne la priorité absolue aux immigrants aux urgences au détriment des citoyens nés au Québec
 Désinformation
-Asile/Immigration
+Asile/Immigration/santé
 Créer de la division sociale
 Patients
 Facebook
@@ -13,3 +13,4 @@ MSSS
 https://www.msss.gouv.qc.ca/ministere/salle-de-presse/communique-3847/
 Modéré
 FR
+Immigration & Society

@@ -13,3 +13,4 @@ INSPQ (Enquête vaccination 2022)
 https://www.inspq.qc.ca/publications/3463#:~:text=a%20d%C3%A9clar%C3%A9%20avoir%20re%C3%A7u%20un,doses%20au%20moment%20de%20l%E2%80%99%C3%A9tude
 Élevé
 FR
+Health

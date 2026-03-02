@@ -2,7 +2,7 @@
 N
 Le vaccin contre la COVID-19 cause des troubles de la vision.
 Désinformation
-Satire
+Santé
 Amuser ou tromper
 Grand public
 Autres
@@ -13,3 +13,4 @@ Exemplaire ULaval
 https://www.exemplaire.com.ulaval.ca/reportages/fausses-nouvelles-et-satires-quen-est-il-au-quebec/
 Faible
 ANG
+Health
